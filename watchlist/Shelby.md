@@ -148,6 +148,8 @@ updated: 2026-05-11
 - [Aptos Forum introduction](https://forum.aptosfoundation.org/t/meet-shelby-the-real-time-data-engine-web3-has-been-waiting-for/16511)
 - [Messari profile](https://messari.io/project/shelbyserves/profile)
 
+## 12. 每日跟踪记录
+
 ## 相关
 
 - [[Web3项目研究]]

@@ -144,6 +144,8 @@ updated: 2026-05-11
 - [Circle public testnet press release](https://www.circle.com/pressroom/circle-launches-arc-public-testnet)
 - [GitHub `circlefin/arc-node`](https://github.com/circlefin/arc-node)
 
+## 12. 每日跟踪记录
+
 ## 相关
 
 - [[Web3项目研究]]
