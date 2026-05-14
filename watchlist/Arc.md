@@ -149,3 +149,8 @@ updated: 2026-05-11
 ## 相关
 
 - [[Web3项目研究]]
+
+<!-- watchlist-slug: tweet:2054637805796839553 -->
+- 2026-05-14 | [Twitter] `tweet:2054637805796839553` | [ARC 白皮书发布：网络原生协调资产](https://x.com/arc/status/2054637805796839553) | ARC 定位为网络协调资产，覆盖 staking、治理、验证者激励
+<!-- watchlist-slug: tweet:2054581338637025284 -->
+- 2026-05-14 | [Twitter] `tweet:2054581338637025284` | [SafePal 支持 Arc Testnet 上线](https://x.com/arc/status/2054581338637025284) | SafePal 集成 Arc testnet，可体验 dApps 并领取测试网代币

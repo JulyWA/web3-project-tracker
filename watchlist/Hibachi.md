@@ -184,3 +184,8 @@ Dragonfly 和 Electric Capital 都是加密原生一线/强二线机构，对 De
 ## 相关
 
 - [[Web3项目研究]]
+
+## 12. 每日跟踪记录
+
+<!-- watchlist-slug: tweet:2054556927510593609 -->
+- 2026-05-14 | [Twitter] `tweet:2054556927510593609` | [Hibachi Playoffs 开启，每周 100 万积分 + $HEAT token 暗示](https://x.com/hibachi_xyz/status/2054556927510593609) | Playoffs 赛季启动，1M 积分/周；首次出现 $HEAT token 名称；FX on Arc 即将上线
