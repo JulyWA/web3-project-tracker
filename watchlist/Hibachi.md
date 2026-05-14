@@ -11,7 +11,7 @@ tags:
   - sector/stablecoin-fx
   - sector/zk
 created: 2026-05-13
-updated: 2026-05-13
+updated: 2026-05-14
 ---
 
 # Hibachi
@@ -91,6 +91,46 @@ Dragonfly 和 Electric Capital 都是加密原生一线/强二线机构，对 De
 - 开发信号：GitHub 官方 SDK 有 45 commits，2026-04-23 合并 v0.3.0 release notes；PyPI 最新 `hibachi-xyz 0.3.0` 上传于 2026-04-23
 - 数据：DeFiLlama 显示累计 perp volume 约 $8.3B，30d volume 约 $608M-$753M，OI 约 $1.3M-$1.7M；说明有交易活动，但 OI 规模仍不大
 
+## 7.1 项目进度时间线与积分发放统计
+
+| 日期 / 阶段 | 事件 | 来源可信度 | 对参与判断的影响 |
+|---|---|---|---|
+| 2025-03 | Points 活动已开始运行 | 用户补充 + 第三方空投教程交叉提及；待官方历史公告补证 | 说明当前不是 points 早期，历史奖励池已经错过大半。 |
+| 2025-03-19/20 | 公布 $5M seed，投资方包括 Dragonfly、Electric Capital、Echo | PANews / BlockBeats / Crunchbase 等第三方融资源 | 融资和 points 时间接近，符合“融资后拉早期交易用户”的路径。 |
+| 2026-01-08 至 2026-01-21 | 2026 PnL Grill Off，50,000 points，Top 20 PnL 排名奖励 | 官方 Docs / Chef's Menu | 说明 Hibachi 会用额外交易竞赛调节积分分配，且奖励偏向真实交易能力。 |
+| 2026-02-05 至 2026-02-11 | Daily Flame Roll Lottery，合计 21,000 points，从标准周分配中扣除 | 官方 Docs / Chef's Menu | 小额抽奖型活动存在，但奖励量相对常规周池很小。 |
+| 2026-04/05 | Hibachi Points 页面更新为每周一 3:00 UTC、每 epoch 1,000,000 points | 官方 Docs / Hibachi Points | 当前主规则明确，但历史早期是否一直为 1M/week 需要继续回看公告。 |
+| 2026-05-14 | Playoffs 赛季信号：每周 1M points，出现 $HEAT token 名称，FX on Arc 即将上线 | 官方 X 日报记录 | 新 season 可能重置边际机会；这是当前继续关注的核心理由。 |
+
+### 积分发放估算
+
+- 当前官方规则：每周一 3:00 UTC 分发，每个 epoch 固定 1,000,000 points。
+- 起始时间不确定：已知 points 至少从 2025-03 开始；官方当前 Points 页未写历史启动日。
+- 截至 2026-05-14，最近一次周分发应为 2026-05-11。
+- 如果按 2025-03-03 起算：约 63 个 weekly epoch，约 63,000,000 points。
+- 如果按 2025-03-24 起算：约 60 个 weekly epoch，约 60,000,000 points。
+- 因此，保守估算历史常规池已发约 60M-63M points；若早期周发放量曾为 500K，则实际累计会更低。官方 Docs 中部分旧活动页仍提到 500K weekly pool，需要继续追踪规则变更时间点。
+- 临时活动：PnL Grill Off 的 50,000 points、Daily Flame Roll Lottery 的 21,000 points 都是相对小池，且按官方说明来自当期标准周分配，不应简单叠加为额外总排放。
+
+### 参与人数与分位线
+
+- 公开参与人数：未在官方 docs 中看到全量参与账户数。
+- Top 10% / Top 20% 分位线：未找到公开 leaderboard 分位线；账号内 dashboard 可能能看个人累计 points，但不能替代全局分布。
+- 可继续抓取来源：官方 app dashboard、Fuul leaderboard、Dune Hibachi dashboard、Hibachi data/API 是否后续开放 points 或 rankings endpoint。
+- 当前报告不能伪造“多少人参与 / top 10% 多少分”；这块作为 watchlist 后续重点补数。
+
+### 现在进入是否划算
+
+判断：偏晚，但不是完全没价值；适合“小额真实验证 + 新赛季观察”，不适合高成本刷量。
+
+理由：
+
+- 不利因素：如果从 2025-03 算起，历史常规池可能已经发出约 60M+ points，老用户积分优势明显。
+- 有利因素：官方仍在继续每周分发 1M points，且 2026-05-14 日报记录出现 Playoffs / $HEAT / Arc FX 新叙事，可能代表新 season 或新产品线的边际机会。
+- 成本判断：perp 交易不是免费任务，taker fee、滑点、资金费率和方向亏损都会吞掉收益；为了追历史 leaderboard 不划算。
+- 推荐目标：不要追 top 10%，先追“有效账户 + 少量真实交易 + 可验证 points 入账 + 新 season 资格”。
+- 需要复查：下周一 points 入账后，记录小额交易成本、获得 points、估算 cost per point；如果没有显著 points 或分位优势，降级为观察。
+
 ## 8. 7 维评分
 
 | 维度 | 权重 | 分数 | 依据 |
@@ -162,12 +202,16 @@ Dragonfly 和 Electric Capital 都是加密原生一线/强二线机构，对 De
 | 日期 | 动作 | 成本 | 结果 | 备注 |
 |---|---|---:|---|---|
 | 2026-05-13 | 新建正式 watchlist 项目页 | 0 | 已加入 | L3 深度研究报告作为初始版本 |
+| 2026-05-14 | 补充项目时间线与积分发放统计 | 0 | 已更新 | 明确历史积分池、分位线缺口和当前入场划算度 |
 
 ## 17. 来源
 
 - [Hibachi 官网](https://hibachi.xyz/)
 - [Hibachi Docs](https://docs.hibachi.xyz/)
 - [Hibachi Points](https://docs.hibachi.xyz/hibachi-rewards/hibachi-points)
+- [Chef's Menu - Daily Flame Roll Lottery](https://docs.hibachi.xyz/hibachi-rewards/chefs-menu)
+- [Chef's Menu - 2026 PnL Grill Off](https://docs.hibachi.xyz/hibachi-rewards/chefs-menu-masterchef-competition)
+- [PROVE Staking Boost Campaign](https://docs.hibachi.xyz/hibachi-rewards/usdprove-staking-boost-campaign)
 - [Audits](https://docs.hibachi.xyz/hibachi-docs/audits)
 - [Vaults](https://docs.hibachi.xyz/hibachi-docs/vaults)
 - [Fees](https://docs.hibachi.xyz/hibachi-docs/trading/fees)
