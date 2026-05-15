@@ -146,6 +146,13 @@ updated: 2026-05-11
 
 ## 12. 每日跟踪记录
 
+<!-- watchlist-slug: tweet:2055045497321042084 -->
+- 2026-05-15 | [Twitter] `tweet:2055045497321042084` | [Arc Builder Spotlight: Synthra DEX on Arc testnet](https://x.com/arc/status/2055045497321042084) | Synthra 在 Arc testnet 构建 DEX+perp，5/20 Twitter Live
+<!-- watchlist-slug: tweet:2054974412529836370 -->
+- 2026-05-15 | [Twitter] `tweet:2054974412529836370` | [Arc 官方 Discord 正式开放](https://x.com/arc/status/2054974412529836370) | Arc 开放 Discord，新参与渠道
+<!-- watchlist-slug: blog:/app-kits -->
+- 2026-05-15 | [Blog] `blog:/app-kits` | [App Kits: A Suite of SDKs to Build Onchain](https://arc.network/app-kits) | Arc App Kits SDK 上线，支持 USDC 统一流转集成
+
 ## 相关
 
 - [[Web3项目研究]]
