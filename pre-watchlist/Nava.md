@@ -53,3 +53,15 @@ AI agent guardrails / on-chain verification，官网已有 waitlist 和 docs；�
 下周关注：是否开放开发者任务、测试资格或 demo 申请后的下一步。
 
 来源：[官网](https://navalabs.ai) | [Docs](https://docs.navalabs.ai) | [融资报道](https://fortune.com/2026/04/14/nava-seed-funding-ai-financial-agents/)
+
+### 2026-05-18
+
+本周判断：继续观察，P2 普通观察。
+
+新信号：近 7 天无新公告。官网 email waitlist 仍开放；Private Testnet 仍未开放；GitHub (navalabs-dev) 公开仓库有限；无积分/airdrop/开发者计划公布。CryptoRank 已收录 ICO 页面但 TGE 时间未披露。
+
+机会：如未加入 waitlist，可在官网填 email 留存早期资格，无其他可操作入口。
+
+下周关注：@navaai 是否公布 testnet invite 或 developer program 开放时间。
+
+来源：[官网](https://navalabs.ai) | [Docs](https://docs.navalabs.ai)

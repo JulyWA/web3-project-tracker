@@ -56,3 +56,15 @@ Solana yield exchange 已上线，app/docs/audits/GitHub 可跟踪；继续观�
 下周关注：v2 / strategy vaults 是否上线。
 
 来源：[App](https://app.exponent.finance/income) | [Docs](https://docs.exponent.finance) | [The Block](https://www.theblock.co/post/399630/solana-yield-exchange-exponent-funding-multicoin-capital)
+
+### 2026-05-18
+
+本周判断：继续观察，P1 重点观察。
+
+新信号：v2 私测已开放申请入口 [exponent.finance/apply](https://exponent.finance/apply)，目前限受邀用户和合作伙伴，但可公开申请资格。官方博客确认累计融资升至 $7.1M（Multicoin 领投，Solana Ventures / RockawayX 跟投），计划上线 on-chain interest rate order book 和 strategy vaults。无官方积分/airdrop 声明；第三方 OnRefinance 在 Exponent 市场上提供外部积分倍数（非 Exponent 官方）。
+
+机会：可前往 [exponent.finance/apply](https://exponent.finance/apply) 申请 v2 私测资格，成本极低，作为早期交互记录留存。v2 公测上线后再评估是否增加资金配置。
+
+下周关注：v2 私测邀请是否下发；strategy vaults 和 order book 是否上线；是否出现官方积分/激励机制。
+
+来源：[Exponent Blog - v2 Rebrand](https://www.exponent.finance/blog/introducing-exponent) | [Intellectia - $5M Funding](https://intellectia.ai/news/crypto/exponent-secures-5m-funding-to-expand-solana-platform)
