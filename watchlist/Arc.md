@@ -153,6 +153,11 @@ updated: 2026-05-11
 <!-- watchlist-slug: blog:/app-kits -->
 - 2026-05-15 | [Blog] `blog:/app-kits` | [App Kits: A Suite of SDKs to Build Onchain](https://arc.network/app-kits) | Arc App Kits SDK 上线，支持 USDC 统一流转集成
 
+<!-- watchlist-slug: tweet:2055332386183798962 -->
+- 2026-05-18 | [Twitter] `tweet:2055332386183798962` | [Morpho 确认上线 Arc Mainnet，提供链上借贷基础设施](https://x.com/arc/status/2055332386183798962) | Morpho 将在 Arc Mainnet 上线时提供借贷基础设施，存款/借贷机会将同步开放
+<!-- watchlist-slug: commit:arc-node@cf51a19 -->
+- 2026-05-18 | [GitHub] `commit:arc-node@cf51a19` | [arc-node 新增 release binary workflow](https://github.com/circlefin/arc-node/commit/cf51a199710aaf2e2ae0afa31512c56241d9e29a) | 新增 CI release binary workflow，正在为节点软件准备可分发二进制包
+
 ## 相关
 
 - [[Web3项目研究]]
