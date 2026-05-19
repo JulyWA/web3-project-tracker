@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="refresh" content="300">
+  <title>July 自动化状态</title>
+  <style>
+    :root {
+      color-scheme: light dark;
+      --bg: #f6f7f9;
+      --fg: #17202a;
+      --muted: #657184;
+      --panel: #ffffff;
+      --line: #d8dee8;
+      --ok: #1f8f5f;
+      --bad: #c2413a;
+      --pending: #5266d6;
+      --paused: #7a8495;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root { --bg: #111418; --fg: #e8edf4; --muted: #a2adbb; --panel: #191e24; --line: #303844; }
+    }
+    * { box-sizing: border-box; }
+    body { margin: 0; font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background: var(--bg); color: var(--fg); line-height: 1.45; }
+    header { padding: 28px 32px 18px; background: var(--panel); border-bottom: 1px solid var(--line); }
+    main { padding: 24px 32px 40px; max-width: 1180px; margin: 0 auto; }
+    h1 { margin: 0 0 8px; font-size: 24px; font-weight: 720; letter-spacing: 0; }
+    h2 { font-size: 17px; margin: 0 0 10px; }
+    section { margin-top: 20px; }
+    .muted, td span { color: var(--muted); font-size: 12px; display: block; margin-top: 2px; }
+    .hero { display: flex; align-items: center; gap: 10px; }
+    .hero .dot { width: 12px; height: 12px; }
+    .grid { display: grid; grid-template-columns: repeat(4, minmax(140px, 1fr)); gap: 12px; margin-bottom: 20px; }
+    .card { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 14px 16px; min-height: 86px; }
+    .card strong { display: block; font-size: 26px; margin-top: 4px; }
+    .card .label { color: var(--muted); font-size: 13px; }
+    table { width: 100%; border-collapse: collapse; background: var(--panel); border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
+    th, td { padding: 10px 12px; border-bottom: 1px solid var(--line); text-align: left; vertical-align: top; font-size: 13px; }
+    th { color: var(--muted); font-weight: 650; background: color-mix(in srgb, var(--panel), var(--bg) 35%); }
+    tr:last-child td { border-bottom: 0; }
+    .name { font-weight: 650; }
+    .dot { display: inline-block; width: 9px; height: 9px; border-radius: 50%; margin: 0 8px 0 0; vertical-align: middle; }
+    .dot.ok { background: var(--ok); }
+    .dot.error { background: var(--bad); }
+    .dot.pending { background: var(--pending); }
+    .dot.paused { background: var(--paused); }
+    .pill { display: inline-block; border-radius: 999px; padding: 2px 8px; font-size: 12px; margin: 0; color: white; background: var(--pending); }
+    .pill.error { background: var(--bad); }
+    @media (max-width: 760px) { header, main { padding-left: 16px; padding-right: 16px; } .grid { grid-template-columns: 1fr 1fr; } table { display: block; overflow-x: auto; } }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="hero"><span class="dot ok"></span><h1>July 自动化状态 · 全部正常</h1></div>
+    <div class="muted">生成时间 2026-05-19 11:45:39 · 远程脱敏版 · 不含本机路径、PID、token 或原始日志</div>
+  </header>
+  <main>
+    <div class="grid">
+      <div class="card"><div class="label">正常任务</div><strong>14</strong></div>
+      <div class="card"><div class="label">异常任务</div><strong>0</strong></div>
+      <div class="card"><div class="label">LP 是否越界</div><strong>False</strong></div>
+      <div class="card"><div class="label">项目跟踪日期</div><strong>2026-05-19</strong></div>
+    </div>
+
+    <section>
+      <h2>事件与提醒</h2>
+      <table><tr><th>级别</th><th>来源</th><th>内容</th></tr><tr><td colspan='3' class='muted'>暂无事件。</td></tr></table>
+    </section>
+
+    <section>
+      <h2>任务状态</h2>
+      <table>
+        <tr><th>状态</th><th>任务</th><th>最近成功/尝试</th><th>说明</th></tr>
+        <tr><td><span class='dot ok'></span>正常</td><td class='name'>内存压力监控<span>健康检查</span></td><td>-<span>-</span></td><td>运行正常</td></tr>
+<tr><td><span class='dot ok'></span>正常</td><td class='name'>本地状态面板刷新<span>健康检查</span></td><td>-<span>-</span></td><td>运行正常</td></tr>
+<tr><td><span class='dot ok'></span>正常</td><td class='name'>项目跟踪健康检查<span>健康检查</span></td><td>-<span>-</span></td><td>运行正常</td></tr>
+<tr><td><span class='dot ok'></span>正常</td><td class='name'>Pre-watchlist 周报<span>周任务</span></td><td>2026-05-18 10:48:40<span>24 小时前</span></td><td>运行正常</td></tr>
+<tr><td><span class='dot ok'></span>正常</td><td class='name'>RootData 周提醒<span>周任务</span></td><td>2026-05-18 10:00:04<span>25 小时前</span></td><td>运行正常</td></tr>
+<tr><td><span class='dot ok'></span>正常</td><td class='name'>GitHub 配置备份<span>基础设施</span></td><td>2026-05-18 18:00:06<span>17 小时前</span></td><td>运行正常</td></tr>
+<tr><td><span class='dot ok'></span>正常</td><td class='name'>本地密文刷新<span>基础设施</span></td><td>2026-05-18 18:30:04<span>17 小时前</span></td><td>运行正常</td></tr>
+<tr><td><span class='dot ok'></span>正常</td><td class='name'>团队 Skill 周更<span>备份/共享</span></td><td>2026-05-17 11:30:07<span>2 天前</span></td><td>运行正常</td></tr>
+<tr><td><span class='dot ok'></span>正常</td><td class='name'>每周安全检查<span>安全</span></td><td>2026-05-17 12:31:13<span>47 小时前</span></td><td>运行正常</td></tr>
+<tr><td><span class='dot ok'></span>正常</td><td class='name'>LP 监控<span>常驻</span></td><td>-<span>-</span></td><td>运行正常</td></tr>
+<tr><td><span class='dot ok'></span>正常</td><td class='name'>保持电脑运行<span>常驻</span></td><td>-<span>-</span></td><td>运行正常</td></tr>
+<tr><td><span class='dot ok'></span>正常</td><td class='name'>市场简报<span>每日内容</span></td><td>2026-05-19 09:01:30<span>2 小时前</span></td><td>运行正常</td></tr>
+<tr><td><span class='dot ok'></span>正常</td><td class='name'>项目跟踪日报<span>每日内容</span></td><td>-<span>-</span></td><td>运行正常</td></tr>
+<tr><td><span class='dot ok'></span>正常</td><td class='name'>本地 VPN 刷新<span>网络</span></td><td>-<span>-</span></td><td>运行正常</td></tr>
+      </table>
+    </section>
+  </main>
+</body>
+</html>
