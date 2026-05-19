@@ -158,6 +158,13 @@ updated: 2026-05-11
 <!-- watchlist-slug: commit:arc-node@cf51a19 -->
 - 2026-05-18 | [GitHub] `commit:arc-node@cf51a19` | [arc-node 新增 release binary workflow](https://github.com/circlefin/arc-node/commit/cf51a199710aaf2e2ae0afa31512c56241d9e29a) | 新增 CI release binary workflow，正在为节点软件准备可分发二进制包
 
+<!-- watchlist-slug: tweet:2056415337214857701 -->
+- 2026-05-19 | [Twitter] `tweet:2056415337214857701` | [Circle Developer Grant 申请现已开放](https://x.com/arc/status/2056415337214857701) | Circle 官方 Grant 申请开放，面向在 Arc 上构建真实金融流量 onchain 的团队，里程碑驱动发放
+<!-- watchlist-slug: tweet:2056396660742422618 -->
+- 2026-05-19 | [Twitter] `tweet:2056396660742422618` | [Agora Agent Hackathon（与 @thecanteenapp）进行中](https://x.com/arc/status/2056396660742422618) | Arc testnet 上的 Agora Agent 黑客松，与 Canteen 合作，团队正在构建 agent/prediction market
+<!-- watchlist-slug: tweet:2056389346039873860 -->
+- 2026-05-19 | [Twitter] `tweet:2056389346039873860` | [Bridge Kit 新增支持 Pharos Network](https://x.com/arc/status/2056389346039873860) | 开发者可用 Bridge Kit 在 Pharos 上 10 行代码集成跨链 USDC（CCTP）
+
 ## 相关
 
 - [[Web3项目研究]]
