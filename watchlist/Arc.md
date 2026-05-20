@@ -165,6 +165,9 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2056389346039873860 -->
 - 2026-05-19 | [Twitter] `tweet:2056389346039873860` | [Bridge Kit 新增支持 Pharos Network](https://x.com/arc/status/2056389346039873860) | 开发者可用 Bridge Kit 在 Pharos 上 10 行代码集成跨链 USDC（CCTP）
 
+<!-- watchlist-slug: tweet:2056721538322493723 -->
+- 2026-05-20 | [Twitter] `tweet:2056721538322493723` | [Circle Developer Grant 申请开放，Arc Testnet + Circle 开发者平台](https://x.com/arc/status/2056721538322493723) | Circle Developer Grant 开放申请，支持 Arc Testnet 和 Circle 开发者平台上的构建，5/22 直播答疑
+
 ## 相关
 
 - [[Web3项目研究]]
