@@ -168,6 +168,11 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2056721538322493723 -->
 - 2026-05-20 | [Twitter] `tweet:2056721538322493723` | [Circle Developer Grant 申请开放，Arc Testnet + Circle 开发者平台](https://x.com/arc/status/2056721538322493723) | Circle Developer Grant 开放申请，支持 Arc Testnet 和 Circle 开发者平台上的构建，5/22 直播答疑
 
+<!-- watchlist-slug: tweet:2057129226063757438 -->
+- 2026-05-21 | [Twitter] `tweet:2057129226063757438` | [App Kits: 开发者 SDK 套件页面更新](https://x.com/arc/status/2057129226063757438) | 官方推广 App Kits 页面，含 USDC 跨链桥、stablecoin 发送等 SDK quickstart
+<!-- watchlist-slug: activity:open-sourcing-arc-bug-bounty -->
+- 2026-05-21 | [Blog] `activity:open-sourcing-arc-bug-bounty` | [Open Sourcing Arc: Run Your Own Arc Node and Bug Bounty Program](https://arc.network/blog) | 博客 raw_text 中出现 Bug Bounty 相关内容，无精确 URL 和时间戳，待确认
+
 ## 相关
 
 - [[Web3项目研究]]
