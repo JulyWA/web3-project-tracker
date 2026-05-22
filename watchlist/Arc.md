@@ -173,6 +173,9 @@ updated: 2026-05-11
 <!-- watchlist-slug: activity:open-sourcing-arc-bug-bounty -->
 - 2026-05-21 | [Blog] `activity:open-sourcing-arc-bug-bounty` | [Open Sourcing Arc: Run Your Own Arc Node and Bug Bounty Program](https://arc.network/blog) | 博客 raw_text 中出现 Bug Bounty 相关内容，无精确 URL 和时间戳，待确认
 
+<!-- watchlist-slug: tweet:2057491033810927815 -->
+- 2026-05-22 | [Twitter] `tweet:2057491033810927815` | [Morpho 登陆 Arc 预告](https://x.com/arc/status/2057491033810927815) | Arc 官方转推确认 Morpho 即将入驻 Arc，关注后续 vault/存款入口
+
 ## 相关
 
 - [[Web3项目研究]]
