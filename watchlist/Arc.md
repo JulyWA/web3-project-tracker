@@ -176,6 +176,13 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2057491033810927815 -->
 - 2026-05-22 | [Twitter] `tweet:2057491033810927815` | [Morpho 登陆 Arc 预告](https://x.com/arc/status/2057491033810927815) | Arc 官方转推确认 Morpho 即将入驻 Arc，关注后续 vault/存款入口
 
+<!-- watchlist-slug: tweet:2057840081948332180 -->
+- 2026-05-25 | [Twitter] `tweet:2057840081948332180` | [Circle Developer Grants 开放申请](https://x.com/arc/status/2057840081948332180) | Circle Developer Grants 支持在 Arc 和 Circle 开发者平台上的构建项目
+<!-- watchlist-slug: tweet:2057875231499497750 -->
+- 2026-05-25 | [Twitter] `tweet:2057875231499497750` | [Arc House 地区分会正式上线](https://x.com/arc/status/2057875231499497750) | Arc House 全球地区分会上线，含开发者社区论坛和成员介绍渠道
+<!-- watchlist-slug: release:arc-node@v0.7.1 -->
+- 2026-05-25 | [GitHub] `release:arc-node@v0.7.1` | [arc-node v0.7.1 发布](https://github.com/circlefin/arc-node/releases/tag/v0.7.1) | 8 commits，新增 CHANGELOG 和 BREAKING_CHANGES，节点升级有破坏性变更
+
 ## 相关
 
 - [[Web3项目研究]]
