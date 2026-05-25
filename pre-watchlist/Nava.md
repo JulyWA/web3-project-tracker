@@ -65,3 +65,13 @@ AI agent guardrails / on-chain verification，官网已有 waitlist 和 docs；�
 下周关注：@navaai 是否公布 testnet invite 或 developer program 开放时间。
 
 来源：[官网](https://navalabs.ai) | [Docs](https://docs.navalabs.ai)
+
+### 2026-05-25
+
+本周判断：继续观察，P2 普通观察。
+
+新信号：本周无新公告。官网文档记录 TypeScript / Python SDK 已可用，私测 waitlist 仍开放（navalabs.ai/#contact），但实际 testnet 访问仍为 API key 邀请制，无公开开放信号。CryptoRank ICO 页面收录但 TGE 时间未披露。
+
+机会：如未加入 waitlist，可在官网留 email 保持早期资格，无其他可操作入口。
+
+来源：[官网](https://navalabs.ai) | [Docs](https://docs.navalabs.ai)

@@ -68,3 +68,13 @@ Solana yield exchange 已上线，app/docs/audits/GitHub 可跟踪；继续观�
 下周关注：v2 私测邀请是否下发；strategy vaults 和 order book 是否上线；是否出现官方积分/激励机制。
 
 来源：[Exponent Blog - v2 Rebrand](https://www.exponent.finance/blog/introducing-exponent) | [Intellectia - $5M Funding](https://intellectia.ai/news/crypto/exponent-secures-5m-funding-to-expand-solana-platform)
+
+### 2026-05-25
+
+本周判断：继续观察，P1 重点观察。
+
+新信号：v2 私测已完成首批小组用户筛选，部分选定用户和合作伙伴已进入 v2 beta；官方 X 推文再次宣传新品牌方向（yield asset issuers + onchain participants 双侧服务）。v1 app 确认将在 v2 公测上线后迁移到 v1.exponent.finance。无官方积分/airdrop 公告。
+
+机会：上周已申请 v2 资格的情况下本周无新操作；等待 v2 私测邀请或 strategy vaults / order book 公开上线。
+
+来源：[X - @ExponentFinance](https://x.com/ExponentFinance/status/2031753696993054979) | [Blog - New Brand](https://www.exponent.finance/blog/introducing-exponent)

@@ -40,3 +40,13 @@ Osero 是 Sky/Plasma 背书的 stablecoin yield / savings 项目，方向比纯�
 下周关注：Osero App 是否开放公开访问；是否出现积分/收益活动/早期存款激励；审计和地区限制披露。
 
 来源：[CoinDesk](https://www.coindesk.com/business/2026/05/12/stablecoin-yield-infrastructure-project-raises-usd13-5m-in-round-led-by-sky-ecosystem) | [Stablewatch](https://www.stablewatch.io/research/stablewatch-incubates-osero-with-a-13-5m-raise) | [Docs](https://docs.osero.org/)
+
+### 2026-05-25
+
+本周判断：继续观察，P3 低优先级。
+
+新信号：无。$13.5M 融资为上周信号，本周无新公告。创始人上周明确拒绝披露产品上线时间表；Osero App / Earn / Foundry 均未见开放入口。无积分/waitlist/airdrop 信号。
+
+机会：暂不需要操作。等待 Osero App 公开访问入口或激励机制披露。
+
+来源：[Osero 官网](https://www.osero.org/)
