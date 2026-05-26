@@ -183,6 +183,9 @@ updated: 2026-05-11
 <!-- watchlist-slug: release:arc-node@v0.7.1 -->
 - 2026-05-25 | [GitHub] `release:arc-node@v0.7.1` | [arc-node v0.7.1 发布](https://github.com/circlefin/arc-node/releases/tag/v0.7.1) | 8 commits，新增 CHANGELOG 和 BREAKING_CHANGES，节点升级有破坏性变更
 
+<!-- watchlist-slug: tweet:2059363947686646057 -->
+- 2026-05-27 | [Twitter] `tweet:2059363947686646057` | [Arc Nanopayments Starter 发布](https://x.com/arc/status/2059363947686646057) | x402 协议微额支付参考实现，面向 AI agent 支付场景
+
 ## 相关
 
 - [[Web3项目研究]]
