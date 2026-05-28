@@ -186,6 +186,9 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2059363947686646057 -->
 - 2026-05-27 | [Twitter] `tweet:2059363947686646057` | [Arc Nanopayments Starter 发布](https://x.com/arc/status/2059363947686646057) | x402 协议微额支付参考实现，面向 AI agent 支付场景
 
+<!-- watchlist-slug: tweet:2060115873990595001 -->
+- 2026-05-29 | [Twitter] `tweet:2060115873990595001` | [Arc x Encode Club 开发者系列招募开放](https://x.com/arc/status/2060115873990595001) | Arc Programmable Money Developer Series 开放报名，4周async bootcamp + hackathon + accelerator
+
 ## 相关
 
 - [[Web3项目研究]]

@@ -231,6 +231,9 @@ Dragonfly 和 Electric Capital 都是加密原生一线/强二线机构，对 De
 <!-- watchlist-slug: tweet:2057102353526878252 -->
 - 2026-05-21 | [Twitter] `tweet:2057102353526878252` | [Arsenal 球迷本周 bonus Hibachi Points](https://x.com/hibachi_xyz/status/2057102353526878252) | 官方推文：本周 Hibachi Arsenal 球迷可获 bonus points，措辞非正式，无专属链接
 
+<!-- watchlist-slug: tweet:2060073372646564315 -->
+- 2026-05-29 | [Twitter] `tweet:2060073372646564315` | [The Playoffs Week 2 结束，FX perps 上线，FX 交易积分加成最高 +50%](https://x.com/hibachi_xyz/status/2060073372646564315) | 总积分56.5M，周涨+1.80%，FX交易积分最高
+
 ## 相关
 
 - [[Web3项目研究]]
