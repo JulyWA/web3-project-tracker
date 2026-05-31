@@ -189,6 +189,13 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2060115873990595001 -->
 - 2026-05-29 | [Twitter] `tweet:2060115873990595001` | [Arc x Encode Club 开发者系列招募开放](https://x.com/arc/status/2060115873990595001) | Arc Programmable Money Developer Series 开放报名，4周async bootcamp + hackathon + accelerator
 
+<!-- watchlist-slug: tweet:2060421517071253813 -->
+- 2026-06-01 | [Twitter] `tweet:2060421517071253813` | [Aave V4 Temp Check 部署至 Arc](https://x.com/arc/status/2060421517071253813) | Aave 官方发起治理 Temp Check，若通过将在 Arc 上部署 Aave V4 借贷基础设施
+<!-- watchlist-slug: tweet:2060376870198104148 -->
+- 2026-06-01 | [Twitter] `tweet:2060376870198104148` | [Circle 发布后量子安全白皮书](https://x.com/arc/status/2060376870198104148) | Circle 发布 Arc 抗量子设计白皮书，主网上线时量子安全 beta 同步上线
+<!-- watchlist-slug: blog:/post-quantum-whitepaper -->
+- 2026-06-01 | [Blog] `blog:/post-quantum-whitepaper` | [Post-Quantum whitepaper](https://arc.network/post-quantum-whitepaper) | Circle Arc 官方后量子安全路线图白皮书全文
+
 ## 相关
 
 - [[Web3项目研究]]

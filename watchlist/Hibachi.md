@@ -234,6 +234,13 @@ Dragonfly 和 Electric Capital 都是加密原生一线/强二线机构，对 De
 <!-- watchlist-slug: tweet:2060073372646564315 -->
 - 2026-05-29 | [Twitter] `tweet:2060073372646564315` | [The Playoffs Week 2 结束，FX perps 上线，FX 交易积分加成最高 +50%](https://x.com/hibachi_xyz/status/2060073372646564315) | 总积分56.5M，周涨+1.80%，FX交易积分最高
 
+<!-- watchlist-slug: tweet:2060360106345443597 -->
+- 2026-06-01 | [Twitter] `tweet:2060360106345443597` | [团队推文出现 $HEAT 代币符号](https://x.com/hibachi_xyz/status/2060360106345443597) | 官方推文结尾出现 $HEAT，疑似代币符号首次出现，官方未确认 TGE
+<!-- watchlist-slug: tweet:2060403608613458122 -->
+- 2026-06-01 | [Twitter] `tweet:2060403608613458122` | [KBot 完成 Hibachi API 集成](https://x.com/hibachi_xyz/status/2060403608613458122) | 第三方自动化交易机器人 KBot 接入 Hibachi API
+<!-- watchlist-slug: commit:hibachi_sdk@f392676 -->
+- 2026-06-01 | [GitHub] `commit:hibachi_sdk@f392676` | [hibachi_sdk v0.3.1 发布](https://github.com/hibachi-xyz/hibachi_sdk/commit/f39267660f67ab36d2d99a34c910e5366c0aa2d3) | 15 commits，新增 klines 可选参数和 trigger direction 示例，SDK 持续迭代
+
 ## 相关
 
 - [[Web3项目研究]]
