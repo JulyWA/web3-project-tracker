@@ -241,6 +241,9 @@ Dragonfly 和 Electric Capital 都是加密原生一线/强二线机构，对 De
 <!-- watchlist-slug: commit:hibachi_sdk@f392676 -->
 - 2026-06-01 | [GitHub] `commit:hibachi_sdk@f392676` | [hibachi_sdk v0.3.1 发布](https://github.com/hibachi-xyz/hibachi_sdk/commit/f39267660f67ab36d2d99a34c910e5366c0aa2d3) | 15 commits，新增 klines 可选参数和 trigger direction 示例，SDK 持续迭代
 
+<!-- watchlist-slug: tweet:2061454793369919859 -->
+- 2026-06-02 | [Twitter] `tweet:2061454793369919859` | [Playoffs Week 3 积分更新，交易 FX 可额外获得最多 50% 积分](https://x.com/hibachi_xyz/status/2061454793369919859) | Playoffs 第三周结束，流通积分总量 57.5M（周环比 +1.77%），交易 FX 品种可额外获得最多 50% 积分加成
+
 ## 相关
 
 - [[Web3项目研究]]
