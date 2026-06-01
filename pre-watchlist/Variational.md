@@ -26,5 +26,33 @@ Variational 是本批最值得继续观察的项目。它不是只有融资新�
 | 日期 | 动作 | 状态 | 备注 |
 |---|---|---|---|
 | 2026-05-25 | 新建 pre-watchlist 项目页 | active | 通过 pre-watchlist upsert/intake 首次加入或更新 |
+| 2026-06-01 | 周报复盘 | active → 升级候选 | 确认官方 Points 程序 + VAR 50% 社区分配，建议升级 |
+
+## 3. 关键链接
+
+- 官网：[variational.io](https://www.variational.io/)
+- X / Twitter：[x.com/variational_io](https://x.com/variational_io)
+- Docs：[docs.variational.io](https://docs.variational.io/)
+- App / Omni：[omni.variational.io](https://omni.variational.io/)
+- Points 文档：[docs.variational.io/omni/rewards/points](https://docs.variational.io/omni/rewards/points)
+- Testnet 入门：[docs.variational.io/variational-omni/getting-started-with-omni-testnet](https://docs.variational.io/variational-omni/getting-started-with-omni-testnet)
+- GitHub：[github.com/variational-io](https://github.com/variational-io)
+- 融资报道：[Fortune](https://fortune.com/2026/05/20/variational-raises-50-million-series-a/)
 
 ## 4. 每周跟踪记录
+
+### 2026-06-01
+
+本周判断：升级候选。
+
+新信号：
+- 官方 Points 程序自 2025-12-17 上线，每周分发 ~15 万积分（每周五 0:00 UTC 结算），本赛季结束时间不晚于 Q3 2026（2026-09-30）。
+- VAR 代币确认 50% 社区分配比例，Points 即为积分 → 代币的核心路径。
+- Omni 测试网文档明确可免资金参与积累积分记录；主网交易需要保证金并承担 perp 风险。
+- 推荐人机制：推荐人每 10 积分奖励 1 积分，另有 referral spread USDC 分成。
+
+判断：Points 程序已是官方确认的 airdrop 前置机制，有明确截止（Q3 2026）。测试网路径成本低；若升级正式 watchlist，优先走测试网积分路径，评估后再决定主网仓位。建议升级。
+
+风险：Perp 交易有资金损失风险（主网路径）；VAR token 具体分配时间和比例未官宣，积分价值仍不确定。
+
+来源：[Points 文档](https://docs.variational.io/omni/rewards/points) | [Airdrop 指南（bittime.com）](https://www.bittime.com/en/blog/airdrop-variational-testnet) | [X 分析帖](https://x.com/Basesol_NFT/status/2003466651463770358)

@@ -78,3 +78,13 @@ Solana yield exchange 已上线，app/docs/audits/GitHub 可跟踪；继续观�
 机会：上周已申请 v2 资格的情况下本周无新操作；等待 v2 私测邀请或 strategy vaults / order book 公开上线。
 
 来源：[X - @ExponentFinance](https://x.com/ExponentFinance/status/2031753696993054979) | [Blog - New Brand](https://www.exponent.finance/blog/introducing-exponent)
+
+### 2026-06-01
+
+本周判断：继续观察，P1 重点观察。
+
+新信号：无。v2 私测第一批用户已于五月底完成筛选（上周信号），本周无新公告、无官方积分/airdrop 宣布。TVL 峰值此前达 $132M，产品运行稳定。
+
+机会：如已申请 v2 资格，本周无新操作；等待 strategy vaults / order book 公开上线，届时重新评估参与价值。
+
+来源：[官方 X](https://x.com/ExponentFinance) | [Blog](https://www.exponent.finance/blog/introducing-exponent)
