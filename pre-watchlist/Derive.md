@@ -1,8 +1,8 @@
 ---
-status: watchlist
+status: pre-watchlist
 created: 2026-06-03
 updated: 2026-06-03
-public_project_page: https://github.com/JulyWA/web3-project-tracker/blob/main/watchlist/Derive.md
+public_project_page: https://github.com/JulyWA/web3-project-tracker/blob/main/pre-watchlist/Derive.md
 ---
 
 # Derive 完整研究报告
@@ -354,5 +354,6 @@ public_project_page: https://github.com/JulyWA/web3-project-tracker/blob/main/wa
 |---|---:|---:|---|---|
 | 2026-06-03 | 新建正式 watchlist 项目页 | 0 | watchlist / active | 通过 tracker.py add 首次加入 |
 | 2026-06-03 | 补充 L3 初始研报 | 78 | watchlist / active | 已补融资、团队、竞品、奖励进度、成本和后续跟踪规则 |
+| 2026-06-03 | 降级到 pre-watchlist | 78 | pre-watchlist / active | 已 TGE，普通奖励以 stDRV 为主，OP/DRV 大池偏 MM；先观察 reward/fee 与 vault 风险再决定是否升级 |
 
 ## 18. 每日跟踪记录
