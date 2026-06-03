@@ -196,6 +196,11 @@ updated: 2026-05-11
 <!-- watchlist-slug: blog:/post-quantum-whitepaper -->
 - 2026-06-01 | [Blog] `blog:/post-quantum-whitepaper` | [Post-Quantum whitepaper](https://arc.network/post-quantum-whitepaper) | Circle Arc 官方后量子安全路线图白皮书全文
 
+<!-- watchlist-slug: tweet:2062148135313404330 -->
+- 2026-06-04 | [Twitter] `tweet:2062148135313404330` | [Arc Testnet + Circle CCTP pay first settle later demo](https://x.com/arc/status/2062148135313404330) | @hj_chen 演示 Arc Testnet → Sepolia CCTP pay first, settle later 模式，repo 可 clone 参与
+<!-- watchlist-slug: tweet:2062160343552471173 -->
+- 2026-06-04 | [Twitter] `tweet:2062160343552471173` | [Arc AI 代理基础设施定位推文](https://x.com/arc/status/2062160343552471173) | Arc 阐述 AI 代理经济基础设施定位：USDC gas、确定性终局、可编程结算逻辑
+
 ## 相关
 
 - [[Web3项目研究]]
