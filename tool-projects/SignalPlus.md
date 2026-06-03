@@ -50,7 +50,7 @@ tags:
 SignalPlus 官方对自己的定位是 digital asset options trading platform，核心产品包括：
 
 - Options Trading Dashboard：期权定价、分析、流动性聚合、多交易所连接。
-- Live Risk / PnL：实时持仓、日内风险暴露、按 Greeks / expiry / strike 拆分 PnL。
+- Live Risk / PnL：实时头寸、日内风险暴露、按 Greeks / expiry / strike 拆分 PnL。
 - Volatility Lab：term structure、model volatility smile、model volatility surface、7D RV momentum 等波动率分析。
 - Smart Dealing：多腿订单执行、降低滑点、自动计算 gamma / vega neutral offsets。
 - Risk Scenario：压力测试与情景分析。
@@ -104,7 +104,7 @@ SignalPlus RFQ Open API 已披露 Deribit、Bybit、Bullish 三类接口文档�
 
 Dashboard 显示 Live Risk / PnL、Risk Scenario、Dynamic Delta Hedge，对当前套利研究最有价值的是：
 
-- 持仓 Greeks 聚合。
+- 头寸 Greeks 聚合。
 - 按 expiry / strike 拆分风险。
 - 情景压力测试。
 - Delta hedge 规则和通知机制。
