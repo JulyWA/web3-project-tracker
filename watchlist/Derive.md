@@ -108,16 +108,17 @@ public_project_page: https://github.com/JulyWA/web3-project-tracker/blob/main/wa
 | 2026-02-03 | Variant 建立显著 DRV 仓位 / partnership | 官方 Insights | 机构背书增强，注意不是传统融资额披露 |
 | 2026-03 | FalconX 转载研究：Derive 周 options volume 创高、奖励约 50K DRV/week、staking rewards 约 250K DRV/week | 官方 Insights / FalconX source | 说明奖励池较 TGE 初期下降，回收比需动态计算 |
 | 2026-06-03 | 首次加入 July watchlist | 本档案 | 后续跟踪 rewards、buyback、volume/OI、API/安全更新 |
+| 2026-06-03 | 官方 app 截图复核 rewards / leaderboard / programs / referrals / legacy earn | Derive app 实测截图 | 当前普通 Rewards 页显示 50,000 stDRV trading rewards、100,000 stDRV staking rewards；MM Programs 显示 OPTIONS-MAJ 400,000 DRV + 32,000 OP |
 
 - 积分 / 活动启动时间：DRV Launch Program 于 2025-01-13 公布，TGE 后以 weekly epoch 运行；Retail Trading Rewards 文档约 2026 年春更新，当前说明为交易/金库存款赚 stDRV。
-- 当前 epoch / season：weekly epoch；具体当前周编号需从 `app.derive.xyz/rewards` 或 API 抓取。
-- 每期固定发放量：官方 token docs 写“up to 2,500,000 DRV weekly for trading and liquidity programs”，但 2026-03 研究文中提到 trading rewards 约 50K DRV/week，staking rewards 约 250K DRV/week；实际以 rewards 页为准。
+- 当前 epoch / season：weekly epoch；2026-06-03 app 截图显示本周剩余约 6d 21h，说明刚进入新一周周期。
+- 每期固定发放量：官方 token docs 写“up to 2,500,000 DRV weekly for trading and liquidity programs”，但当前 app 普通 Rewards 页显示本周 50,000 stDRV trading rewards + 100,000 stDRV staking rewards；MM Programs 页面另有 OPTIONS-MAJ 400,000 DRV + 32,000 OP，周期 May 6 - Jun 3。
 - 临时活动 / boost / multiplier：DRV Launch Program 提到部分 vault-generated low-fee strategies 或新市场流动性可最高 5x points boost；需跟踪具体 market / vault 页面。
 - 截至今天估算累计发放：若从 2025-01-13 至 2026-06-03，约 72 个 weekly epoch。按 50K DRV/week 交易奖励估算约 360 万 DRV；按早期首周 100 万 + 上限 250 万/week 的理论上限可到 1.8 亿 DRV 级别。由于未使用奖励会回 DAO treasury，不能把上限当实际发放。
 - 已错过奖励池：TGE/airdrop、首周 100 万 DRV pool、2025 年大部分 weekly rewards 已错过。
-- 未来可争取奖励池：持续 weekly stDRV/DRV rewards、可能的 OP incentives、vault boost、market maker / taker program、referral、altcoin market launch 活动。
-- 参与人数 / 活跃账户数：未公开，待通过 rewards leaderboard/API 或 Dune/自建抓取确认。
-- Top 1% / Top 5% / Top 10% / Top 20% 分位线：未公开，待抓取。当前不应估算。
+- 未来可争取奖励池：普通账户主要看 weekly stDRV trading / staking rewards；专业账户可看 MM Programs 的 DRV/OP 池、RFQ Maker、referral、altcoin market launch 或 vault boost。
+- 参与人数 / 活跃账户数：未公开总人数。Leaderboard 页面可见至少 27 个账户排名，但没有总参与人数或分位统计。
+- Top 1% / Top 5% / Top 10% / Top 20% 分位线：官方未公开分位线。按截图的 Last Month Overall leaderboard，rank 10 volume 约 49.49M 美元、rank 20 volume 约 18.14M 美元，只能作为头部交易量门槛参考，不能等同奖励分位。
 - 当前账户从 0 开始的可达目标：适合建立真实交易账户和策略历史；不适合追求历史分位。
 - 单位 points 成本估算：基础规则曾为每 1 美元 trading fees = 100 points，因此 1 point 的直接费用成本约 0.01 美元/100 = 0.0001 美元，不含滑点、方向亏损、资金费率、清算风险和时间成本。最终 stDRV 回报取决于全体费用池占比和当周奖励量。
 - 现在进入是否划算：只对“本来就会交易 options/perps，或有低风险对冲/做市/套利策略”的账户划算；为了奖励空转刷量不划算。
@@ -129,19 +130,20 @@ public_project_page: https://github.com/JulyWA/web3-project-tracker/blob/main/wa
 
 | 模块 | 面向对象 | 奖励 / 计分方式 | 当前判断 |
 |---|---|---|---|
-| Retail Trading Rewards | 普通交易者 / vault depositor | 官方 docs 写明交易或存入 vault 可按 fees pro-rata 获得 stDRV；奖励每周计算、审计、通常在 epoch 结束后一周发放 | 这是 July 侧最相关入口，需要每周看 rewards 页实际池子 |
+| Retail Trading Rewards | 普通交易者 / vault depositor | 官方 docs 写明交易或存入 vault 可按 fees pro-rata 获得 stDRV；奖励每周计算、审计、通常在 epoch 结束后一周发放 | 当前 app 显示本周 50,000 stDRV trading rewards，July 侧最相关 |
 | DRV Launch Program | TGE 后活跃用户 | 2025-01-13 公告：weekly epochs；首周 100 万 DRV pool；每 1 美元 trading fees = 100 points；部分 vault / 新市场最高 5x boost；推荐人获得被推荐费用 10% 的 points | 说明 Derive 确实存在 points 机制，但 points 是奖励兑换/分配账本，不是未发币空投积分 |
-| Public Trading Incentives | 公开交易者 / 做市参与者 | Institutional rewards 文档写“points on net taker fees paid”，并显示 10K OP weekly public rewards | 可能仍有效但需以 `app.derive.xyz/rewards` 当周展示为准 |
-| Institutional / MM Rewards | 做市商 / 大体量 taker | 60K OP / 28-day epoch 给 MM；最多 50 万 USDC / 28-day exchange rebate；1M DRV MM pool 曾用于做市激励 | 普通用户不适合直接对标，除非有 API/做市能力 |
-| Staking Rewards | DRV / stDRV holder | stDRV 参与治理和 staking rewards；旧 Help Center 写初始 staking rewards up to 1.15M DRV/week，6 个月后下降并转向 buyback-funded rewards | 适合跟踪 APR 和 unlock/penalty，不是低成本空投 |
+| Public Trading Incentives | 公开交易者 / 做市参与者 | Institutional rewards 文档写“points on net taker fees paid”，并显示过 10K OP weekly public rewards | 当前普通 Rewards 页未显示 OP；应降级为“历史/文档口径，待确认” |
+| Institutional / MM Rewards | 做市商 / 大体量 taker | 60K OP / 28-day epoch 给 MM；最多 50 万 USDC / 28-day exchange rebate；1M DRV MM pool 曾用于做市激励 | 当前 app Programs 页显示 OPTIONS-MAJ: 400,000 DRV + 32,000 OP，偏专业/API/MM |
+| Staking Rewards | DRV / stDRV holder | stDRV 参与治理和 staking rewards；旧 Help Center 写初始 staking rewards up to 1.15M DRV/week，6 个月后下降并转向 buyback-funded rewards | 当前 app 显示本周 100,000 stDRV staking rewards |
 | Buybacks | DRV 生态 | 当前 docs 写协议收入一部分用于 DRV buybacks；不同页面有 25%/35% 口径差异 | 需跟踪最新治理/Docs，作为奖励可持续性指标 |
 
 ### 7.2.2 是否有积分
 
 - 有。Derive 在 DRV Launch Program 中明确使用 points：每 1 美元 trading fees = 100 points；推荐奖励为被推荐人 fees 对应 points 的 10%；部分 vault / 新市场流动性计划可最高 5x boost。
 - 这些 points 的性质更像“按交易费用贡献计算的奖励分配凭证”，不是 Hibachi 那类未发币前的空投积分。
-- 当前 Retail Rewards docs 的主表述已经转向 stDRV rewards：交易和 vault deposits 按 fees / contribution pro-rata 分配，weekly epoch 计算和审计。
-- 结论：Derive 有积分，但积分价值高度依赖当周 reward pool、全体费用、个人费用占比和 DRV/stDRV 价格；不能只看 points 数字。
+- 当前 Retail Rewards docs 和 app 的主表述已经转向 stDRV rewards：交易和 vault deposits 按 fees / contribution pro-rata 分配，weekly epoch 计算和审计。
+- 当前 app 页面没有直接显示 points 字段，而是显示 rewards、leaderboard、fees、volume、MM score。因此 points 更像历史/后端分配口径，实操上应直接跟踪 paid fees、volume、reward estimate 和 stDRV/DRV/OP 池子。
+- 结论：Derive 有积分机制的历史依据，但当前前端更强调 rewards 和 leaderboard；不能按“积分越多越可能空投”来理解。
 
 ### 7.2.3 是否还有发币计划
 
@@ -167,7 +169,17 @@ public_project_page: https://github.com/JulyWA/web3-project-tracker/blob/main/wa
 - 文档说明 best fee tiers 需要按项目分别满足 stDRV 要求，例如 options 和 perps 同时最高等级可能需要 1M stDRV。
 - Wash trading 会导致取消奖励资格；因此不能用自成交或无策略刷量追 rewards。
 
-### 7.2.5 July 侧收益判断框架
+### 7.2.5 当前 app 截图与搜索资料的出入
+
+| 项目 | 搜索 / 文档口径 | 当前 app 截图口径 | 影响 |
+|---|---|---|---|
+| 普通 Rewards | docs 曾写 stDRV，旧 Help Center / institutional docs 曾出现 OP public rewards | Rewards 页显示 This Week: 50,000 stDRV trading rewards、100,000 stDRV staking rewards；Reward Events 中当前钱包 no rewards found | 普通用户以 stDRV 为主，OP 不应作为默认普通用户收益假设 |
+| OP / DRV 奖励 | Institutional 文档写 MM、taker、public OP/DRV incentives | Programs 页 OPTIONS-MAJ 显示 400,000 DRV + 32,000 OP，表格按 coverage/quality/score 分配 | OP/DRV 更偏 Market Maker Programs，需要做市或 API 能力 |
+| Leaderboard | 需要确认是否有 points / 分位 | Leaderboard 显示 Overall / Realized PnL，可按 Last Month 看 wallet、trades、fees、volume / PnL | 有可量化头部门槛，但不是 points leaderboard |
+| Referrals | DRV Launch Program 曾写 referral 可得被推荐 fees 10% points | Referrals 页当前钱包无 referral code，需要 Apply For Referral Program | 推荐计划存在申请门槛，不是所有账户自动可用 |
+| Vaults | docs 写 vault deposits 可参与 rewards / boost | legacy Earn 页显示 Vaults 与 Lend USDC，但顶部提示 legacy 已停止，主交易入口迁移到 Derive Pro | vault 需要单独评估新旧入口、策略风险和是否仍计入 rewards |
+
+### 7.2.6 July 侧收益判断框架
 
 | 问题 | 判断方式 | 当前结论 |
 |---|---|---|
@@ -177,14 +189,49 @@ public_project_page: https://github.com/JulyWA/web3-project-tracker/blob/main/wa
 | vault 是否更合适？ | vault 是否有 boost、是否自动产生费用 points、是否有本金/策略回撤 | 可能比裸交易更适合观察，但需单独评估 vault 风险 |
 | 最该监控什么？ | reward pool、fee tier、boost、DRV price、stDRV unlock、weekly buyback、全站 fees | 这些应进入 Derive 日报重点 |
 
-### 7.2.6 后续需要补抓的数据
+### 7.2.7 后续需要补抓的数据
 
-- `app.derive.xyz/rewards` 当前 weekly stDRV/DRV/OP pool、epoch end time、claimable / estimated rewards。
+- `app.derive.xyz/rewards` 当前 weekly stDRV trading/staking pool、epoch end time、claimable / estimated rewards。
 - 当前账户 paid fees、points、reward estimate、fee tier。
-- 全站 weekly fees 与 public rewards pool，用于估算边际 reward/fee。
+- 全站 weekly fees 与 rewards pool，用于估算边际 reward/fee。
 - 是否存在 leaderboard / participants count / top 10% threshold；若没有公开，就明确记录“未公开”。
 - 最新 fee schedule URL 和版本，避免旧 Help Center 与新 Institutional fee docs 混用。
 - staking APR、stDRV total staked、unlock penalty、weekly buyback 实际数量。
+- Programs 页各 program 的 DRV/OP 池、date range、score 公式、最低做市门槛。
+
+## 7.3 Vault / Earn 机会补充
+
+### 7.3.1 当前页面状态
+
+- 入口：侧边栏有 `Vaults`，截图使用的是 `legacy.derive.xyz/earn`。
+- 重要提示：legacy 页面顶部提示 Derive Pro (`app.derive.xyz`) 已成为主要交易界面，legacy trading interface 已正式停止；因此 vault 是否继续作为主入口，需要优先确认 `app.derive.xyz` 内的新 Vaults 页面。
+- Lend USDC：截图显示 USDC total supply 约 51,799,681 USDC，Supply APY 约 +0.958%。
+- Vaults 总存款：截图显示 deposited 约 1,915,063 美元。
+
+### 7.3.2 截图可见 vault 列表
+
+| Vault | 资产 | TVL / 数量 | APY / 预估收益 | 策略标签 | 初步判断 |
+|---|---|---:|---:|---|---|
+| Basis Traded weETH | weETH | 约 1.14M 美元 / 523 weETH | Est 5-20% + incentives | Bullish ETH | 体量最大，收益来自 basis / options / incentives，需看回撤与赎回 |
+| Basis Traded LBTC | LBTC | 约 578K 美元 / 7.85 LBTC | Est 5-20% + incentives | Bullish BTC | BTC 方向敞口，需看策略是否真的 limited downside |
+| weETH Harvest | weETH | 约 84.3K 美元 / 41 weETH | +8.15% + incentives | Trending ETH | 小体量，收益率较高但容量有限 |
+| rsETH Harvest | rsETH | 约 39.3K 美元 / 19.67 rsETH | +2.41% + incentives | Trending ETH | 规模较小，收益一般 |
+| rswETH Harvest | rswETH | 约 38.4K 美元 / 19.2 rswETH | +6.50% + incentives | Trending ETH | 规模较小，需看流动性和退出成本 |
+| LBTC Maxi | LBTC | 截图可见约 10.73K 美元 | Est 8-30% + incentives | Bullish BTC / Limited Downside | 高预估收益但极小池子，风险和容量都要谨慎 |
+
+### 7.3.3 Vault 与奖励计划的关系
+
+- 官方 Retail Rewards 文档写明 vault deposits 可获得 rewards，且部分 vault-related trades 可能有 fee boosts。
+- DRV Launch Program 写明 vault-generated low-fee strategies 或新 market liquidity initiatives 可获得最高 5x points boost。
+- 当前截图没有直接显示每个 vault 对应的 stDRV/points boost 倍数，只显示 APY 与激励图标；因此不能直接把 vault APY 当作最终收益。
+- Vault 更适合“低频占位 + 观察 rewards”而不是刷交易量，但风险不是零：策略本身可能承担方向、波动率、基差、抵押资产、赎回流动性和智能合约风险。
+
+### 7.3.4 Vault 参与建议
+
+- 优先只做小额验证，记录：deposit asset、vault TVL、APY、激励图标、申赎规则、实际到账 rewards。
+- 不把 legacy vault 作为主要仓位入口，除非确认 Derive Pro 新入口仍支持同一策略且 rewards 继续计入。
+- 如果要参与，优先看 TVL 较高、策略解释清楚、APY 不夸张的 vault；极小 TVL + 高 APY 的池子只适合观察。
+- 下一步需要补：每个 vault 的策略说明、历史收益曲线、最大回撤、赎回期、是否收管理/绩效费、是否计入当前 50,000 stDRV trading rewards 或另有 vault pool。
 
 ## 8. 7 维评分
 
@@ -294,6 +341,7 @@ public_project_page: https://github.com/JulyWA/web3-project-tracker/blob/main/wa
 - Derive x Ethena：https://insights.derive.xyz/derive-x-ethena/
 - Variant Invests in Derive：https://insights.derive.xyz/variant-invests-in-derive-to-build-the-volatility-layer-onchain/
 - Exploring Derive's Record Options Surge：https://insights.derive.xyz/exploring-derives-record-options-surge/
+- Derive app rewards / leaderboard / programs / referrals / legacy earn screenshots：July 提供，2026-06-03
 - DeFiLlama Derive：https://defillama.com/protocol/derive
 - CryptoRank Derive：https://cryptorank.io/ico/derive
 - RootData Derive：https://www.rootdata.com/Projects/detail/Derive?k=ODcz&t=2
