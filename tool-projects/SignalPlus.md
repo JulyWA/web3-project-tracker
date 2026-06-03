@@ -73,6 +73,65 @@ SignalPlus 官方对自己的定位是 digital asset options trading platform，
 
 建议归类：`tool-project / options-data-infra / arbitrage-research`。
 
+## 3.1 团队与组织
+
+### 3.1.1 组织信息
+
+- 成立时间：2021 年。LinkedIn 页面显示 SignalPlus incorporated in 2021。
+- 总部 / 地点：公开信息存在两个口径。LinkedIn 显示总部为 Singapore，并列出 Singapore 与 Hong Kong 地址；2026-06 PRNewswire 新闻稿则称公司 headquartered in Hong Kong。更合理的理解是：团队和业务横跨新加坡与香港，香港是融资和机构业务披露中的核心地区。
+- 公司规模：LinkedIn 显示 51-200 employees；搜索结果页曾显示 20/30 employees 的抓取口径，可能因为 LinkedIn 未登录页面或抓取时间不同。报告以 51-200 作为最新公开口径，同时保留“需人工核验”的备注。
+- 业务定位：LinkedIn 自述为 Investment Banking analytics + fintech architecture back-end + modern UI/UX 的数字资产期权平台；官方融资稿将其定位为 institutional-grade derivatives trading infrastructure。
+
+### 3.1.2 核心成员线索
+
+| 人员 | 公开角色 | 背景 / 备注 | 可信度 |
+|---|---|---|---|
+| Chris Yu | Co-Founder & CEO | 2026-06 SignalPlus B1 融资稿引用其为 Co-Founder and CEO；负责公司战略、SignalPlus 2.0 与 agentic AI 平台叙事 | 高 |
+| Jaewon Yu | Chief Commercial Officer | 2025-09 官方任命稿称其拥有 20+ 年 TradFi global markets 经验，曾任 Goldman Sachs 亚洲 FX Trading Head，也曾任 Dymon Asia Senior Portfolio Manager / Managing Director，管理过 2 亿美元 North Asia macro strategy portfolio | 高 |
+| Tina Huang | Business Development and Partnerships / strategic new businesses | 2025-09 官方任命稿称其曾负责 BD 与 Partnerships，后转向 strategic new businesses | 中高 |
+| Steven Wang | Head of Quant, Executive Director | LinkedIn 公司页员工列表显示该头衔；未进一步核验个人完整履历 | 中 |
+| Zezhe Li | Option Quant Trader | LinkedIn 公司页员工列表显示该头衔；未进一步核验个人完整履历 | 中 |
+
+### 3.1.3 团队质量判断
+
+- 优势：团队标签与产品高度匹配。官方和 LinkedIn 均强调 investment banking、market professionals、senior software architects、private market specialists；Jaewon Yu 的 Goldman / Dymon 背景与机构期权 / FX / macro 客户拓展高度相关。
+- 技术与业务匹配：SignalPlus 不是泛 DeFi 团队，而是围绕 options pricing、risk management、RFQ、market making、structured products 搭建产品，团队背景与工具定位一致。
+- 区域判断：这是明显的亚洲 / 香港 / 新加坡机构衍生品基础设施项目。用户补充的“国人项目”方向基本符合区域画像，但公开资料更准确的表述应是“华语/亚洲背景较强的香港-新加坡团队”。
+- 信息缺口：完整创始团队名单、核心工程负责人、公司实体结构、产品合规边界、交易所连接与客户授权模式仍未系统披露，需要后续专项补档。
+
+## 3.2 融资与投资方
+
+### 3.2.1 最新融资
+
+| 日期 | 轮次 / 口径 | 金额 | 估值 | 投资方 / 顾问 | 来源与备注 |
+|---|---|---:|---:|---|---|
+| 2026-06-01 | Series B1 | 5000 万美元 | 投后 5 亿美元 | HashKey Capital 领投，BlockBooster、AppWorks 跟投；Goldman Sachs 担任 sole financial advisor | SignalPlus / PRNewswire 官方稿 |
+| 2026-05-20 | Series B+ / strategic investment | 4000 万美元 | 未披露 | HashKey Capital managed fund 领投；HashKey Group 出资 2000 万美元 | HashKey Holdings HKEX 自愿公告与 PRNewswire 稿 |
+| 2025-01-24 | Series B | 1100 万美元 | 未披露 | OKX Ventures、AppWorks、HashKey Capital、Avenir Group | Gate / 融资日历与 Architect Partners 融资快照等第三方来源；需进一步用一级公告确认 |
+| Seed / early stage | Seed | 未披露 | 未披露 | HashKey Capital 为 seed lead investor，后续多轮 follow-on | HashKey 2026 公告确认其早期领投身份，但未披露 seed 金额 |
+
+口径说明：
+
+- 2026-05 的 `4000 万美元 B+` 与 2026-06 的 `5000 万美元 B1` 时间非常接近，可能是同一大轮融资的不同披露口径，也可能是 B+ 与 B1 的阶段性融资。报告暂不强行合并，按两条官方披露分别记录。
+- `5000 万美元 / 5 亿美元投后估值` 是目前最强融资信号；Goldman Sachs 作为 sole financial advisor 是重要机构化背书。
+- HashKey 既是 seed lead investor，又是 2026 年新一轮领投方，说明不是一次性财务投资，更像长期战略绑定。
+
+### 3.2.2 投资方解读
+
+- HashKey Capital：亚洲数字资产金融集团背景，HashKey Holdings 已在香港上市体系披露该投资。对 SignalPlus 的意义不只是资金，更包括机构客户、合规市场、交易与资管生态资源。
+- BlockBooster：PRNewswire 披露为 B1 跟投方，创始人 Samuel Gu 的 quote 强调其 full-stack alternative asset manager + incubation engine 定位，偏战略协同。
+- AppWorks：连续出现在 2025 Series B 与 2026 B1 跟投口径中，是亚洲创业生态资源。
+- OKX Ventures：第三方融资资料显示其参与 2025 Series B；若确认属实，对交易所资源与期权用户分发有帮助。
+- Avenir Group：第三方融资资料显示参与 2025 Series B；需补充背景核验。
+- Tencent：2026 PRNewswire About SignalPlus 中列为 backed by HashKey Capital, AppWorks, Tencent and other prominent technology and financial investors；未看到单独轮次披露，暂作为“历史/战略投资方待拆解”记录。
+
+### 3.2.3 融资质量判断
+
+- 融资质量：高。HashKey 长期领投 + Goldman Sachs 财务顾问 + 5 亿美元投后估值，说明 SignalPlus 已从 crypto options 工具进入机构级衍生品基础设施叙事。
+- 对工具价值的影响：正向。融资用途明确指向全球扩张、传统金融延展、SignalPlus 2.0、agentic AI、QuantLab、volatility market structure analysis、strategy back-testing 和 actionable trading modules，这些都与 July 的期权套利研究方向相关。
+- 对发币预期的影响：不构成发币预期。反而说明项目更像股权/公司制 SaaS 与机构基础设施路线，token/airdrop 逻辑更弱。
+- 需关注风险：如果产品进一步转向机构客户和传统金融，普通用户免费 Dashboard / API 权限可能被分层或商业化；这会影响个人研究者的数据接入成本。
+
 ## 4. 对期权套利研究的核心价值
 
 ### 4.1 可作为数据源候选
@@ -319,8 +378,21 @@ Bybit option ticker 对套利研究尤其有用，因为文档字段包含 bid/a
 - Deribit WebSocket Ticker：https://docs-rfq.signalplus.com/deribit/ws/subscription/ticker.html
 - Bybit Option Ticker：https://docs-rfq.signalplus.com/bybit/ws/ticker-option.html
 - SignalPlus 中文教学：https://signalplus.gitbook.io/signalplus-wan-zheng-jiao-xue
+- SignalPlus LinkedIn：https://www.linkedin.com/company/signalplushk
+- SignalPlus 2026 B1 融资稿：https://www.prnewswire.com/news-releases/signalplus-closes-b1-round-at-us500m-valuation-to-accelerate-global-expansion-and-advance-derivatives-trading-technology-302787253.html
+- HashKey 2026 投资公告：https://www.prnewswire.com/news-releases/hashkey-capital-fund-announces-40m-strategic-investment-in-signalplus-302778025.html
+- HashKey HKEX 自愿公告：https://www.hkexnews.hk/listedco/listconews/sehk/2026/0520/2026052001208.pdf
+- SignalPlus 任命 CCO 公告：https://www.prnewswire.com/news-releases/signalplus-appoints-jaewon-yu-as-chief-commercial-officer-302557631.html
+- Gate 融资日历 SignalPlus Series B：https://www.gate.com/crypto-calendar/fundraising-information/107384
 
 ## 15. 后续跟踪记录
+
+### 2026-06-03 团队与融资补充
+
+- 补充团队：Chris Yu（Co-Founder & CEO）、Jaewon Yu（CCO）、Tina Huang、Steven Wang、Zezhe Li 等公开线索。
+- 补充组织信息：2021 年成立，香港 / 新加坡双区域画像，LinkedIn 显示 51-200 employees。
+- 补充融资：2026-06 Series B1 5000 万美元、5 亿美元投后估值；2026-05 HashKey 4000 万美元 B+ / strategic investment；2025 Series B 1100 万美元第三方口径。
+- 判断更新：融资与团队显著增强“工具/基础设施”价值，但进一步降低发币/空投观察意义。
 
 ### 2026-06-03
 
