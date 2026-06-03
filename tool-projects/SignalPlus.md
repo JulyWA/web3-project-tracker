@@ -132,6 +132,108 @@ SignalPlus 官方对自己的定位是 digital asset options trading platform，
 - 对发币预期的影响：不构成发币预期。反而说明项目更像股权/公司制 SaaS 与机构基础设施路线，token/airdrop 逻辑更弱。
 - 需关注风险：如果产品进一步转向机构客户和传统金融，普通用户免费 Dashboard / API 权限可能被分层或商业化；这会影响个人研究者的数据接入成本。
 
+## 3.3 交易竞赛与活动收益评估
+
+### 3.3.1 竞赛活动画像
+
+SignalPlus 历史上多次与交易所联合举办 options / derivatives trading competition。它不是自身发币积分活动，而是通过合作交易所奖池、排行榜、推荐抽奖、首笔交易奖励等方式吸引期权交易者使用 SignalPlus 前端或 API 连接。
+
+已查到的代表活动：
+
+| 时间 | 合作方 | 活动 | 奖池 / 奖励 | 关键规则 | 状态 |
+|---|---|---|---|---|---|
+| 2024-05 至 2024-06 | Bybit x SignalPlus | Options Grand Prix | 100,000 USDC prize pool；团队和个人奖励 | 两阶段；可个人或组队；团队排名看交易量和交易次数；perp / futures 成交量按 50% 折算；团队内多个成员阶段交易量超过 500,000 USDC 可提升排名 | 已结束 |
+| 2025-02-24 至 2025-03-17 | Coincall x SignalPlus | Trade Royale 2025 Spring Trading Battle | 100,000 USDT 总奖池；团队 top 5 分享 5,800 USDT；个人 top 30 分享 6,420 USDT；单项最高 1,800 USDT；每日奖励与抽奖 | 需注册并绑定 Coincall API 到 SignalPlus；options volume 权重 1，futures volume 权重 0.5；BTC/ETH options 需 premium >= 5 USDT 才计入；禁止 wash trading / 批量注册等 | 已结束 |
+| 2025-06-26 至 2025-07-31 | Deribit x SignalPlus | The Summer Chase 2025 | 300,000+ USDC 等值奖池；附加 Tesla、Rolex、Hawaii vacation 等 referral / invitation 奖励；早鸟 3 个 free Deribit options | Deribit retail traders 通过 SignalPlus 交易；包含 leaderboard、referral contests、daily reward events；官方称为第三届 options competition | 已结束 |
+
+截至 2026-06-03，未确认存在仍在进行的 SignalPlus 官方交易竞赛。当前应把交易竞赛视为“未来不定期活动机会”，而不是可持续收益来源。
+
+### 3.3.2 活动收益结构
+
+历史活动的收益大致分为四类：
+
+| 收益类型 | 说明 | 可实现性 |
+|---|---|---|
+| 排行榜奖励 | 按交易量、交易次数、PnL、团队成绩或综合任务排名分配，通常奖池最大 | 只有高交易量 / 高胜率 / 团队组织能力强的账户有优势 |
+| 每日奖励 / Lucky Draw | 完成每日交易任务或达到基础交易门槛后抽奖 | 小额账户也有机会，但期望值通常低 |
+| 首次绑定 / 首笔交易 Bonus | Coincall 活动中出现 10 RCH API connection bonus、20 RCH first options trade bonus；Deribit 活动有早鸟 3 个 free options | 低成本，适合只做验证和薅固定奖励 |
+| Referral / Invitation 奖励 | Deribit Summer Chase 出现 Rolex / Tesla 等推荐奖励 | 依赖邀请转化，非交易收益；对普通研究账户不应计入确定收益 |
+
+### 3.3.3 成本拆解
+
+参与交易竞赛的真实成本不只是手续费，还包括价差、滑点、方向风险、保证金占用和时间成本。
+
+| 成本项 | 说明 | 对 July 的影响 |
+|---|---|---|
+| 交易手续费 | Deribit USDC linear options 官方费率为 0.03% underlying index price，且 capped at 12.5% option price；Coincall / Bybit 也采用 `min(fee rate * index price, cap * option premium) * size` 类似公式 | 高频刷量成本高；尤其低 premium option 会被 fee cap 影响 |
+| 买卖价差 | 期权 orderbook 通常比现货 / perp 更宽，尤其远月、虚值、altcoin options | 刷交易量可能被 spread 吃掉，不能只看手续费 |
+| 滑点 | 大 size 或冷门合约会造成额外成交偏离 | 排行榜活动越鼓励 volume，滑点风险越高 |
+| 方向风险 | options delta / gamma / vega 暴露可能导致非线性亏损 | 如果没有对冲计划，活动奖励不足以覆盖一次错误方向 |
+| 对冲成本 | 用 perp / futures 对冲 delta 也会产生手续费、资金费率和滑点 | 可降低方向风险，但会提高交易复杂度 |
+| 机会成本 | 需要盯活动规则、排行榜、结算和审核 | 不适合为了小额抽奖长期投入大量时间 |
+| 资格风险 | 活动会审核 wash trading、批量账号、不合规交易；实时 leaderboard 不等于最终结果 | 不建议多账号、对敲或无策略刷量 |
+
+### 3.3.4 预期收益模型
+
+建议用“保守期望值”评估，而不是看总奖池。
+
+基本公式：
+
+```text
+预期收益 = 固定奖励 + 排行榜期望值 + 抽奖期望值 + referral 期望值 - 交易手续费 - spread/slippage - 对冲成本 - 预期交易亏损
+```
+
+其中：
+
+- 固定奖励：最可计算。比如 API 绑定、首笔交易、早鸟 free options。如果固定奖励价值明确，且最低交易成本低于奖励，可参与。
+- 排行榜期望值：普通账户应默认接近 0。只有历史活动明确 top N 门槛、当前交易量可达、且你本来就有策略交易需求时，才纳入收益。
+- 抽奖期望值：按 `奖池金额 * 个人票数 / 总票数` 估算；如果总票数未知，默认按 0 处理。
+- referral 期望值：只有你能带来真实交易用户时才计入；不应为了抽奖邀请低质量账户。
+
+### 3.3.5 粗略成本区间
+
+以 options 竞赛常见的 volume ranking 为例：
+
+| 参与方式 | 适合目标 | 预期成本 | 预期收益判断 |
+|---|---|---|---|
+| 固定任务型：绑定 API + 首笔小额 options trade | 拿 fixed bonus、验证平台和数据接口 | 低。主要是一次小额期权手续费 + spread；但需避开极宽 spread 合约 | 如果奖励明确且可领取，适合参与 |
+| 小额真实交易型：用本来要做的 options / hedge trade 计入活动 | 顺手获得抽奖票或小额 daily rewards | 中。交易本身有策略需求，活动奖励是附加收益 | 推荐。不要为了活动改变策略 |
+| 排行榜冲量型：为了 top N 增加 volume | 争取 USDT / USDC 排名奖励 | 高。至少需要数十万到百万美元级 notional 才可能有竞争力，且手续费、价差、方向风险显著 | 不推荐，除非已有成熟套利/做市策略 |
+| 团队冲榜型：多人组织共同冲 team ranking | 争取团队奖池或大额 referral 奖励 | 高。组织成本、规则审核、账户合规风险都高 | 普通研究账户不推荐 |
+
+### 3.3.6 是否值得参加
+
+当前建议：只参与“低成本固定奖励 / 本来就要交易顺手计入”的活动，不为了排行榜额外刷量。
+
+适合参与的条件：
+
+- 活动仍在进行，且官方页面可确认。
+- 只需要绑定 API、首笔小额 options trade、或早鸟领取 free options。
+- 交易所费率、最低有效 premium、volume 权重、奖励发放时间明确。
+- 你本来就要做 options 套利 / 对冲 / 观察交易，活动只是附加收益。
+- 能使用 maker / limit / Smart Dealing / RFQ 降低 spread 和滑点。
+
+不适合参与的条件：
+
+- 奖励主要看排行榜，但没有公开当前排名门槛。
+- 需要为了奖池制造大量 volume。
+- 需要承担裸 options 方向风险。
+- 活动奖池看似大，但实际分到普通账户的固定奖励很小。
+- 规则允许主办方最终解释、审核延迟、取消资格，而你无法确认自己的交易是否有效。
+
+### 3.3.7 后续跟踪规则
+
+后续一旦发现新的 SignalPlus 联合交易竞赛，应立即记录：
+
+- 活动链接、开始 / 结束时间、报名截止时间。
+- 合作交易所：Deribit / Bybit / Coincall / OKX / 其他。
+- 计分方式：options volume、futures volume 折算、PnL、ROI、交易次数、抽奖票、referral。
+- 最低有效交易条件：最低 premium、最低 volume、KYC / 地区限制、API 绑定要求。
+- 奖池拆分：固定奖励、排行榜、团队、每日、抽奖、referral。
+- 结算时间和发奖资产。
+- 预估最低参与成本、冲榜成本、奖池有效人数。
+- 是否能与期权套利研究复用同一批交易。
+
 ## 4. 对期权套利研究的核心价值
 
 ### 4.1 可作为数据源候选
@@ -384,8 +486,20 @@ Bybit option ticker 对套利研究尤其有用，因为文档字段包含 bid/a
 - HashKey HKEX 自愿公告：https://www.hkexnews.hk/listedco/listconews/sehk/2026/0520/2026052001208.pdf
 - SignalPlus 任命 CCO 公告：https://www.prnewswire.com/news-releases/signalplus-appoints-jaewon-yu-as-chief-commercial-officer-302557631.html
 - Gate 融资日历 SignalPlus Series B：https://www.gate.com/crypto-calendar/fundraising-information/107384
+- Bybit x SignalPlus Options Grand Prix 公告：https://announcements.bybit.com/en/article/bybit-x-signalplus-options-grand-prix-grab-a-share-of-100-000-usdc-and-more-blt0ed070230f840cf6/
+- Coincall x SignalPlus Trade Royale 2025：https://support.coincall.com/hc/en-us/articles/43605481787545-Join-Coincall-x-SignalPlus-Trade-Royale-2025-Spring-Trading-Battle-Compete-for-Your-Share-of-100-000-USDT
+- Deribit x SignalPlus The Summer Chase 2025：https://www.theblock.co/amp/post/359774/deribit-and-signalplus-launch-the-summer-chase-trading-competition-2025-featuring-a-300000-usdc-prize-pool
+- Deribit Fees：https://support.deribit.com/hc/en-us/articles/25944746248989-Fees
+- Coincall Trading Fees：https://support.coincall.com/hc/en-us/articles/16530143725849-Trading-Fees
+- Bybit Option Fees：https://www.bybitglobal.com/en/help-center/article/Bybit-Option-Fees-Explained
 
 ## 15. 后续跟踪记录
+
+### 2026-06-03 交易竞赛收益 / 成本补充
+
+- 补充 Bybit x SignalPlus Options Grand Prix、Coincall x SignalPlus Trade Royale、Deribit x SignalPlus The Summer Chase 2025 三类历史活动样本。
+- 增加活动收益模型：固定奖励、排行榜期望值、抽奖期望值、referral 期望值减去交易手续费、spread/slippage、对冲成本和预期交易亏损。
+- 结论：适合参与低成本固定任务和本来就要交易的顺手活动；不建议为了排行榜刷量。
 
 ### 2026-06-03 团队与融资补充
 
