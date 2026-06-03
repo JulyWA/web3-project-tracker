@@ -6,6 +6,7 @@ This repository stores shareable Web3 project tracking notes exported from July'
 
 - `watchlist/`: projects already under active watchlist tracking.
 - `pre-watchlist/`: RootData-passed projects still under lightweight observation.
+- `tool-projects/`: tools, data sources, dashboards, APIs, and research infrastructure used for Web3/derivatives analysis. These are not treated as token or airdrop watchlist projects unless explicitly upgraded later.
 - `archive/`: reserved for graduated or rejected historical project notes.
 
 ## Privacy
