@@ -145,9 +145,33 @@ SignalPlus 历史上多次与交易所联合举办 options / derivatives trading
 | 2026-01-26 08:00 UTC 至 2026-02-16 08:00 UTC | Bybit x SignalPlus | 2026 Trading Competition | 总奖池 up to 100,000 USDT；Daily Lottery up to 4,650 USDT；Individual 82,950 USDT；Team 17,400 USDT；Trading Fee Subsidy 每日 1 名，最高 500 USDT 交易费返还 | 官方活动页仍在线；覆盖 options / futures / spot；需通过 SignalPlus / Bybit 活动入口交易并满足有效成交量门槛；个人 daily lottery 有 1M / 3M / 5M / 8M USDT 等级；团队 daily lottery 要求团队新增交易量达到 20M USDT 且用户进入当日团队交易量 top 3；活动最终以主办方审核为准 | 已结束；页面仍在线 |
 | 2024-05 至 2024-06 | Bybit x SignalPlus | Options Grand Prix | 100,000 USDC prize pool；团队和个人奖励 | 两阶段；可个人或组队；团队排名看交易量和交易次数；perp / futures 成交量按 50% 折算；团队内多个成员阶段交易量超过 500,000 USDC 可提升排名 | 已结束 |
 | 2025-02-24 至 2025-03-17 | Coincall x SignalPlus | Trade Royale 2025 Spring Trading Battle | 100,000 USDT 总奖池；团队 top 5 分享 5,800 USDT；个人 top 30 分享 6,420 USDT；单项最高 1,800 USDT；每日奖励与抽奖 | 需注册并绑定 Coincall API 到 SignalPlus；options volume 权重 1，futures volume 权重 0.5；BTC/ETH options 需 premium >= 5 USDT 才计入；禁止 wash trading / 批量注册等 | 已结束 |
+| 2025-05 至 2025-06 | Coincall x SignalPlus | Trade Royale II / Trading Competition | 120,000+ USDT prize pool；altcoin options / perps / live leaderboards；新用户交易达到 5,000 USDT 可获得额外 165 USDT trading credits | Coincall 官方公告称 2025-05-16 起有新用户交易 credit 任务，2025-05-22 宣布正式启动 120,000+ USDT 竞赛；需通过 SignalPlus 活动页注册 / 交易 | 已结束 |
 | 2025-06-26 至 2025-07-31 | Deribit x SignalPlus | The Summer Chase 2025 | 300,000+ USDC 等值奖池；附加 Tesla、Rolex、Hawaii vacation 等 referral / invitation 奖励；早鸟 3 个 free Deribit options | Deribit retail traders 通过 SignalPlus 交易；包含 leaderboard、referral contests、daily reward events；官方称为第三届 options competition | 已结束 |
 
 状态核验：用户在 2026-06-03 提供的 `https://t.signalplus.com/nuwa/rank#/competition/bybit` 确认为官方 2026 Bybit x SignalPlus Trading Competition 页面。页面仍在线并展示 2026、100,000 USDT 总奖池、4,650 USDT daily lottery 等信息；但活动后端 `https://tapi.signalplus.com/tt/limos/competition/timeline` 在 `X-Request-Competition-Id: 4` 下返回 `startMs=1769414400000`、`finalMs=1771228800000`，对应 2026-01-26 08:00 UTC 至 2026-02-16 08:00 UTC。`latest-update` 返回 2026-03-13 08:10 UTC 的更新时间，更像赛后排行榜 / 页面维护更新。因此截至 2026-06-03，该活动页仍可访问，但比赛期已结束；未确认存在仍在进行的 SignalPlus 官方交易竞赛。
+
+### 3.3.1.1 竞赛频率、奖池与参与规模复核
+
+已确认的大型联名赛样本从 2024-05 到 2026-01 至少 5 场：Bybit 2024、Coincall 2025 春季、Coincall 2025 Trade Royale II、Deribit 2025 Summer Chase、Bybit 2026。粗略频率不是固定月度，而是围绕交易所合作活动不定期开启；按已确认样本看，约每 3-5 个月出现一场较大的 options / derivatives 竞赛，2025 年上半年最密集。
+
+奖池规模结论：大型活动的现金 / 等值奖池通常在 100,000-300,000+ USDT/USDC 区间。100,000 左右是常见档，120,000+ 属于中等偏上，300,000+ 加 Tesla / Rolex / Hawaii vacation 等非现金奖励属于高档活动。
+
+2026 Bybit 活动 API 快照：
+
+| 指标 | 接口 / 来源 | 结果 | 解读 |
+|---|---|---|---|
+| 活动周期 | `/timeline`，`X-Request-Competition-Id: 4` | 2026-01-26 08:00 UTC 至 2026-02-16 08:00 UTC | 已结束 |
+| 最近更新 | `/latest-update` | 2026-03-13 08:10 UTC | 更像赛后结果 / 页面维护更新 |
+| 个人总榜参与数 | `/individual-list/overall?page=1&pageSize=100&competitionId=2` | `totalCount=507` | 可作为 2026 Bybit 主竞赛个人参与人数下限 / 近似值 |
+| 个人周榜参与数 | `/individual-list/week?page=1&pageSize=100` | `totalCount=218` | 周榜有效参与少于总榜，说明持续活跃账户更少 |
+| 个人日榜参与数 | `/individual-list/today?page=1&pageSize=100` | `totalCount=200` | 单日有效参与约 200 人级别 |
+| 团队榜可见队伍 | `/team-list/week?page=1&pageSize=100` | 返回 21 支队伍；`qualifiedMemberNum` 合计约 239 | `totalCount=2009` 与实际返回队伍数不一致，暂不直接当作队伍数 |
+| 个人总榜第 1 名 | 同上 | 约 153.27M USDT volume | 头部账户交易量极高，普通账户不适合冲榜 |
+| 个人总榜第 10 名 | 同上 | 约 68.94M USDT volume | Top 10 门槛为数千万 USDT |
+| 个人总榜第 30 名 | 同上 | 约 43.02M USDT volume | 若奖励覆盖到 top 30，仍需极高成交量 |
+| 个人总榜 top 10% 附近 | 同上，第 51 名 | 约 32.08M USDT volume | 即使进入前 10% 附近，也不是小账户低成本任务 |
+
+参与人数判断：SignalPlus 联合竞赛不是“大众空投型万级参与人数”，而是“专业衍生品交易者数百人级别有效参赛 + 少数团队组织”的结构。个人榜 507 人不低，但资金量高度集中，前 10% 需要 3,000 万 USDT 以上有效成交量。对 July 来说，这类活动的价值主要是顺手吃固定奖励、手续费补贴、API / RFQ 工具验证和观察期权流动性，而不是主动冲榜。
 
 ### 3.3.2 活动收益结构
 
@@ -491,7 +515,9 @@ Bybit option ticker 对套利研究尤其有用，因为文档字段包含 bid/a
 - Bybit x SignalPlus Options Grand Prix 公告：https://announcements.bybit.com/en/article/bybit-x-signalplus-options-grand-prix-grab-a-share-of-100-000-usdc-and-more-blt0ed070230f840cf6/
 - Bybit x SignalPlus 2026 Trading Competition：https://t.signalplus.com/nuwa/rank#/competition/bybit
 - Bybit x SignalPlus 2026 Competition Timeline API：https://tapi.signalplus.com/tt/limos/competition/timeline
+- Bybit x SignalPlus 2026 官方公告：https://announcements.bybit.com/en/article/bybit-x-signalplus-start-2026-strong-with-a-100-000-usdt-prize-pool--blt409af3d712d5ab08/
 - Coincall x SignalPlus Trade Royale 2025：https://support.coincall.com/hc/en-us/articles/43605481787545-Join-Coincall-x-SignalPlus-Trade-Royale-2025-Spring-Trading-Battle-Compete-for-Your-Share-of-100-000-USDT
+- Coincall x SignalPlus Trade Royale II 2025：https://support.coincall.com/hc/en-us/articles/47240919577113-Coincall-x-SignalPlus-just-launched-a-120-000-USDT-Trading-Competition
 - Deribit x SignalPlus The Summer Chase 2025：https://www.theblock.co/amp/post/359774/deribit-and-signalplus-launch-the-summer-chase-trading-competition-2025-featuring-a-300000-usdc-prize-pool
 - Deribit Fees：https://support.deribit.com/hc/en-us/articles/25944746248989-Fees
 - Coincall Trading Fees：https://support.coincall.com/hc/en-us/articles/16530143725849-Trading-Fees
@@ -510,6 +536,14 @@ Bybit option ticker 对套利研究尤其有用，因为文档字段包含 bid/a
 - 用户提供 `t.signalplus.com/nuwa/rank#/competition/bybit` 页面截图后，重新核验该页确认为 Bybit x SignalPlus 2026 Trading Competition。
 - 页面仍在线，但 timeline API 显示比赛期为 2026-01-26 08:00 UTC 至 2026-02-16 08:00 UTC；截至 2026-06-03 已结束。
 - 修正此前“未确认存在当前交易竞赛”的表述：应写为“确认存在 2026 官方活动页，但当前不是进行中活动”。
+
+### 2026-06-03 竞赛频率 / 奖池 / 参与规模复核
+
+- 增补 Coincall x SignalPlus 2025 Trade Royale II，已确认奖池 120,000+ USDT。
+- 复核已确认样本：2024-05 至 2026-01 至少 5 场大型联名赛，约每 3-5 个月出现一场大活动，非固定月度。
+- 2026 Bybit API 快照：个人总榜 `totalCount=507`，周榜 218，日榜 200；团队接口返回 21 支可见队伍，`qualifiedMemberNum` 合计约 239。
+- 2026 Bybit 个人总榜门槛：第 1 名约 153.27M USDT，第 10 名约 68.94M USDT，第 30 名约 43.02M USDT，top 10% 附近约 32.08M USDT。
+- 结论：参与人数是专业交易者数百人级，头部 volume 高度集中；更适合顺手参与低成本任务和工具验证，不适合普通账户冲榜。
 
 ### 2026-06-03 团队与融资补充
 
