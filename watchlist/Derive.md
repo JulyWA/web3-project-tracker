@@ -13,10 +13,10 @@ public_project_page: https://github.com/JulyWA/web3-project-tracker/blob/main/wa
 - 总分：78/100。
 - 风险等级：中高。
 - 参与类型：资金型 / 交易型 / 专业策略型 / API 型。
-- 当前动作：小资金验证交易、vault/rewards 页面、费用与奖励回收比；后续跟踪每周 stDRV/DRV/OP 奖励池、buyback、volume/OI、产品集成和 GitHub 安全更新。
+- 当前动作：优先验证奖励计划、points/fees/rewards 回收比、手续费等级和 vault boost；小资金实盘观察，不为了奖励裸刷交易量。
 - 截止时间：无单次截止；奖励按 weekly epoch 运行，规则和池子可变。
 - 置信度：中高。协议、代币、收入、融资和团队可查；实时奖励分布和用户分位线仍需后续抓 API 或页面确认。
-- 一句话：Derive 是已 TGE、已有收入和机构叙事的链上期权/波动率基础设施，值得跟踪，但当前机会更像“用真实策略赚奖励/返佣”，不是早期空投窗口。
+- 一句话：Derive 是已 TGE、已有收入和机构叙事的链上期权/波动率基础设施，当前重点不是“等发币”，而是判断 points / stDRV / OP / fee tier 组合后，真实交易是否能覆盖成本。
 
 ## 1. 官方来源确认
 
@@ -123,6 +123,69 @@ public_project_page: https://github.com/JulyWA/web3-project-tracker/blob/main/wa
 - 现在进入是否划算：只对“本来就会交易 options/perps，或有低风险对冲/做市/套利策略”的账户划算；为了奖励空转刷量不划算。
 - 需要继续抓取的数据：当前 weekly reward pool、epoch end time、个人/全站 fees、奖励分配、leaderboard/账户数、vault boost、OP rewards 是否恢复、DRV buyback 数量、30d volume/OI/fees。
 
+## 7.2 奖励计划、积分、发币与手续费等级
+
+### 7.2.1 奖励计划总览
+
+| 模块 | 面向对象 | 奖励 / 计分方式 | 当前判断 |
+|---|---|---|---|
+| Retail Trading Rewards | 普通交易者 / vault depositor | 官方 docs 写明交易或存入 vault 可按 fees pro-rata 获得 stDRV；奖励每周计算、审计、通常在 epoch 结束后一周发放 | 这是 July 侧最相关入口，需要每周看 rewards 页实际池子 |
+| DRV Launch Program | TGE 后活跃用户 | 2025-01-13 公告：weekly epochs；首周 100 万 DRV pool；每 1 美元 trading fees = 100 points；部分 vault / 新市场最高 5x boost；推荐人获得被推荐费用 10% 的 points | 说明 Derive 确实存在 points 机制，但 points 是奖励兑换/分配账本，不是未发币空投积分 |
+| Public Trading Incentives | 公开交易者 / 做市参与者 | Institutional rewards 文档写“points on net taker fees paid”，并显示 10K OP weekly public rewards | 可能仍有效但需以 `app.derive.xyz/rewards` 当周展示为准 |
+| Institutional / MM Rewards | 做市商 / 大体量 taker | 60K OP / 28-day epoch 给 MM；最多 50 万 USDC / 28-day exchange rebate；1M DRV MM pool 曾用于做市激励 | 普通用户不适合直接对标，除非有 API/做市能力 |
+| Staking Rewards | DRV / stDRV holder | stDRV 参与治理和 staking rewards；旧 Help Center 写初始 staking rewards up to 1.15M DRV/week，6 个月后下降并转向 buyback-funded rewards | 适合跟踪 APR 和 unlock/penalty，不是低成本空投 |
+| Buybacks | DRV 生态 | 当前 docs 写协议收入一部分用于 DRV buybacks；不同页面有 25%/35% 口径差异 | 需跟踪最新治理/Docs，作为奖励可持续性指标 |
+
+### 7.2.2 是否有积分
+
+- 有。Derive 在 DRV Launch Program 中明确使用 points：每 1 美元 trading fees = 100 points；推荐奖励为被推荐人 fees 对应 points 的 10%；部分 vault / 新市场流动性计划可最高 5x boost。
+- 这些 points 的性质更像“按交易费用贡献计算的奖励分配凭证”，不是 Hibachi 那类未发币前的空投积分。
+- 当前 Retail Rewards docs 的主表述已经转向 stDRV rewards：交易和 vault deposits 按 fees / contribution pro-rata 分配，weekly epoch 计算和审计。
+- 结论：Derive 有积分，但积分价值高度依赖当周 reward pool、全体费用、个人费用占比和 DRV/stDRV 价格；不能只看 points 数字。
+
+### 7.2.3 是否还有发币计划
+
+- DRV 已发币：Help Center 显示 DRV 于 2025-01-15 00:00 UTC 开始 claim；LYRA/stkLYRA 1:1 迁移到 DRV/stDRV。
+- 历史 airdrop 已发生：Help Center 写明 7.71% 新 DRV supply 分配给 Derive 用户和 partners；LYRA 迁移、pre-stake bonus、airdrop staking bonus 均属于历史事件。
+- 不是未发币项目：现在不应期待“首次 TGE 空投”。后续机会主要是 weekly rewards、staking rewards、buybacks、vault/market boost、做市/交易返佣。
+- 供应口径需注意：旧 Help Center 写 total supply 1B / no new mint；当前 docs 页面显示 total supply 1.5B，官方研究文也提到 2025 年底 supply 增加 50%。研报后续应以最新 docs / governance proposal / token contract 为准，旧 Help Center 只作为历史记录。
+
+### 7.2.4 手续费与等级
+
+| 类型 | 普通用户 / 基础费率 | 高等级 / 做市商费率 | 备注 |
+|---|---:|---:|---|
+| Perp | Institutional rewards 表中 All traders：maker 0.01%，taker 0.030%；旧 Help Center：maker 0.005%，taker 0.03% + 0.1 美元 base fee | Top tier 可到 maker -0.010%、taker 0.015% | fee tiers 会变，交易前以 app / docs 当前页面为准 |
+| Options | Institutional rewards 表中 All traders：maker 0.01%，taker 0.030%；旧 Help Center：maker 0.03%，taker 0.04% + 0.5 美元 base fee，且 option fees capped at 12.5% option value | Top tier 可到 maker -0.010%、taker 0.015%；官网 mm-fees 页称 options taker fees now start at 0.0075% | 旧 Help Center 与新 fee schedule 存在差异，需要跟踪最新 fee docs |
+| Spot | All traders：maker 0.150%，taker 0.150% | Top tier maker 可到 -0.010% 或 0%，taker约 0.050%-0.090% | spot 不是 July 当前关注重点 |
+| RFQ | 普通用户未单列 | MM RFQ discount：按 28d RFQ volume / share 可获得 25%-100% RFQ maker fee discount | 更偏机构/大额结构化交易 |
+
+等级条件来自 Institutional Trading Rewards 文档：
+
+- Top 10% MM / ≥ 250M 28d volume / ≥ 10% volume share / ≥ 500,000 stDRV，可触达最高级费率。
+- Top 50% MM / ≥ 100M 28d volume / ≥ 5% share / ≥ 250,000 stDRV，为中高等级。
+- Top 100% MM / ≥ 25M 28d volume / ≥ 2% share / ≥ 100,000 stDRV，为基础做市等级。
+- 文档说明 best fee tiers 需要按项目分别满足 stDRV 要求，例如 options 和 perps 同时最高等级可能需要 1M stDRV。
+- Wash trading 会导致取消奖励资格；因此不能用自成交或无策略刷量追 rewards。
+
+### 7.2.5 July 侧收益判断框架
+
+| 问题 | 判断方式 | 当前结论 |
+|---|---|---|
+| 现在是不是空投机会？ | 是否未 TGE、是否有明确 allocation / snapshot | 不是。DRV 已 TGE，历史空投已完成 |
+| points 还有没有用？ | points 是否仍进入 rewards 分配，是否可兑换 stDRV/DRV/OP | 有用，但必须看当周池子和费用占比 |
+| 刷手续费是否划算？ | `预期奖励价值 - 手续费 - spread - funding - 方向/清算风险 - stDRV 折价/解锁成本` | 默认不划算，除非已有低风险交易策略 |
+| vault 是否更合适？ | vault 是否有 boost、是否自动产生费用 points、是否有本金/策略回撤 | 可能比裸交易更适合观察，但需单独评估 vault 风险 |
+| 最该监控什么？ | reward pool、fee tier、boost、DRV price、stDRV unlock、weekly buyback、全站 fees | 这些应进入 Derive 日报重点 |
+
+### 7.2.6 后续需要补抓的数据
+
+- `app.derive.xyz/rewards` 当前 weekly stDRV/DRV/OP pool、epoch end time、claimable / estimated rewards。
+- 当前账户 paid fees、points、reward estimate、fee tier。
+- 全站 weekly fees 与 public rewards pool，用于估算边际 reward/fee。
+- 是否存在 leaderboard / participants count / top 10% threshold；若没有公开，就明确记录“未公开”。
+- 最新 fee schedule URL 和版本，避免旧 Help Center 与新 Institutional fee docs 混用。
+- staking APR、stDRV total staked、unlock penalty、weekly buyback 实际数量。
+
 ## 8. 7 维评分
 
 | 维度 | 权重 | 分数 | 依据 |
@@ -174,6 +237,7 @@ public_project_page: https://github.com/JulyWA/web3-project-tracker/blob/main/wa
 
 - 立即行动：
   - Rewards 页显示新一周高额 stDRV/DRV/OP 池，且 fee/reward 回收比显著改善。
+  - 官方更新 points、reward pool、fee tier 或 boost 规则，导致普通用户边际收益变化。
   - 新 market / vault 有明确 boost 或短期补贴。
   - 官方公布新 Builder Codes、API 激励、bug bounty、grant。
   - Buyback 数量显著放大并由收入支撑。
