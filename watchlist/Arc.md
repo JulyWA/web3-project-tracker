@@ -201,6 +201,11 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2062160343552471173 -->
 - 2026-06-04 | [Twitter] `tweet:2062160343552471173` | [Arc AI 代理基础设施定位推文](https://x.com/arc/status/2062160343552471173) | Arc 阐述 AI 代理经济基础设施定位：USDC gas、确定性终局、可编程结算逻辑
 
+<!-- watchlist-slug: tweet:2062951155836256476 -->
+- 2026-06-08 | [Twitter] `tweet:2062951155836256476` | [testnet 达到 244M 交易、主网前里程碑](https://x.com/arc/status/2062951155836256476) | RT @0xrachelita: 2000 architects, 100+ partners, 244M testnet transactions, all BEFORE Arc mainnet
+<!-- watchlist-slug: release:arc-node@v0.7.2 -->
+- 2026-06-08 | [GitHub] `release:arc-node@v0.7.2` | [arc-node v0.7.2 release](https://github.com/circlefin/arc-node/releases/tag/v0.7.2) | 内部同步 release，BREAKING_CHANGES.md 新增 28 行，ValidatorManagement.s.sol 更新
+
 ## 相关
 
 - [[Web3项目研究]]
