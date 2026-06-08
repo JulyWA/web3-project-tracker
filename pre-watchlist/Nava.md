@@ -85,3 +85,13 @@ AI agent guardrails / on-chain verification，官网已有 waitlist 和 docs；�
 机会：如已加入 waitlist，本周无额外操作。
 
 来源：[官网](https://navalabs.ai) | [Docs](https://docs.navalabs.ai)
+
+### 2026-06-08
+
+本周判断：继续观察，P2 普通观察。
+
+新信号：无。官网 waitlist 仍开放，Private Testnet 仍为 API key 邀请制，无新开发者计划或积分机制公布。连续四周无实质性更新。
+
+机会：如已加入 waitlist，本周无额外操作。
+
+来源：[官网](https://navalabs.ai) | [Docs](https://docs.navalabs.ai)

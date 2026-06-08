@@ -206,6 +206,9 @@ updated: 2026-05-11
 <!-- watchlist-slug: release:arc-node@v0.7.2 -->
 - 2026-06-08 | [GitHub] `release:arc-node@v0.7.2` | [arc-node v0.7.2 release](https://github.com/circlefin/arc-node/releases/tag/v0.7.2) | 内部同步 release，BREAKING_CHANGES.md 新增 28 行，ValidatorManagement.s.sol 更新
 
+<!-- watchlist-slug: tweet:2064059889907802370 -->
+- 2026-06-09 | [Twitter] `tweet:2064059889907802370` | [明天 8AM PT 开启参与活动 The Shift](https://x.com/arc/status/2064059889907802370) | 官方预告明天开启任务/互动节点，可能涉及质押/早期访问
+
 ## 相关
 
 - [[Web3项目研究]]

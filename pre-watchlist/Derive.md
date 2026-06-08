@@ -357,3 +357,13 @@ public_project_page: https://github.com/JulyWA/web3-project-tracker/blob/main/pr
 | 2026-06-03 | 降级到 pre-watchlist | 78 | pre-watchlist / active | 已 TGE，普通奖励以 stDRV 为主，OP/DRV 大池偏 MM；先观察 reward/fee 与 vault 风险再决定是否升级 |
 
 ## 18. 每日跟踪记录
+
+### 2026-06-08
+
+本周判断：继续观察，P2 普通观察。
+
+本周首次 pre-watchlist 复盘（Jun 3 从正式 watchlist 降级）。无新 2026 行动信号。stDRV staking rewards（约 25 万/周）和 trading rewards（约 5 万 stDRV/周）持续运行，DRV 已 TGE，不作为未发币空投跟踪。机会窗口取决于 reward/fee 比是否明显改善或出现 vault boost 机会。
+
+本周暂不需要额外操作。
+
+来源：[App Rewards](https://app.derive.xyz/rewards) | [DRV Launch Program](https://insights.derive.xyz/drv-launch-program/)

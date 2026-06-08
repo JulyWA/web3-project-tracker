@@ -88,3 +88,13 @@ Solana yield exchange 已上线，app/docs/audits/GitHub 可跟踪；继续观�
 机会：如已申请 v2 资格，本周无新操作；等待 strategy vaults / order book 公开上线，届时重新评估参与价值。
 
 来源：[官方 X](https://x.com/ExponentFinance) | [Blog](https://www.exponent.finance/blog/introducing-exponent)
+
+### 2026-06-08
+
+本周判断：继续观察，P1 重点观察。
+
+新信号：无官方公告。搜索结果出现 app.exponent.finance/en/rewards 页面路径，但无官方积分/airdrop 声明，仍属社区预期。v2 私测首批用户已于五月底完成筛选，本周无新进展。
+
+机会：如已申请 v2 资格，本周无新操作；等待 strategy vaults / order book 公开上线。
+
+来源：[官方 X](https://x.com/ExponentFinance) | [App](https://app.exponent.finance/income)

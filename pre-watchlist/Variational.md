@@ -56,3 +56,11 @@ Variational 是本批最值得继续观察的项目。它不是只有融资新�
 风险：Perp 交易有资金损失风险（主网路径）；VAR token 具体分配时间和比例未官宣，积分价值仍不确定。
 
 来源：[Points 文档](https://docs.variational.io/omni/rewards/points) | [Airdrop 指南（bittime.com）](https://www.bittime.com/en/blog/airdrop-variational-testnet) | [X 分析帖](https://x.com/Basesol_NFT/status/2003466651463770358)
+
+### 2026-06-08
+
+本周判断：升级候选（持续，待 July 确认）。
+
+本周信号无变化。上周已标记升级候选：积分赛季仍运行中（截止不晚于 Q3 2026），VAR 代币 50% 社区分配确认，每周约 15 万积分分发（周五 0:00 UTC 结算）。测试网路径免资金成本低；主网路径需承担 perp 交易风险。仍等待 July 确认是否升级正式 watchlist。
+
+来源：[Points 文档](https://docs.variational.io/omni/rewards/points) | [Omni App](https://omni.variational.io/)

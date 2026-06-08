@@ -247,6 +247,9 @@ Dragonfly 和 Electric Capital 都是加密原生一线/强二线机构，对 De
 <!-- watchlist-slug: tweet:2062179357733359635 -->
 - 2026-06-04 | [Twitter] `tweet:2062179357733359635` | [ShiftProtocol 将 FX 市场接入 hibaUSD delta neutral vault](https://x.com/hibachi_xyz/status/2062179357733359635) | ShiftProtocol_ 已将 FX 市场集成进 hibaUSD vault，关注新存款/points 机会
 
+<!-- watchlist-slug: tweet:2064001767734473213 -->
+- 2026-06-09 | [Twitter] `tweet:2064001767734473213` | [The Playoffs Week 4 积分更新，FX 交易积分+50%](https://x.com/hibachi_xyz/status/2064001767734473213) | 总积分 58.5M，交易 FX 对获额外 50% 积分加成
+
 ## 相关
 
 - [[Web3项目研究]]

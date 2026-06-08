@@ -153,6 +153,9 @@ updated: 2026-05-11
 <!-- watchlist-slug: discord:1511473486466650113 -->
 - 2026-06-03 | [Discord] `discord:1511473486466650113` | [Shelbynet 48hr max blob expiration is now live](https://discord.com/channels/1385014051272265868/1385014051658141770/1511473486466650113) | Shelbynet 上线 48 小时 blob 过期限制；有长保留需求的 builder 可联系团队申请测试网 early access
 
+<!-- watchlist-slug: discord:1513642860640206910 -->
+- 2026-06-09 | [Discord] `discord:1513642860640206910` | [5月进度月报：S3 gateway 接近可集成，CLI 0.0.28 已发布](https://discord.com/channels/1385014051272265868/1385014051658141770/1513642860640206910) | S3 gateway 完整写入路径完成，CLI 0.0.28 发布，Rust/TS SDK 更新
+
 ## 相关
 
 - [[Web3项目研究]]
