@@ -250,6 +250,9 @@ Dragonfly 和 Electric Capital 都是加密原生一线/强二线机构，对 De
 <!-- watchlist-slug: tweet:2064001767734473213 -->
 - 2026-06-09 | [Twitter] `tweet:2064001767734473213` | [The Playoffs Week 4 积分更新，FX 交易积分+50%](https://x.com/hibachi_xyz/status/2064001767734473213) | 总积分 58.5M，交易 FX 对获额外 50% 积分加成
 
+<!-- watchlist-slug: tweet:2064418759020863940 -->
+- 2026-06-10 | [Twitter] `tweet:2064418759020863940` | [品牌与产品重大变革预告](https://x.com/hibachi_xyz/status/2064418759020863940) | 官方推文预告 Hibachi 正在经历 transformative time，将对产品和品牌做出显著改进，行业 uncertain times 中方向待明
+
 ## 相关
 
 - [[Web3项目研究]]
