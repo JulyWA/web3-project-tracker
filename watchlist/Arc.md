@@ -209,6 +209,13 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2064059889907802370 -->
 - 2026-06-09 | [Twitter] `tweet:2064059889907802370` | [明天 8AM PT 开启参与活动 The Shift](https://x.com/arc/status/2064059889907802370) | 官方预告明天开启任务/互动节点，可能涉及质押/早期访问
 
+<!-- watchlist-slug: tweet:2064751192862048420 -->
+- 2026-06-11 | [Twitter] `tweet:2064751192862048420` | [Arc India Region Kickoff — 6月18日线上圆桌](https://x.com/arc/status/2064751192862048420) | 6月18日线上圆桌，stablecoin使用场景讨论，官方开放注册
+<!-- watchlist-slug: tweet:2064828034751058336 -->
+- 2026-06-11 | [Twitter] `tweet:2064828034751058336` | [Hackathon 注册开启](https://x.com/arc/status/2064828034751058336) | Arc 官方 hackathon 注册开启，原推文附注册链接
+<!-- watchlist-slug: tweet:2064829709972615371 -->
+- 2026-06-11 | [Twitter] `tweet:2064829709972615371` | [Onchain Lending & Borrowing 上线 Arc](https://x.com/arc/status/2064829709972615371) | Arc 官方宣布链上借贷功能上线
+
 ## 相关
 
 - [[Web3项目研究]]
