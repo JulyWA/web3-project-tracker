@@ -216,6 +216,11 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2064829709972615371 -->
 - 2026-06-11 | [Twitter] `tweet:2064829709972615371` | [Onchain Lending & Borrowing 上线 Arc](https://x.com/arc/status/2064829709972615371) | Arc 官方宣布链上借贷功能上线
 
+<!-- watchlist-slug: tweet:2065101760260391074 -->
+- 2026-06-12 | [Twitter] `tweet:2065101760260391074` | [Circle Research 发布 AMP（Arc Multi-Proposer Protocol）研究论文](https://x.com/arc/status/2065101760260391074) | 新型区块构建方案，引入 proposer 角色，当前为探索性研究阶段
+<!-- watchlist-slug: tweet:2065120902963224850 -->
+- 2026-06-12 | [Twitter] `tweet:2065120902963224850` | [AMP proposer 角色软性招募](https://x.com/arc/status/2065120902963224850) | gordonliao 表示欢迎有意探索 proposer 角色者联系
+
 ## 相关
 
 - [[Web3项目研究]]

@@ -253,6 +253,9 @@ Dragonfly 和 Electric Capital 都是加密原生一线/强二线机构，对 De
 <!-- watchlist-slug: tweet:2064418759020863940 -->
 - 2026-06-10 | [Twitter] `tweet:2064418759020863940` | [品牌与产品重大变革预告](https://x.com/hibachi_xyz/status/2064418759020863940) | 官方推文预告 Hibachi 正在经历 transformative time，将对产品和品牌做出显著改进，行业 uncertain times 中方向待明
 
+<!-- watchlist-slug: tweet:2065113131760681216 -->
+- 2026-06-12 | [Twitter] `tweet:2065113131760681216` | [NZD/USD FX 交易对上线](https://x.com/hibachi_xyz/status/2065113131760681216) | NZD/USD 永续合约上线，更多资产类别即将推出
+
 ## 相关
 
 - [[Web3项目研究]]
