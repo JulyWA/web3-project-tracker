@@ -256,6 +256,9 @@ Dragonfly 和 Electric Capital 都是加密原生一线/强二线机构，对 De
 <!-- watchlist-slug: tweet:2065113131760681216 -->
 - 2026-06-12 | [Twitter] `tweet:2065113131760681216` | [NZD/USD FX 交易对上线](https://x.com/hibachi_xyz/status/2065113131760681216) | NZD/USD 永续合约上线，更多资产类别即将推出
 
+<!-- watchlist-slug: commit:hibachi_sdk@9f26b55 -->
+- 2026-06-15 | [GitHub] `commit:hibachi_sdk@9f26b55` | [hibachi_sdk 新增 get_pending_orders Python SDK 接口](https://github.com/hibachi-xyz/hibachi_sdk/commit/9f26b55641a81eae9affffd9989b0775719924a4) | PR #49 合并，新增 get_pending_orders 接口及单元测试，+173 行
+
 ## 相关
 
 - [[Web3项目研究]]

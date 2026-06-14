@@ -221,6 +221,11 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2065120902963224850 -->
 - 2026-06-12 | [Twitter] `tweet:2065120902963224850` | [AMP proposer 角色软性招募](https://x.com/arc/status/2065120902963224850) | gordonliao 表示欢迎有意探索 proposer 角色者联系
 
+<!-- watchlist-slug: tweet:2065600039704305783 -->
+- 2026-06-15 | [Twitter] `tweet:2065600039704305783` | [Arc Testnet v0.7.2 升级，6月18日激活](https://x.com/arc/status/2065600039704305783) | Testnet v0.7.2 将于 6月18日 05:00 PT 激活，节点须在此前升级否则脱链
+<!-- watchlist-slug: tweet:2065528508093207007 -->
+- 2026-06-15 | [Twitter] `tweet:2065528508093207007` | [Lepton Agent Hackathon 虚拟黑客松（Arc + Circle Agent Stack）](https://x.com/arc/status/2065528508093207007) | 虚拟黑客松，探索基于 Arc 微支付 Agent 场景，截止时间未披露
+
 ## 相关
 
 - [[Web3项目研究]]
