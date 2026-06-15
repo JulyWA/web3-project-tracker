@@ -98,3 +98,17 @@ Solana yield exchange 已上线，app/docs/audits/GitHub 可跟踪；继续观�
 机会：如已申请 v2 资格，本周无新操作；等待 strategy vaults / order book 公开上线。
 
 来源：[官方 X](https://x.com/ExponentFinance) | [App](https://app.exponent.finance/income)
+
+### 2026-06-15
+
+本周判断：升级候选。v2 已于 5 月下旬上线，官方确认 $200K+ 奖励活动（30 天窗口），按 5 月 26 日起算截止约 2026-06-25，剩余约 10 天。
+
+新信号：
+- v2 正式上线，Markets / Liquidity / Strategies 全页面活动均计入奖励。
+- 奖励以 USD 价值发放（不是未来 token 积分），适合直接参与验证。
+- XPN token 合约已完成，待审计，无 TGE 日期但说明 token 计划存在。
+- 活动窗口紧迫，分散使用比单次大额存款更有优势（官方提示）。
+
+风险：奖励为 $200K+ 总量，参与者数量不明，单账户预期回报不确定；XPN TGE 无官方时间线，活动奖励与 token 分配关系未披露；需确认 app.exponent.finance 是否仍可参与。
+
+来源：[App Rewards](https://app.exponent.finance/en/rewards) | [MEXC 报道 v2 上线](https://www.mexc.com/news/1119751) | [CryptoBriefing v2](https://cryptobriefing.com/exponent-finance-v2-solana-yield-upgrade/) | [airdrops.io](https://airdrops.io/exponent/)

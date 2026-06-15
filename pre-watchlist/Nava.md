@@ -95,3 +95,11 @@ AI agent guardrails / on-chain verification，官网已有 waitlist 和 docs；�
 机会：如已加入 waitlist，本周无额外操作。
 
 来源：[官网](https://navalabs.ai) | [Docs](https://docs.navalabs.ai)
+
+### 2026-06-15
+
+本周判断：继续观察，P2 普通观察。
+
+本周无新信号。官网 waitlist 仍开放，Private Testnet 仍为 API key 邀请制，未见 demo 开放或开发者计划公布。Polychain/Archetype 背书仍在，方向有叙事，但连续五周无可操作入口。如已加入 waitlist 则无需额外操作。
+
+来源：[官网](https://navalabs.ai)

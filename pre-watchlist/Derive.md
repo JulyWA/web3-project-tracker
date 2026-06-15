@@ -367,3 +367,11 @@ public_project_page: https://github.com/JulyWA/web3-project-tracker/blob/main/pr
 本周暂不需要额外操作。
 
 来源：[App Rewards](https://app.derive.xyz/rewards) | [DRV Launch Program](https://insights.derive.xyz/drv-launch-program/)
+
+### 2026-06-15
+
+本周判断：继续观察，P2 普通观察。
+
+本周无新信号。stDRV staking rewards 和 trading rewards 按周 epoch 持续运行，无 boost 或新市场公告。DRV 已 TGE，不作为未发币空投跟踪。观察重点仍为 reward/fee 比是否改善或出现 vault boost 机会。
+
+来源：[App Rewards](https://app.derive.xyz/rewards)
