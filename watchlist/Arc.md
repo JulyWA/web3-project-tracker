@@ -226,6 +226,13 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2065528508093207007 -->
 - 2026-06-15 | [Twitter] `tweet:2065528508093207007` | [Lepton Agent Hackathon 虚拟黑客松（Arc + Circle Agent Stack）](https://x.com/arc/status/2065528508093207007) | 虚拟黑客松，探索基于 Arc 微支付 Agent 场景，截止时间未披露
 
+<!-- watchlist-slug: tweet:2066596854402593050 -->
+- 2026-06-16 | [Twitter] `tweet:2066596854402593050` | [Uniswap 宣布进驻 Arc，带来协议 + App + API 全套](https://x.com/arc/status/2066596854402593050) | Arc 官方确认 Uniswap 将在其上部署，引入深度流动性基础设施
+<!-- watchlist-slug: tweet:2066551308396777613 -->
+- 2026-06-16 | [Twitter] `tweet:2066551308396777613` | [隐私白皮书：可配置可审计的链上隐私模型](https://x.com/arc/status/2066551308396777613) | 隐私路线图覆盖薪酬、国债、B2B结算、外汇、RWA，定位 governed visibility
+<!-- watchlist-slug: tweet:2066614928996442431 -->
+- 2026-06-16 | [Twitter] `tweet:2066614928996442431` | [Arc 隐私白皮书社区解读 RT](https://x.com/arc/status/2066614928996442431) | @0xrachelita 摘要与官方路线图一致，可配置/opt-in/可审计隐私框架
+
 ## 相关
 
 - [[Web3项目研究]]

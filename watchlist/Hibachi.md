@@ -259,6 +259,11 @@ Dragonfly 和 Electric Capital 都是加密原生一线/强二线机构，对 De
 <!-- watchlist-slug: commit:hibachi_sdk@9f26b55 -->
 - 2026-06-15 | [GitHub] `commit:hibachi_sdk@9f26b55` | [hibachi_sdk 新增 get_pending_orders Python SDK 接口](https://github.com/hibachi-xyz/hibachi_sdk/commit/9f26b55641a81eae9affffd9989b0775719924a4) | PR #49 合并，新增 get_pending_orders 接口及单元测试，+173 行
 
+<!-- watchlist-slug: tweet:2066525618313773388 -->
+- 2026-06-16 | [Twitter] `tweet:2066525618313773388` | [第 5 周 Playoffs 结束，FX 交易积分上浮 50%](https://x.com/hibachi_xyz/status/2066525618313773388) | 流通 Points 5950 万，FX 交易积分加成最高 50%
+<!-- watchlist-slug: tweet:2066538227356328305 -->
+- 2026-06-16 | [Twitter] `tweet:2066538227356328305` | [回复 @layer3xyz 暗示活动启动](https://x.com/hibachi_xyz/status/2066538227356328305) | 官方回复 Layer3 let the games begin，可能有 Layer3 任务上线
+
 ## 相关
 
 - [[Web3项目研究]]
