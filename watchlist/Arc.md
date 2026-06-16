@@ -233,6 +233,9 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2066614928996442431 -->
 - 2026-06-16 | [Twitter] `tweet:2066614928996442431` | [Arc 隐私白皮书社区解读 RT](https://x.com/arc/status/2066614928996442431) | @0xrachelita 摘要与官方路线图一致，可配置/opt-in/可审计隐私框架
 
+<!-- watchlist-slug: tweet:2066997641167384905 -->
+- 2026-06-17 | [Twitter] `tweet:2066997641167384905` | [ArcadeSwap V3 Auto-Compound 和 Auto-Receive](https://x.com/arc/status/2066997641167384905) | ArcadeSwap V3 池新增自动复投和手续费自动到账功能，无需手动 claim
+
 ## 相关
 
 - [[Web3项目研究]]
