@@ -236,6 +236,13 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2066997641167384905 -->
 - 2026-06-17 | [Twitter] `tweet:2066997641167384905` | [ArcadeSwap V3 Auto-Compound 和 Auto-Receive](https://x.com/arc/status/2066997641167384905) | ArcadeSwap V3 池新增自动复投和手续费自动到账功能，无需手动 claim
 
+<!-- watchlist-slug: tweet:2067624627468484955 -->
+- 2026-06-19 | [Twitter] `tweet:2067624627468484955` | [Arc Transaction Memos：结构化上下文上链](https://x.com/arc/status/2067624627468484955) | Memos + 批量交易上线 Arc Testnet，Circle CEO 确认
+<!-- watchlist-slug: tweet:2067644493843804608 -->
+- 2026-06-19 | [Twitter] `tweet:2067644493843804608` | [jerallaire 确认 Arc Testnet memos 和批量交易](https://x.com/arc/status/2067644493843804608) | Circle CEO 转推确认 Arc Testnet memos + batched transactions 上线
+<!-- watchlist-slug: tweet:2067729074907488605 -->
+- 2026-06-19 | [Twitter] `tweet:2067729074907488605` | [Arc Privacy Whitepaper 在线讨论活动](https://x.com/arc/status/2067729074907488605) | Privacy Whitepaper 线上讨论，opt-in 隐私机制对链上金融的影响
+
 ## 相关
 
 - [[Web3项目研究]]
