@@ -243,6 +243,11 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2067729074907488605 -->
 - 2026-06-19 | [Twitter] `tweet:2067729074907488605` | [Arc Privacy Whitepaper 在线讨论活动](https://x.com/arc/status/2067729074907488605) | Privacy Whitepaper 线上讨论，opt-in 隐私机制对链上金融的影响
 
+<!-- watchlist-slug: tweet:2068091457911632300 -->
+- 2026-06-22 | [Twitter] `tweet:2068091457911632300` | [Arc AIAgentsSummit Hackathon Berlin](https://x.com/arc/status/2068091457911632300) | Hackathon 在柏林举办，提供 Agent Stack 参与机会
+<!-- watchlist-slug: blog:/arc-token-whitepaper -->
+- 2026-06-22 | [Blog] `blog:/arc-token-whitepaper` | [ARC Token Whitepaper](https://arc.network/arc-token-whitepaper) | 官方发布 ARC whitepaper
+
 ## 相关
 
 - [[Web3项目研究]]

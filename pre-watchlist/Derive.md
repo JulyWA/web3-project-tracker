@@ -1,7 +1,7 @@
 ---
 status: pre-watchlist
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-06-22
 public_project_page: https://github.com/JulyWA/web3-project-tracker/blob/main/pre-watchlist/Derive.md
 ---
 

@@ -69,6 +69,14 @@ Osero 是 Sky/Plasma 背书的 stablecoin yield / savings 项目，方向比纯�
 
 来源：[官网](https://www.osero.org/)
 
+### 2026-06-22
+
+本周判断：继续观察，P3 低优先级。
+
+本周无新信号。App / Earn / Foundry 仍未见公开访问入口，无积分/waitlist/airdrop 信号。融资使用 SAFTs 结构暗示未来 token，但无公开时间线。连续五周无实质进展，但产品方向和背书保留观察价值。若 Q3 仍无进展，考虑暂停。
+
+来源：[官网](https://www.osero.org/)
+
 ### 2026-06-15
 
 本周判断：继续观察，P3 低优先级。
