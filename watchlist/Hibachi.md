@@ -264,6 +264,9 @@ Dragonfly 和 Electric Capital 都是加密原生一线/强二线机构，对 De
 <!-- watchlist-slug: tweet:2066538227356328305 -->
 - 2026-06-16 | [Twitter] `tweet:2066538227356328305` | [回复 @layer3xyz 暗示活动启动](https://x.com/hibachi_xyz/status/2066538227356328305) | 官方回复 Layer3 let the games begin，可能有 Layer3 任务上线
 
+<!-- watchlist-slug: tweet:2069118183278096634 -->
+- 2026-06-23 | [Twitter] `tweet:2069118183278096634` | [Week 6 Playoffs 结束，积分流通量 60.5M（+1.68% WoW）](https://x.com/hibachi_xyz/status/2069118183278096634) | Week 6 完结，总积分 60.5M，+1.68% WoW，Week 7 进行中
+
 ## 相关
 
 - [[Web3项目研究]]

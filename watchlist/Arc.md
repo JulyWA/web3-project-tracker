@@ -248,6 +248,9 @@ updated: 2026-05-11
 <!-- watchlist-slug: blog:/arc-token-whitepaper -->
 - 2026-06-22 | [Blog] `blog:/arc-token-whitepaper` | [ARC Token Whitepaper](https://arc.network/arc-token-whitepaper) | 官方发布 ARC whitepaper
 
+<!-- watchlist-slug: tweet:2069125465428943015 -->
+- 2026-06-23 | [Twitter] `tweet:2069125465428943015` | [Memos 和批量支付功能上线 testnet](https://x.com/arc/status/2069125465428943015) | Arc testnet 上线 memos 和 batch payments，可参与测试
+
 ## 相关
 
 - [[Web3项目研究]]
