@@ -251,6 +251,9 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2069125465428943015 -->
 - 2026-06-23 | [Twitter] `tweet:2069125465428943015` | [Memos 和批量支付功能上线 testnet](https://x.com/arc/status/2069125465428943015) | Arc testnet 上线 memos 和 batch payments，可参与测试
 
+<!-- watchlist-slug: tweet:2069844798799061261 -->
+- 2026-06-25 | [Twitter] `tweet:2069844798799061261` | [Arc Transaction Memos 上线 Testnet](https://x.com/arc/status/2069844798799061261) | Transaction Memos 在 Arc Testnet 可用，可为合约调用附加结构化 memo
+
 ## 相关
 
 - [[Web3项目研究]]

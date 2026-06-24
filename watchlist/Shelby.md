@@ -156,6 +156,9 @@ updated: 2026-05-11
 <!-- watchlist-slug: discord:1513642860640206910 -->
 - 2026-06-09 | [Discord] `discord:1513642860640206910` | [5月进度月报：S3 gateway 接近可集成，CLI 0.0.28 已发布](https://discord.com/channels/1385014051272265868/1385014051658141770/1513642860640206910) | S3 gateway 完整写入路径完成，CLI 0.0.28 发布，Rust/TS SDK 更新
 
+<!-- watchlist-slug: discord:1519378981579919450 -->
+- 2026-06-25 | [Discord] `discord:1519378981579919450` | [shelbynet 全量清空，部署新版本](https://discord.com/channels/1385014051272265868/1385014051658141770/1519378981579919450) | 新版本上线前清空 shelbynet 全部 blobs，关注后续 early access 公告
+
 ## 相关
 
 - [[Web3项目研究]]

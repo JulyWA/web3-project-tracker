@@ -267,6 +267,9 @@ Dragonfly 和 Electric Capital 都是加密原生一线/强二线机构，对 De
 <!-- watchlist-slug: tweet:2069118183278096634 -->
 - 2026-06-23 | [Twitter] `tweet:2069118183278096634` | [Week 6 Playoffs 结束，积分流通量 60.5M（+1.68% WoW）](https://x.com/hibachi_xyz/status/2069118183278096634) | Week 6 完结，总积分 60.5M，+1.68% WoW，Week 7 进行中
 
+<!-- watchlist-slug: tweet:2069827325294690613 -->
+- 2026-06-25 | [Twitter] `tweet:2069827325294690613` | [FLP vault 新增访问门槛：基于交易活跃度](https://x.com/hibachi_xyz/status/2069827325294690613) | FLP 新入口将以交易活跃度为准入条件，当前 APR 45%+
+
 ## 相关
 
 - [[Web3项目研究]]
