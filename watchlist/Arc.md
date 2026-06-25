@@ -254,6 +254,11 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2069844798799061261 -->
 - 2026-06-25 | [Twitter] `tweet:2069844798799061261` | [Arc Transaction Memos 上线 Testnet](https://x.com/arc/status/2069844798799061261) | Transaction Memos 在 Arc Testnet 可用，可为合约调用附加结构化 memo
 
+<!-- watchlist-slug: tweet:2070220481199046780 -->
+- 2026-06-26 | [Twitter] `tweet:2070220481199046780` | [Vyper 在 Arc Testnet 构建 agentic 经济工作流](https://x.com/arc/status/2070220481199046780) | Vyper 集成 Arc Testnet，ERC-8004 agent identity + x402 支付流 + USDC 结算
+<!-- watchlist-slug: tweet:2070145686231019887 -->
+- 2026-06-26 | [Twitter] `tweet:2070145686231019887` | [链上隐私构建指南：Privacy on Arc](https://x.com/arc/status/2070145686231019887) | Arc 官方发布面向开发者的隐私功能说明，链上合规隐私构建路径
+
 ## 相关
 
 - [[Web3项目研究]]
