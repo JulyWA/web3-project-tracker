@@ -259,6 +259,9 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2070145686231019887 -->
 - 2026-06-26 | [Twitter] `tweet:2070145686231019887` | [链上隐私构建指南：Privacy on Arc](https://x.com/arc/status/2070145686231019887) | Arc 官方发布面向开发者的隐私功能说明，链上合规隐私构建路径
 
+<!-- watchlist-slug: tweet:2070537809379897786 -->
+- 2026-06-29 | [Twitter] `tweet:2070537809379897786` | [开源 Stablecoin FX 示例 App 上线 Arc Testnet](https://x.com/arc/status/2070537809379897786) | 官方开源多币种稳定币 FX 示例 App，AppKit Swaps + Circle Wallets，支持 USDC/EURC/cirBTC 互换，开发者可 fork 在 Arc testnet 测试
+
 ## 相关
 
 - [[Web3项目研究]]
