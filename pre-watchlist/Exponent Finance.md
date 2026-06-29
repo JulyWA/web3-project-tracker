@@ -105,6 +105,24 @@ Solana yield exchange 已上线，app/docs/audits/GitHub 可跟踪；继续观�
 
 **配置建议**：主力放 ONyc 侧（唯一受监管+审计+鉴证，对应 srONyc 本金保护）；USX 可接受但记住二级流动性史、别重仓；stSLX/rkuSOL/bulkSOL 仅用零钱博收益+空投权重，bulkSOL 当高风险投机对待。
 
+**OnRe 团队 & 融资深度尽调（2026-06-29，因 ONyc 为首选底层）**
+
+团队（专业背景是核心亮点）：
+- Dan Roberts（联创 & CEO）、Ayyan Rahman（联创 & CGO）、Daniel Klein（联创，**精算师 FSA/FCIA/CFA，20+ 年保险从业**）、Sarah George（运营负责人）。
+- 出身成熟保险孵化器 **Nayms** 重启，有**真精算/再保险专业背景**——非纯 crypto 团队，这是 RWA 再保险项目最稀缺的能力。
+
+融资（两轮，规模偏小但背书硬）：
+- **2025-05 早期战略**（金额未披露）：Ethena（创始人 Guy Young 站台）、Solana Ventures、RockawayX。
+- **2026-05 Series A $5M**：Forward Industries + RockawayX 共同领投；🔑 Forward 另承诺**最多 $25M 直接买入 ONyc**（真金买产品，非股权）。资金用途：扩大承保能力、深化 Solana 整合、团队扩张。
+- 背书阵容：Ethena、Solana Ventures、RockawayX、Forward Industries（纳斯达克 `FORD`，Solana 国库战略公司）。
+
+判断 & 风险：
+- 正面：专业团队 + 顶级背书 + 上市公司真金买产品，解释了监管(BMA)/审计(Quantstamp)/月度鉴证(Apex)为何到位。
+- ⚠️ **Series A 仅 $5M 偏小**：对管理 $204M TVL 的协议，股权安全垫薄；早期轮金额与估值均未披露，透明度一般。
+- ⚠️ **对 Forward Industries 依赖**：$25M ONyc 承诺是 TVL 重要支撑，而其"上市公司 Solana 国库"模式有市场周期风险——若撤资会冲击 ONyc 盘子。**TVL 健康度需盯 Forward 持有量动向。**
+
+来源3：[Series A 融资稿](https://www.globenewswire.com/news-release/2026/05/05/3287676/0/en/forward-industries-and-rockawayx-co-lead-strategic-investment-in-onre-to-accelerate-onchain-reinsurance-on-solana.html) | [Ethena/Solana Ventures/RockawayX 背书](https://www.prnewswire.com/news-releases/onre-backed-by-ethena-solana-ventures-and-rockawayx-launches-structured-yield-product-combining-real-world-stability-and-on-chain-upside-302462163.html) | [Daniel Klein LinkedIn](https://www.linkedin.com/in/kleindaniel/)
+
 来源补充：[CryptoBriefing risk tranching](https://cryptobriefing.com/exponent-finance-risk-tranching-solana-defi/) | [DefiLlama API](https://api.llama.fi/protocol/exponent) | [airdrops.io/exponent](https://airdrops.io/exponent/) | [OnRe docs](https://docs.onre.finance/introduction/onre-tokenized-reinsurance-onyc) | [Solstice USX](https://solstice.finance/usx) | [USX depeg](https://www.cryptopolitan.com/solstice-blames-usx-depeg-liquidity-issue/) | [Raiku rkuSOL](https://blockster.com/solana-staking-gets-a-new-yield-source-as-raiku-launches-rkusol) | [BULK](https://builtonbulk.xyz/)
 
 **参与人数与奖励真相（2026-06-29 第二轮补充）**
