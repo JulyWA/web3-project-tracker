@@ -45,85 +45,6 @@ Solana yield exchange 已上线，app/docs/audits/GitHub 可跟踪；继续观�
 
 ## 每周跟踪
 
-### 2026-06-22
-
-本周判断：继续观察，P1 重点观察。
-
-新信号：
-- **V2 版本升级**（产品重大更新）：全面的智能合约和界面改进，新增自动化策略金库（Automated Strategy Vaults），支持用户自定义投资策略无需手动再平衡；包含固定利率市场、风险分级交易。
-- 协议指标稳健：交易收益总量 $1.92B，已结算实际收益 $250M+，活跃用户 35,000+，TVL $79M。
-- Certora 审计于 2025 年 6 月完成，安全性验证。
-
-评估：V2 升级代表产品迭代成熟，但仍无官方 airdrop / token 公告，继续作为 P1 重点观察。当前可小额 JitoSOL 存入验证收益质量，同时关注后续 token 相关公告。
-
-### 2026-05-13
-
-本周判断：继续观察，P1 重点观察。
-
-新信号：The Block 报道其 $5M seed 由 Multicoin 领投，并计划下月推出升级版本，扩展到 on-chain interest rate order book 和 strategy vaults。
-
-机会：App 已可连接钱包做固定收益类操作；目前更适合观察新版上线后的交互价值。
-
-下周关注：v2 / strategy vaults 是否上线。
-
-来源：[App](https://app.exponent.finance/income) | [Docs](https://docs.exponent.finance) | [The Block](https://www.theblock.co/post/399630/solana-yield-exchange-exponent-funding-multicoin-capital)
-
-### 2026-05-18
-
-本周判断：继续观察，P1 重点观察。
-
-新信号：v2 私测已开放申请入口 [exponent.finance/apply](https://exponent.finance/apply)，目前限受邀用户和合作伙伴，但可公开申请资格。官方博客确认累计融资升至 $7.1M（Multicoin 领投，Solana Ventures / RockawayX 跟投），计划上线 on-chain interest rate order book 和 strategy vaults。无官方积分/airdrop 声明；第三方 OnRefinance 在 Exponent 市场上提供外部积分倍数（非 Exponent 官方）。
-
-机会：可前往 [exponent.finance/apply](https://exponent.finance/apply) 申请 v2 私测资格，成本极低，作为早期交互记录留存。v2 公测上线后再评估是否增加资金配置。
-
-下周关注：v2 私测邀请是否下发；strategy vaults 和 order book 是否上线；是否出现官方积分/激励机制。
-
-来源：[Exponent Blog - v2 Rebrand](https://www.exponent.finance/blog/introducing-exponent) | [Intellectia - $5M Funding](https://intellectia.ai/news/crypto/exponent-secures-5m-funding-to-expand-solana-platform)
-
-### 2026-05-25
-
-本周判断：继续观察，P1 重点观察。
-
-新信号：v2 私测已完成首批小组用户筛选，部分选定用户和合作伙伴已进入 v2 beta；官方 X 推文再次宣传新品牌方向（yield asset issuers + onchain participants 双侧服务）。v1 app 确认将在 v2 公测上线后迁移到 v1.exponent.finance。无官方积分/airdrop 公告。
-
-机会：上周已申请 v2 资格的情况下本周无新操作；等待 v2 私测邀请或 strategy vaults / order book 公开上线。
-
-来源：[X - @ExponentFinance](https://x.com/ExponentFinance/status/2031753696993054979) | [Blog - New Brand](https://www.exponent.finance/blog/introducing-exponent)
-
-### 2026-06-01
-
-本周判断：继续观察，P1 重点观察。
-
-新信号：无。v2 私测第一批用户已于五月底完成筛选（上周信号），本周无新公告、无官方积分/airdrop 宣布。TVL 峰值此前达 $132M，产品运行稳定。
-
-机会：如已申请 v2 资格，本周无新操作；等待 strategy vaults / order book 公开上线，届时重新评估参与价值。
-
-来源：[官方 X](https://x.com/ExponentFinance) | [Blog](https://www.exponent.finance/blog/introducing-exponent)
-
-### 2026-06-08
-
-本周判断：继续观察，P1 重点观察。
-
-新信号：无官方公告。搜索结果出现 app.exponent.finance/en/rewards 页面路径，但无官方积分/airdrop 声明，仍属社区预期。v2 私测首批用户已于五月底完成筛选，本周无新进展。
-
-机会：如已申请 v2 资格，本周无新操作；等待 strategy vaults / order book 公开上线。
-
-来源：[官方 X](https://x.com/ExponentFinance) | [App](https://app.exponent.finance/income)
-
-### 2026-06-15
-
-本周判断：升级候选。v2 已于 5 月下旬上线，官方确认 $200K+ 奖励活动（30 天窗口），按 5 月 26 日起算截止约 2026-06-25，剩余约 10 天。
-
-新信号：
-- v2 正式上线，Markets / Liquidity / Strategies 全页面活动均计入奖励。
-- 奖励以 USD 价值发放（不是未来 token 积分），适合直接参与验证。
-- XPN token 合约已完成，待审计，无 TGE 日期但说明 token 计划存在。
-- 活动窗口紧迫，分散使用比单次大额存款更有优势（官方提示）。
-
-风险：奖励为 $200K+ 总量，参与者数量不明，单账户预期回报不确定；XPN TGE 无官方时间线，活动奖励与 token 分配关系未披露；需确认 app.exponent.finance 是否仍可参与。
-
-来源：[App Rewards](https://app.exponent.finance/en/rewards) | [MEXC 报道 v2 上线](https://www.mexc.com/news/1119751) | [CryptoBriefing v2](https://cryptobriefing.com/exponent-finance-v2-solana-yield-upgrade/) | [airdrops.io](https://airdrops.io/exponent/)
-
 ### 2026-06-29
 
 本周判断：升级候选。v2 完整版于 2026-06-24 正式公开上线，新增风险分级（risk tranching）功能，活跃 30 天奖励窗口截止约 2026-07-24。
@@ -171,3 +92,82 @@ Solana yield exchange 已上线，app/docs/audits/GitHub 可跟踪；继续观�
 - 决策：奔空投性价比一般（XPN 无 TGE）；走 conservative（srONyc）侧 = 低风险「白嫖式」参与，激进侧仅小额试，窗口仅剩 ~25 天宜早动。
 
 来源补充：[CryptoBriefing risk tranching](https://cryptobriefing.com/exponent-finance-risk-tranching-solana-defi/) | [DefiLlama API](https://api.llama.fi/protocol/exponent) | [airdrops.io/exponent](https://airdrops.io/exponent/)
+
+### 2026-06-22
+
+本周判断：继续观察，P1 重点观察。
+
+新信号：
+- **V2 版本升级**（产品重大更新）：全面的智能合约和界面改进，新增自动化策略金库（Automated Strategy Vaults），支持用户自定义投资策略无需手动再平衡；包含固定利率市场、风险分级交易。
+- 协议指标稳健：交易收益总量 $1.92B，已结算实际收益 $250M+，活跃用户 35,000+，TVL $79M。
+- Certora 审计于 2025 年 6 月完成，安全性验证。
+
+评估：V2 升级代表产品迭代成熟，但仍无官方 airdrop / token 公告，继续作为 P1 重点观察。当前可小额 JitoSOL 存入验证收益质量，同时关注后续 token 相关公告。
+
+### 2026-06-15
+
+本周判断：升级候选。v2 已于 5 月下旬上线，官方确认 $200K+ 奖励活动（30 天窗口），按 5 月 26 日起算截止约 2026-06-25，剩余约 10 天。
+
+新信号：
+- v2 正式上线，Markets / Liquidity / Strategies 全页面活动均计入奖励。
+- 奖励以 USD 价值发放（不是未来 token 积分），适合直接参与验证。
+- XPN token 合约已完成，待审计，无 TGE 日期但说明 token 计划存在。
+- 活动窗口紧迫，分散使用比单次大额存款更有优势（官方提示）。
+
+风险：奖励为 $200K+ 总量，参与者数量不明，单账户预期回报不确定；XPN TGE 无官方时间线，活动奖励与 token 分配关系未披露；需确认 app.exponent.finance 是否仍可参与。
+
+来源：[App Rewards](https://app.exponent.finance/en/rewards) | [MEXC 报道 v2 上线](https://www.mexc.com/news/1119751) | [CryptoBriefing v2](https://cryptobriefing.com/exponent-finance-v2-solana-yield-upgrade/) | [airdrops.io](https://airdrops.io/exponent/)
+
+### 2026-06-08
+
+本周判断：继续观察，P1 重点观察。
+
+新信号：无官方公告。搜索结果出现 app.exponent.finance/en/rewards 页面路径，但无官方积分/airdrop 声明，仍属社区预期。v2 私测首批用户已于五月底完成筛选，本周无新进展。
+
+机会：如已申请 v2 资格，本周无新操作；等待 strategy vaults / order book 公开上线。
+
+来源：[官方 X](https://x.com/ExponentFinance) | [App](https://app.exponent.finance/income)
+
+### 2026-06-01
+
+本周判断：继续观察，P1 重点观察。
+
+新信号：无。v2 私测第一批用户已于五月底完成筛选（上周信号），本周无新公告、无官方积分/airdrop 宣布。TVL 峰值此前达 $132M，产品运行稳定。
+
+机会：如已申请 v2 资格，本周无新操作；等待 strategy vaults / order book 公开上线，届时重新评估参与价值。
+
+来源：[官方 X](https://x.com/ExponentFinance) | [Blog](https://www.exponent.finance/blog/introducing-exponent)
+
+### 2026-05-25
+
+本周判断：继续观察，P1 重点观察。
+
+新信号：v2 私测已完成首批小组用户筛选，部分选定用户和合作伙伴已进入 v2 beta；官方 X 推文再次宣传新品牌方向（yield asset issuers + onchain participants 双侧服务）。v1 app 确认将在 v2 公测上线后迁移到 v1.exponent.finance。无官方积分/airdrop 公告。
+
+机会：上周已申请 v2 资格的情况下本周无新操作；等待 v2 私测邀请或 strategy vaults / order book 公开上线。
+
+来源：[X - @ExponentFinance](https://x.com/ExponentFinance/status/2031753696993054979) | [Blog - New Brand](https://www.exponent.finance/blog/introducing-exponent)
+
+### 2026-05-18
+
+本周判断：继续观察，P1 重点观察。
+
+新信号：v2 私测已开放申请入口 [exponent.finance/apply](https://exponent.finance/apply)，目前限受邀用户和合作伙伴，但可公开申请资格。官方博客确认累计融资升至 $7.1M（Multicoin 领投，Solana Ventures / RockawayX 跟投），计划上线 on-chain interest rate order book 和 strategy vaults。无官方积分/airdrop 声明；第三方 OnRefinance 在 Exponent 市场上提供外部积分倍数（非 Exponent 官方）。
+
+机会：可前往 [exponent.finance/apply](https://exponent.finance/apply) 申请 v2 私测资格，成本极低，作为早期交互记录留存。v2 公测上线后再评估是否增加资金配置。
+
+下周关注：v2 私测邀请是否下发；strategy vaults 和 order book 是否上线；是否出现官方积分/激励机制。
+
+来源：[Exponent Blog - v2 Rebrand](https://www.exponent.finance/blog/introducing-exponent) | [Intellectia - $5M Funding](https://intellectia.ai/news/crypto/exponent-secures-5m-funding-to-expand-solana-platform)
+
+### 2026-05-13
+
+本周判断：继续观察，P1 重点观察。
+
+新信号：The Block 报道其 $5M seed 由 Multicoin 领投，并计划下月推出升级版本，扩展到 on-chain interest rate order book 和 strategy vaults。
+
+机会：App 已可连接钱包做固定收益类操作；目前更适合观察新版上线后的交互价值。
+
+下周关注：v2 / strategy vaults 是否上线。
+
+来源：[App](https://app.exponent.finance/income) | [Docs](https://docs.exponent.finance) | [The Block](https://www.theblock.co/post/399630/solana-yield-exchange-exponent-funding-multicoin-capital)
