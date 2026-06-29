@@ -91,7 +91,21 @@ Solana yield exchange 已上线，app/docs/audits/GitHub 可跟踪；继续观�
 - $200K 奖励（截止约 2026-07-24）：覆盖全 v2 活动、按参与规模摊薄、人数未知 → 无法精确。上限情景（权重倾斜 $2.5M alpha 市场）≈ 30 天 8% 额外回报；现实情景摊到 $91M TVL 大概率 30 天个位数百分点。
 - 决策：奔空投性价比一般（XPN 无 TGE）；走 conservative（srONyc）侧 = 低风险「白嫖式」参与，激进侧仅小额试，窗口仅剩 ~25 天宜早动。
 
-来源补充：[CryptoBriefing risk tranching](https://cryptobriefing.com/exponent-finance-risk-tranching-solana-defi/) | [DefiLlama API](https://api.llama.fi/protocol/exponent) | [airdrops.io/exponent](https://airdrops.io/exponent/)
+**底层资产尽调（rewards 各市场的发行方/TVL/安全，2026-06-29）**
+
+注：Exponent 的安全性 = 所选底层资产的安全性。6 个常见标的实为 4 个项目方（onre=onyc 同源、usx=stSLX 同源）。
+
+| 资产 | 项目方 | 类型 | TVL | 安全评级 | 要点 |
+|---|---|---|---|---|---|
+| ONyc / onre | OnRe | RWA 链上再保险（非稳定币） | $204.6M | 🟢 最稳 | 百慕大 BMA 监管(IIGB+DABA)、Quantstamp 审计、Apex 月度 NAV 鉴证；风险=RWA 赎回/NAV 波动 |
+| USX | Solstice | 原生超额抵押稳定币 | $505.4M(项目) | 🟡 中 | 100%+ 抵押、Accountable 鉴证；**2025-12-26 闪跌至 $0.10**(二级流动性枯竭非漏洞，数小时恢复，现 $0.998) |
+| stSLX | Solstice | SLX 质押 LST | 含上 | 🟠 中偏低 | Cycle1 ~20% APY 靠 treasury 补贴、与 USX 体系绑定有传导风险 |
+| rkuSOL | Raiku（RockawayX 整合背书） | LST | DefiLlama 无(极新) | 🟠 中偏低 | staking+MEV+blockspace 拍卖收入；新品、审计未明 |
+| bulkSOL | BULK（Solana perps DEX） | LST | $39.8M(项目) | 🔴 最高风险 | 主网 2026-06-01 才上线、团队不透明、手续费分成模式未检验、空投 farming 性质 |
+
+**配置建议**：主力放 ONyc 侧（唯一受监管+审计+鉴证，对应 srONyc 本金保护）；USX 可接受但记住二级流动性史、别重仓；stSLX/rkuSOL/bulkSOL 仅用零钱博收益+空投权重，bulkSOL 当高风险投机对待。
+
+来源补充：[CryptoBriefing risk tranching](https://cryptobriefing.com/exponent-finance-risk-tranching-solana-defi/) | [DefiLlama API](https://api.llama.fi/protocol/exponent) | [airdrops.io/exponent](https://airdrops.io/exponent/) | [OnRe docs](https://docs.onre.finance/introduction/onre-tokenized-reinsurance-onyc) | [Solstice USX](https://solstice.finance/usx) | [USX depeg](https://www.cryptopolitan.com/solstice-blames-usx-depeg-liquidity-issue/) | [Raiku rkuSOL](https://blockster.com/solana-staking-gets-a-new-yield-source-as-raiku-launches-rkusol) | [BULK](https://builtonbulk.xyz/)
 
 ### 2026-06-22
 
