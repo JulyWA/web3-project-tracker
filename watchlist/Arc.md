@@ -262,6 +262,11 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2070537809379897786 -->
 - 2026-06-29 | [Twitter] `tweet:2070537809379897786` | [开源 Stablecoin FX 示例 App 上线 Arc Testnet](https://x.com/arc/status/2070537809379897786) | 官方开源多币种稳定币 FX 示例 App，AppKit Swaps + Circle Wallets，支持 USDC/EURC/cirBTC 互换，开发者可 fork 在 Arc testnet 测试
 
+<!-- watchlist-slug: tweet:2071670035689455778 -->
+- 2026-06-30 | [Twitter] `tweet:2071670035689455778` | [Arc Testnet 开放 DeFi lend/borrow 示例应用（cirBTC 抵押 + USDC 借款）](https://x.com/arc/status/2071670035689455778) | 开源 DeFi lend/borrow 示例 app，可存 cirBTC 抵押借出 USDC
+<!-- watchlist-slug: tweet:2071624736291893512 -->
+- 2026-06-30 | [Twitter] `tweet:2071624736291893512` | [Gateway App Kits 发布统一 USDC 余额流程指南](https://x.com/arc/status/2071624736291893512) | 发布 kit.unifiedBalance.* 方法映射文档，含存款/余额/转账/转发流程
+
 ## 相关
 
 - [[Web3项目研究]]
