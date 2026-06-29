@@ -123,3 +123,18 @@ Solana yield exchange 已上线，app/docs/audits/GitHub 可跟踪；继续观�
 风险：奖励为 $200K+ 总量，参与者数量不明，单账户预期回报不确定；XPN TGE 无官方时间线，活动奖励与 token 分配关系未披露；需确认 app.exponent.finance 是否仍可参与。
 
 来源：[App Rewards](https://app.exponent.finance/en/rewards) | [MEXC 报道 v2 上线](https://www.mexc.com/news/1119751) | [CryptoBriefing v2](https://cryptobriefing.com/exponent-finance-v2-solana-yield-upgrade/) | [airdrops.io](https://airdrops.io/exponent/)
+
+### 2026-06-29
+
+本周判断：升级候选。v2 完整版于 2026-06-24 正式公开上线，新增风险分级（risk tranching）功能，活跃 30 天奖励窗口截止约 2026-07-24。
+
+新信号：
+- **v2 公开上线（2026-06-24）**：正式引入 risk tranching 功能，用户可选择"本金保护 + 稳健回报"或"高风险追求超额收益"两种策略；Markets / Liquidity / Strategies 三个页面均计入奖励。
+- **新 30 天奖励窗口**：$200K+ 奖励池从 v2 公开上线日（2026-06-24）起计，截止约 2026-07-24；分散使用各页面优于单次大额存款（官方提示）。
+- **XPN token 合约已完成**：正在待审计，无 TGE 日期，但 token 计划存在；早期 v2 交互可能计入。
+
+评估：时间窗口紧迫（约 25 天），符合"资金型 + 脚本型"参与模式，建议升级正式 watchlist 以便深度跟进参与细节和策略。XPN 无 TGE 日期，奖励价值仍不确定，但 $200K 直接奖励可量化，值得验证实际回报。
+
+风险：奖励为 USD 直接分发，单账户预期回报取决于参与者规模；risk tranching 高风险策略有方向损失风险，建议优先走 conservative（本金保护）侧。
+
+来源：[CryptoBriefing v2 launch](https://cryptobriefing.com/exponent-finance-v2-solana-yield-upgrade/) | [MEXC 报道](https://www.mexc.com/news/1119751) | [App](https://app.exponent.finance/income) | [Rewards](https://app.exponent.finance/en/rewards)

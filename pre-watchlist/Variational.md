@@ -73,3 +73,11 @@ Variational 是本批最值得继续观察的项目。它不是只有融资新�
 本周无新信号变化。积分赛季仍运行中：每周约 15 万积分（每周五 0:00 UTC 结算），截止不晚于 Q3 2026（2026-09-30）。VAR 代币 50% 社区分配确认，官方 Medium 文章明确说明"farm omni points before VAR"，是当前积分 → 空投最直接的官方表述。测试网路径免资金成本；主网路径需承担 Arbitrum perp 保证金风险。已连续三周列为升级候选，等待 July 确认是否升级正式 watchlist。
 
 来源：[Points 文档](https://docs.variational.io/omni/rewards/points) | [官方 Medium](https://medium.com/@variational-io/variational-airdrop-farm-omni-points-before-var-b369e4724b6f) | [X 分析](https://x.com/Basesol_NFT/status/2003466651463770358)
+
+### 2026-06-29
+
+本周判断：升级候选（第五周，持续等待 July 确认）。
+
+本周无新信号变化。积分赛季仍运行中：每周约 15 万积分（每周五 0:00 UTC 结算），截止不晚于 Q3 2026（2026-09-30），约剩余 13 周。VAR 代币 50% 社区分配确认，积分 → 代币路径清晰。已连续五周列为升级候选，等待 July 确认是否升级正式 watchlist。
+
+来源：[Points 文档](https://docs.variational.io/omni/rewards/points) | [Omni App](https://omni.variational.io/)

@@ -109,6 +109,16 @@ AI agent guardrails / on-chain verification，官网已有 waitlist 和 docs；�
 
 来源：[官网](https://navalabs.ai) | [Docs](https://docs.navalabs.ai) | [@navaai](https://x.com/navaai)
 
+### 2026-06-29
+
+本周判断：继续观察，P1 重点观察。
+
+本周无新公告。Demo Agent 私测申请入口已于 6 月 5 日开放（上周信号），本周无新的 testnet 开放或积分机制公布。TypeScript / Python SDK 可用，waitlist 仍开放，Arbiter 已通过 NDSS 2026 同行评审。产品离"开发者可实际使用"只差一步，但暂无参与激励机制（积分 / airdrop / grant）公布。
+
+机会：如已申请 demo waitlist，本周无额外操作；关注何时开放正式 demo access 和开发者任务。
+
+来源：[官网](https://navalabs.ai) | [Docs](https://docs.navalabs.ai)
+
 ### 2026-06-15
 
 本周判断：继续观察，P2 普通观察。
