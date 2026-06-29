@@ -107,6 +107,32 @@ Solana yield exchange 已上线，app/docs/audits/GitHub 可跟踪；继续观�
 
 来源补充：[CryptoBriefing risk tranching](https://cryptobriefing.com/exponent-finance-risk-tranching-solana-defi/) | [DefiLlama API](https://api.llama.fi/protocol/exponent) | [airdrops.io/exponent](https://airdrops.io/exponent/) | [OnRe docs](https://docs.onre.finance/introduction/onre-tokenized-reinsurance-onyc) | [Solstice USX](https://solstice.finance/usx) | [USX depeg](https://www.cryptopolitan.com/solstice-blames-usx-depeg-liquidity-issue/) | [Raiku rkuSOL](https://blockster.com/solana-staking-gets-a-new-yield-source-as-raiku-launches-rkusol) | [BULK](https://builtonbulk.xyz/)
 
+**参与人数与奖励真相（2026-06-29 第二轮补充）**
+
+> Exponent 官方界面/API **均不显示活动参与人数**；链上 YT 持有集中度需付费 RPC（公开节点 getTokenLargestAccounts 全部 429/403 限流，待补）。下面用各市场 TVL 作「参与资金量」代理。
+
+14 个奖励活动（合计 ≈$188K，三种参与方式，难度/风险递增）：
+- **Strategy Vaults（3）**：一键存入最省事。⚠️ Solstice Looping Vault 是杠杆循环，慎入。
+- **Liquidity Pools（4）**：做市赚手续费+奖励，有无常损失（IL）。
+- **Limit Orders（6）**：挂 YT 买卖单，APY 最高（41–55%）但 YT 有时间衰减、需主动挂单且成交才算，专业向。
+
+参与量（TVL 代理，实时 2026-06-29）：
+
+| 市场 | TVL | 参与推断 |
+|---|---|---|
+| USX | $35.3M | 资金最密集、参与最多 |
+| ONyc | $11.7M | 奖励活动多、资金扎实 |
+| eUSX | $5.2M | 中等 |
+| stSLX | $2.4M | 偏少 |
+| rkuSOL | $0.02M | 几乎没人 |
+| BulkSOL | $0.03M | 几乎没人 |
+
+**高 APY 真相（核心）**：rkuSOL(41%)、BulkSOL(42%) 的高 APY = 池子极小、几乎没人参与，固定奖励÷极小本金导致虚高；**你一投入 APY 立刻被摊薄**（投 $10K 进 $0.02M 池，你的实际收益率腰斩还不止）。USX/ONyc 的 APY 较低但已反映大量参与者摊薄后的水平、真实可得。→ **别被小池子高 APY 骗，它高是因为没人，不是因为划算。**
+
+**待补**：ONyc/USX/eUSX 的 YT holder 集中度（判断奖励是否被鲸鱼瓜分），需 Helius/Alchemy/QuickNode 等付费 RPC key 才能查 top 持有者。已拿到 YT mint 地址：ONyc=`HYHEZZ7G…hwh9Y`、USX=`47gQiyWp…UfxsS`、eUSX=`BKvVBAWW…DLKM6F`。
+
+来源补充2：[Exponent rewards API](https://api.exponent.finance/rewards) | [Exponent markets API](https://api.exponent.finance/markets)
+
 ### 2026-06-22
 
 本周判断：继续观察，P1 重点观察。
