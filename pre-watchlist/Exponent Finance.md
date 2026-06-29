@@ -129,7 +129,20 @@ Solana yield exchange 已上线，app/docs/audits/GitHub 可跟踪；继续观�
 
 **高 APY 真相（核心）**：rkuSOL(41%)、BulkSOL(42%) 的高 APY = 池子极小、几乎没人参与，固定奖励÷极小本金导致虚高；**你一投入 APY 立刻被摊薄**（投 $10K 进 $0.02M 池，你的实际收益率腰斩还不止）。USX/ONyc 的 APY 较低但已反映大量参与者摊薄后的水平、真实可得。→ **别被小池子高 APY 骗，它高是因为没人，不是因为划算。**
 
-**待补**：ONyc/USX/eUSX 的 YT holder 集中度（判断奖励是否被鲸鱼瓜分），需 Helius/Alchemy/QuickNode 等付费 RPC key 才能查 top 持有者。已拿到 YT mint 地址：ONyc=`HYHEZZ7G…hwh9Y`、USX=`47gQiyWp…UfxsS`、eUSX=`BKvVBAWW…DLKM6F`。
+**链上持有集中度（2026-06-29，Alchemy RPC 实测）**
+
+| 市场 | YT 持有账户数* | YT top1 占比 | top1 性质 |
+|---|---|---|---|
+| ONyc | 17 | ~100% | Exponent AMM 池（非散户） |
+| USX | 8 | 95% | AMM 池 |
+| eUSX | 7 | 100% | AMM 池 |
+
+*`getTokenLargestAccounts` 仅返回 top20；三个 YT 非零账户均 <20，说明 YT 直接持有者就这么几个。SY（存入侧）holder ≥20、略多。
+
+结论：
+- **集中度 100% ≠ 鲸鱼瓜分奖励**：YT 的 95-100% 锁在各市场 Exponent AMM/escrow 池（协议账户，top1 地址各市场不同；`DheMp3…`/`Ep31a…`/`3hr6a…` 等为跨市场协议路由账户）。Pendle 式协议常态。
+- **真实参与钱包数=个位数**：扣除协议账户，散户 YT farmer 约 eUSX/USX 3–5 个、ONyc 十几个 → 链上硬证实「几乎没人参与」。
+- **实操含义**：奖励没被鲸鱼独吞（利好）+ YT farming 竞争者极少→单账户份额可能不错；但 YT 衰减 + 小池摊薄风险仍在，两面性。
 
 来源补充2：[Exponent rewards API](https://api.exponent.finance/rewards) | [Exponent markets API](https://api.exponent.finance/markets)
 
