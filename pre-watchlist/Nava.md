@@ -42,57 +42,13 @@ AI agent guardrails / on-chain verification，官网已有 waitlist 和 docs；�
 
 ## 每周跟踪
 
-### 2026-05-13
+### 2026-06-29
 
 本周判断：继续观察，P1 重点观察。
 
-新信号：官网 waitlist 仍开放，并展示 Polymarket、Uniswap、Hyperliquid 三类 private testing agents；Docs 已有 SDK、MCP Server、Skill Integration、NavaChain / Arbiter / API Reference。
+本周无新公告。Demo Agent 私测申请入口已于 6 月 5 日开放（上周信号），本周无新的 testnet 开放或积分机制公布。TypeScript / Python SDK 可用，waitlist 仍开放，Arbiter 已通过 NDSS 2026 同行评审。产品离"开发者可实际使用"只差一步，但暂无参与激励机制（积分 / airdrop / grant）公布。
 
-机会：可以先加入 waitlist / 申请 demo，暂不需要升级正式 watchlist。
-
-下周关注：是否开放开发者任务、测试资格或 demo 申请后的下一步。
-
-来源：[官网](https://navalabs.ai) | [Docs](https://docs.navalabs.ai) | [融资报道](https://fortune.com/2026/04/14/nava-seed-funding-ai-financial-agents/)
-
-### 2026-05-18
-
-本周判断：继续观察，P2 普通观察。
-
-新信号：近 7 天无新公告。官网 email waitlist 仍开放；Private Testnet 仍未开放；GitHub (navalabs-dev) 公开仓库有限；无积分/airdrop/开发者计划公布。CryptoRank 已收录 ICO 页面但 TGE 时间未披露。
-
-机会：如未加入 waitlist，可在官网填 email 留存早期资格，无其他可操作入口。
-
-下周关注：@navaai 是否公布 testnet invite 或 developer program 开放时间。
-
-来源：[官网](https://navalabs.ai) | [Docs](https://docs.navalabs.ai)
-
-### 2026-05-25
-
-本周判断：继续观察，P2 普通观察。
-
-新信号：本周无新公告。官网文档记录 TypeScript / Python SDK 已可用，私测 waitlist 仍开放（navalabs.ai/#contact），但实际 testnet 访问仍为 API key 邀请制，无公开开放信号。CryptoRank ICO 页面收录但 TGE 时间未披露。
-
-机会：如未加入 waitlist，可在官网留 email 保持早期资格，无其他可操作入口。
-
-来源：[官网](https://navalabs.ai) | [Docs](https://docs.navalabs.ai)
-
-### 2026-06-01
-
-本周判断：继续观察，P2 普通观察。
-
-新信号：无。官网 waitlist 仍开放，TypeScript / Python SDK 可用，Private Testnet 仍为 API key 邀请制。无新开发者计划或积分机制公布。
-
-机会：如已加入 waitlist，本周无额外操作。
-
-来源：[官网](https://navalabs.ai) | [Docs](https://docs.navalabs.ai)
-
-### 2026-06-08
-
-本周判断：继续观察，P2 普通观察。
-
-新信号：无。官网 waitlist 仍开放，Private Testnet 仍为 API key 邀请制，无新开发者计划或积分机制公布。连续四周无实质性更新。
-
-机会：如已加入 waitlist，本周无额外操作。
+机会：如已申请 demo waitlist，本周无额外操作；关注何时开放正式 demo access 和开发者任务。
 
 来源：[官网](https://navalabs.ai) | [Docs](https://docs.navalabs.ai)
 
@@ -109,16 +65,6 @@ AI agent guardrails / on-chain verification，官网已有 waitlist 和 docs；�
 
 来源：[官网](https://navalabs.ai) | [Docs](https://docs.navalabs.ai) | [@navaai](https://x.com/navaai)
 
-### 2026-06-29
-
-本周判断：继续观察，P1 重点观察。
-
-本周无新公告。Demo Agent 私测申请入口已于 6 月 5 日开放（上周信号），本周无新的 testnet 开放或积分机制公布。TypeScript / Python SDK 可用，waitlist 仍开放，Arbiter 已通过 NDSS 2026 同行评审。产品离"开发者可实际使用"只差一步，但暂无参与激励机制（积分 / airdrop / grant）公布。
-
-机会：如已申请 demo waitlist，本周无额外操作；关注何时开放正式 demo access 和开发者任务。
-
-来源：[官网](https://navalabs.ai) | [Docs](https://docs.navalabs.ai)
-
 ### 2026-06-15
 
 本周判断：继续观察，P2 普通观察。
@@ -126,3 +72,57 @@ AI agent guardrails / on-chain verification，官网已有 waitlist 和 docs；�
 本周无新信号。官网 waitlist 仍开放，Private Testnet 仍为 API key 邀请制，未见 demo 开放或开发者计划公布。Polychain/Archetype 背书仍在，方向有叙事，但连续五周无可操作入口。如已加入 waitlist 则无需额外操作。
 
 来源：[官网](https://navalabs.ai)
+
+### 2026-06-08
+
+本周判断：继续观察，P2 普通观察。
+
+新信号：无。官网 waitlist 仍开放，Private Testnet 仍为 API key 邀请制，无新开发者计划或积分机制公布。连续四周无实质性更新。
+
+机会：如已加入 waitlist，本周无额外操作。
+
+来源：[官网](https://navalabs.ai) | [Docs](https://docs.navalabs.ai)
+
+### 2026-06-01
+
+本周判断：继续观察，P2 普通观察。
+
+新信号：无。官网 waitlist 仍开放，TypeScript / Python SDK 可用，Private Testnet 仍为 API key 邀请制。无新开发者计划或积分机制公布。
+
+机会：如已加入 waitlist，本周无额外操作。
+
+来源：[官网](https://navalabs.ai) | [Docs](https://docs.navalabs.ai)
+
+### 2026-05-25
+
+本周判断：继续观察，P2 普通观察。
+
+新信号：本周无新公告。官网文档记录 TypeScript / Python SDK 已可用，私测 waitlist 仍开放（navalabs.ai/#contact），但实际 testnet 访问仍为 API key 邀请制，无公开开放信号。CryptoRank ICO 页面收录但 TGE 时间未披露。
+
+机会：如未加入 waitlist，可在官网留 email 保持早期资格，无其他可操作入口。
+
+来源：[官网](https://navalabs.ai) | [Docs](https://docs.navalabs.ai)
+
+### 2026-05-18
+
+本周判断：继续观察，P2 普通观察。
+
+新信号：近 7 天无新公告。官网 email waitlist 仍开放；Private Testnet 仍未开放；GitHub (navalabs-dev) 公开仓库有限；无积分/airdrop/开发者计划公布。CryptoRank 已收录 ICO 页面但 TGE 时间未披露。
+
+机会：如未加入 waitlist，可在官网填 email 留存早期资格，无其他可操作入口。
+
+下周关注：@navaai 是否公布 testnet invite 或 developer program 开放时间。
+
+来源：[官网](https://navalabs.ai) | [Docs](https://docs.navalabs.ai)
+
+### 2026-05-13
+
+本周判断：继续观察，P1 重点观察。
+
+新信号：官网 waitlist 仍开放，并展示 Polymarket、Uniswap、Hyperliquid 三类 private testing agents；Docs 已有 SDK、MCP Server、Skill Integration、NavaChain / Arbiter / API Reference。
+
+机会：可以先加入 waitlist / 申请 demo，暂不需要升级正式 watchlist。
+
+下周关注：是否开放开发者任务、测试资格或 demo 申请后的下一步。
+
+来源：[官网](https://navalabs.ai) | [Docs](https://docs.navalabs.ai) | [融资报道](https://fortune.com/2026/04/14/nava-seed-funding-ai-financial-agents/)
