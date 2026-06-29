@@ -138,3 +138,36 @@ Solana yield exchange 已上线，app/docs/audits/GitHub 可跟踪；继续观�
 风险：奖励为 USD 直接分发，单账户预期回报取决于参与者规模；risk tranching 高风险策略有方向损失风险，建议优先走 conservative（本金保护）侧。
 
 来源：[CryptoBriefing v2 launch](https://cryptobriefing.com/exponent-finance-v2-solana-yield-upgrade/) | [MEXC 报道](https://www.mexc.com/news/1119751) | [App](https://app.exponent.finance/income) | [Rewards](https://app.exponent.finance/en/rewards)
+
+#### 参与细则（2026-06-29 补充）
+
+**risk tranching 机制（首个市场 = ONyc，OnReFinance 再保险收益资产，收益与加密行情不相关）**
+
+| 策略 | 代币 | 目标 APY | 机制 | 适合 |
+|---|---|---|---|---|
+| 本金保护（senior） | srONyc | ~6.4% | 出问题优先赔付，junior 先垫损失做缓冲 | 保守 / 主力资金 |
+| 超额收益（junior） | jrONyc | ~31.4% | 首损吸收，赚走超额收益；无清算风险 | 激进 / 小额博收益 |
+
+- Alpha 阶段总容量上限 **$2.5M**（先到先得，仅此新市场，非全平台）。
+
+**参与 4 步**
+1. [app.exponent.finance](https://app.exponent.finance) 连 Solana 钱包（Phantom / Solflare / Backpack）
+2. 进 Rewards Hub 看各活动实时奖励
+3. 选路径：Markets（买 srONyc/jrONyc 选 tranche）/ Liquidity（rCLMM 做市赚手续费+收益）/ Strategies（策略金库）
+4. 奖励按真实活动 30 天持续追踪（非快照），官方提示分散用三页面优于单笔大额存款
+
+**成本**
+- 费用：AMM swap 交易费 + 金库收益 5.5% performance fee；Solana gas <$0.01/笔；约每周 30 分钟维护
+- 门槛：未披露最低存款额；tranching alpha 容量仅 $2.5M
+- 风险：junior 侧承担首损；XPN 无 TGE 时间线（但本轮奖励直接发 USD 价值，不依赖 token）
+
+**体量 & 用户数**
+- TVL **$91.3M**（最新，30 天前 $79.2M，上升趋势）；累计 35,000+ 活跃用户、$2B+ 收益交易量、$250M+ 已结算收益（历史口径）
+- tranching alpha 市场单独参与人数无公开数据；4 轮审计（OtterSec ×2、Offside Labs、Certora）
+
+**预计收益**
+- 底层：srONyc ~6.4% / jrONyc ~31.4% APY
+- $200K 奖励（截止约 2026-07-24）：覆盖全 v2 活动、按参与规模摊薄、人数未知 → 无法精确。上限情景（权重倾斜 $2.5M alpha 市场）≈ 30 天 8% 额外回报；现实情景摊到 $91M TVL 大概率 30 天个位数百分点。
+- 决策：奔空投性价比一般（XPN 无 TGE）；走 conservative（srONyc）侧 = 低风险「白嫖式」参与，激进侧仅小额试，窗口仅剩 ~25 天宜早动。
+
+来源补充：[CryptoBriefing risk tranching](https://cryptobriefing.com/exponent-finance-risk-tranching-solana-defi/) | [DefiLlama API](https://api.llama.fi/protocol/exponent) | [airdrops.io/exponent](https://airdrops.io/exponent/)
