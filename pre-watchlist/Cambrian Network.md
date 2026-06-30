@@ -93,12 +93,41 @@ Cambrian 不是传统喂价 oracle，而是面向**机构与 AI agent** 的链�
 - **机会**：oracle 市场远未饱和，尤其机构 + agent 端；AI agent 自动执行交易/管理组合的趋势，放大对可信数据的需求。
 - **威胁**：Chainlink 是 800 磅大猩猩，Pyth 已占高频金融数据，差异化能否转化为付费客户待验证。
 
+### 7.1 竞争深挖：Pyth 机构数据线（2026-06-29 延伸）
+
+Pyth 已重度机构化，且正面切入 AI agent 数据：
+- **Pyth Pro**（2025-09）：机构订阅，1ms 延迟、2,200+ 资产，$5K–10K/mo，ARR 已破 $1M。
+- **Pyth Pro for AI Agents**：3,000+ 机构 feeds，基于 MCP（Claude/Cursor 原生支持），agent 可直接调用——**直接踩进 Cambrian 的核心叙事**。
+- **Data Marketplace**（2026-04）：Fidelity/Euronext/Tradeweb 等发布专有数据上链，瞄准 Bloomberg $50B 市场。
+- 体量碾压：$1.6T 累计量、DeFi 衍生品 60%+ 份额、600+ 集成、feeds 2027 冲 5 万。
+
+威胁评估：
+- ⚠️ Pyth 资源比 Cambrian（$11.9M）高几个数量级，已正面进 AI agent 数据。
+- ✅ 差异化仍在：Pyth 本质是**价格层**（cross-asset price feeds），Cambrian 是**链上金融情报层**（借贷利率/流动性头寸/vault·curator/情绪/开发者活动），Pyth 暂不做这层加工数据。
+- 🔑 真正风险：若 Pyth 把 Data Marketplace + MCP 扩到非价格数据（借贷/流动性），会吞掉 Cambrian 空间。**Cambrian 窗口 = 在 Pyth 扩过来前建差异化护城河 + 锁定客户。**
+
+来源：[Pyth Pro for AI Agents](https://www.pyth.network/blog/pyth-pro-for-ai-agents-institutional-market-data-for-autonomous-finance) | [Pyth $50B 机构转型](https://oakresearch.io/en/analyses/investigations/pyth-network-pyth-50-billion-institutional-pivot)
+
 ## 8. 客户与集成
 
 - **TrueNorth**（agentic brokerage）：主要设计伙伴 + 生产用户（交易数据），其联创还是天使投资人 → 深度绑定。
 - 正在接触机构资产管理者；维护大量 agentic 项目 waitlist。
 - 计划扩展：Hyperliquid、perps 衍生品数据。
 - ⚠️ 目前披露的生产客户主要是 TrueNorth 一家，**单一主力客户依赖**是早期阶段的结构性风险。
+
+### 8.1 主力客户深挖：TrueNorth（2026-06-29 延伸）
+
+TrueNorth = 首个「Agentic Brokerage」（AI 代理券商），2026-06-05 发布，公测开放 **40,000+ waitlist**。
+- 联创：Willy Chuang（前 WOO 交易所 COO）、Alex Lee（AI PhD，前 Temasek 科技投资人）。
+- 融资：早期 $1M 天使 + **$3M pre-seed**（CyberFund 领投，Delphi Labs/SNZ/GSR/Ocular 参投；天使含 Bryan Pellegrino(LayerZero)、Jordi Alexander(Selini)）。
+- 产品：AI agent 扫链上/社交/宏观，把专家策略用自然语言编码成「数字孪生」。
+
+对 Cambrian 的意义（含风险）：
+- ✅ 真实需求信号（40K waitlist + 像样背书），双向绑定（TrueNorth 联创是 Cambrian 天使，Cambrian 供数据给 TrueNorth）。
+- ⚠️ TrueNorth 自身也是 pre-seed、公测刚开、未证 PMF 的早期项目——Cambrian 的旗舰客户靠另一个未验证早期项目。
+- 🔑 **资本圈交叉**：**Selini Capital 同时是 Cambrian seed 投资人 + TrueNorth 天使（Jordi Alexander）** → 这层「客户验证」更像同一资本生态内自产自销，非独立第三方大客户。硬验证待 Franklin Templeton 那条机构线落地。
+
+来源：[TrueNorth $3M pre-seed](https://www.theblock.co/press-releases/381376/truenorth-raises-3m-to-build-domain-specific-ai-for-finance) | [TrueNorth 官网](https://true-north.xyz/)
 
 ## 9. 参与机会拆解（重点）
 
@@ -145,6 +174,8 @@ Cambrian 不是传统喂价 oracle，而是面向**机构与 AI agent** 的链�
 - **正面**：这是 pre-watchlist 里少见的「团队 + 背书 + 真实 traction」三者俱全的早期项目。The Graph 血统让它在数据赛道有真本事，Franklin Templeton 领投把「机构数据」叙事坐实，$4.5B 索引 TVL 证明产品在跑。参与成本极低、下行有限。
 - **trade-off**：上行取决于两件未定的事——① token 是否发、怎么发；② 机构 + AI agent 的差异化能否转化为规模付费。两者都成立才有大回报，任一落空则只是「一个不错的 SaaS 数据公司」。
 - **明确建议**：**立即低成本参与 waitlist/Galxe/Discord**，作为高赔率早期布局；但不投入资金、不抱「确定空投」预期。升级 watchlist 的触发条件 = token 官宣 / 测试网激励上线 / 新机构客户。
+
+**2026-06-29 延伸修正（深挖客户 + 竞争后）**：故事没崩，但更清醒——下游客户 TrueNorth 属「自家生态内验证」（Selini Capital 两边投），上游 Pyth 已用 Pyth Pro for AI Agents（MCP）正面逼近。投资逻辑不变（低成本博空投、下行有限），但「下一个 The Graph 级大赢家」概率**下调**，当作巨头边缘的细分卡位彩票，别当长期重仓核心。盯两个验证点：① 出现 Selini/TrueNorth 圈外的真机构客户；② Pyth 是否把 Data Marketplace 扩到借贷/流动性数据（那将是 Cambrian 的直接威胁）。
 
 ## 14. 行动方案
 
