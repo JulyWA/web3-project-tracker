@@ -13,7 +13,7 @@ updated: 2026-06-29
 - **参与类型**：白名单型 + 人工型（waitlist + Galxe Badge + Discord guild tasks）。
 - **建议**：立即注册 waitlist、claim Galxe early Badge、进 Discord 做 guild tasks —— 成本极低的早期空投布局。token 未官宣，但融资用 **SAFE + token warrant** 结构、waitlist 兼 points campaign，空投预期强。
 - **最大看点**：团队（The Graph 血统）× 背书（a16z CSX → Polychain/Franklin Templeton）× 硬 traction。
-- **最大风险**：oracle 赛道头部（Chainlink/Pyth）固化，「机构 + AI agent」差异化尚未被市场验证；单一主力客户依赖；token 未确认。
+- **最大风险**：① **Pyth 已正面进入 AI agent 数据**（Pyth Pro for AI Agents，已发生而非未来威胁）；② 主力客户 TrueNorth 属「自家生态内验证」（Selini 两边投），非独立机构客户；③「机构 + AI agent」差异化尚未转化为规模付费；④ token 未确认、无时间线。
 
 ## 1. 基本信息
 
@@ -40,12 +40,12 @@ Cambrian 不是传统喂价 oracle，而是面向**机构与 AI agent** 的链�
 - **在建形态（可验证 oracle 网络）**：由 validator network 保证数据可信，服务需要数据溯源/可审计/低延迟的机构，以及需要「无人工把关即可信任」数据的 AI agent。
 - **双模式**：`centralized mode`（服务机构早期客户）+ `verifiable network mode`（服务 agent builders 的可验证数据控制）。
 - **叙事卖点**：自称解决「数据三难（Data Trilemma）」—— fast / comprehensive / verifiable 通常只能取其二，Cambrian 声称唯一同时满足。
-- **商业模式**：SaaS 订阅 + 企业合同 + agent 支付系统（支持 x402）。
+- **商业模式**：SaaS 订阅 + 企业合同 + agent 支付系统（支持 x402——Coinbase 推的 agent 链上支付协议）。
 - **进度**：oracle network alpha 已完成（与 a16z crypto 研究员合作），链上/DeFi 合作集成即将上线。
 
 ## 3. Traction 牵引力指标（硬数据，研报核心亮点）
 
-来自 The Block 报道，这是它区别于"只有融资新闻"早期项目的关键：
+来自 The Block 报道（数据为 2026-06 融资时点快照，会变动），这是它区别于"只有融资新闻"早期项目的关键：
 
 - API 已处理**数百万次调用**
 - 索引 **$4.5B 借贷 TVL**（覆盖 4 大借贷协议）
@@ -53,6 +53,8 @@ Cambrian 不是传统喂价 oracle，而是面向**机构与 AI agent** 的链�
 - 监控 **320,000+ 个 DEX 池**（Base + Solana）
 
 ➡️ 产品已在生产环境跑真实数据，不是 PPT 项目。
+
+- **GitHub / 开发信号**：⏳ 待补——数据基础设施项目应跟踪开源仓库的提交频率/贡献者/star，本轮未查，下次研究补 Cambrian 代码活跃度。
 
 ## 4. 融资情况
 
@@ -125,7 +127,7 @@ TrueNorth = 首个「Agentic Brokerage」（AI 代理券商），2026-06-05 发�
 对 Cambrian 的意义（含风险）：
 - ✅ 真实需求信号（40K waitlist + 像样背书），双向绑定（TrueNorth 联创是 Cambrian 天使，Cambrian 供数据给 TrueNorth）。
 - ⚠️ TrueNorth 自身也是 pre-seed、公测刚开、未证 PMF 的早期项目——Cambrian 的旗舰客户靠另一个未验证早期项目。
-- 🔑 **资本圈交叉**：**Selini Capital 同时是 Cambrian seed 投资人 + TrueNorth 天使（Jordi Alexander）** → 这层「客户验证」更像同一资本生态内自产自销，非独立第三方大客户。硬验证待 Franklin Templeton 那条机构线落地。
+- 🔑 **资本圈交叉**：**Selini Capital（机构）投了 Cambrian seed，其创始人 Jordi Alexander 以个人天使投了 TrueNorth** —— 同源资本，这层「客户验证」更像同一生态内自产自销，非独立第三方大客户。硬验证待 Franklin Templeton 那条机构线落地。
 
 来源：[TrueNorth $3M pre-seed](https://www.theblock.co/press-releases/381376/truenorth-raises-3m-to-build-domain-specific-ai-for-finance) | [TrueNorth 官网](https://true-north.xyz/)
 
@@ -153,12 +155,14 @@ TrueNorth = 首个「Agentic Brokerage」（AI 代理券商），2026-06-05 发�
 | 维度 | 分 | 理由 |
 |---|---|---|
 | 安全性 | 7 | 团队实名（Semiotic/The Graph 核心），主网前未披露审计 |
-| 参与价值 | 8 | waitlist + contributor contest 入口明确，pre-TGE 早期 |
+| 参与价值 | 8 | waitlist + Galxe Badge + Discord guild tasks 入口明确，pre-TGE 早期 |
 | 参与成本 | 8 | 时间投入低，预期空投回报合理 |
 | 融资质量 | 9 | Polychain 领投 + Franklin Templeton + a16z CSX |
 | 团队背景 | 9 | Sam Green 前 Semiotic 联创/The Graph 核心，RL PhD |
 | 赛道质量 | 8 | 可验证 Oracle + AI agents 数据基础设施 |
 | 社区热度 | 5 | 新项目，Twitter 数据未明确 |
+
+> ⚠️ **延伸修正**：上表为 RootData 初筛分。深挖后「赛道质量」实际承压（Pyth 已正面进 AI agent 数据），建议下调至约 7；「参与价值」因 token 无时间线、客户为自家生态，亦偏乐观。综合分实际略低于 79.5。
 
 ## 12. 成本与风险
 
