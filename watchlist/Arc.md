@@ -267,6 +267,11 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2071624736291893512 -->
 - 2026-06-30 | [Twitter] `tweet:2071624736291893512` | [Gateway App Kits 发布统一 USDC 余额流程指南](https://x.com/arc/status/2071624736291893512) | 发布 kit.unifiedBalance.* 方法映射文档，含存款/余额/转账/转发流程
 
+<!-- watchlist-slug: tweet:2071988197715030231 -->
+- 2026-07-01 | [Twitter] `tweet:2071988197715030231` | [Arc 加入 Chainlink Scale 计划](https://x.com/arc/status/2071988197715030231) | Arc 正式加入 Chainlink Scale，开发者可调用 CCIP、Data Streams、Data Feeds、Proof of Reserve
+<!-- watchlist-slug: tweet:2071984372484612486 -->
+- 2026-07-01 | [Twitter] `tweet:2071984372484612486` | [Arc Transaction Memos 功能上线](https://x.com/arc/status/2071984372484612486) | Arc 推出 Transaction Memos，允许链上交易附加结构化付款上下文
+
 ## 相关
 
 - [[Web3项目研究]]
