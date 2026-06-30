@@ -10,8 +10,8 @@ updated: 2026-06-30
 
 - **一句话**：The Graph 核心团队做的「机构 + AI agent 级」链上数据 oracle 网络，顶级背书 + 真实 traction（已索引 $4.5B 借贷 TVL），早期 waitlist 空投窗口开放。
 - **评分**：79.5（通过·普通），🟢 低风险，pre-watchlist。
-- **参与类型**：白名单型 + 人工型（waitlist + Galxe Badge + Discord guild tasks）。
-- **建议**：立即注册 waitlist、claim Galxe early Badge、进 Discord 做 guild tasks —— 成本极低的早期空投布局。token 未官宣，但融资用 **SAFE + token warrant** 结构、waitlist 兼 points campaign，空投预期强。
+- **参与类型**：白名单型（仅 testnet waitlist 邮箱注册）。⚠️ 官方**无积分/任务/空投活动**（2026-06-30 核官网+blog）；第三方空投站宣称的 points/Galxe/Discord 均未经官方证实。
+- **建议**：注册 testnet waitlist（邮箱）即可——这是当前**唯一**确定的官方早期动作。token 未官宣，但融资用 **SAFE + token warrant** 结构 → 发币有预期；然而官方无积分/任务系统，「刷空投」目前无从下手，只能「留个记录等 TGE」。
 - **最大看点**：团队（The Graph 血统）× 背书（a16z CSX → Polychain/Franklin Templeton）× 硬 traction。
 - **最大风险**：① **Pyth 已正面进入 AI agent 数据**（Pyth Pro for AI Agents，已发生而非未来威胁）；② 主力客户 TrueNorth 属「自家生态内验证」（Selini 两边投），非独立机构客户；③「机构 + AI agent」差异化尚未转化为规模付费；④ token 未确认、无时间线。
 
@@ -140,21 +140,21 @@ TrueNorth = 首个「Agentic Brokerage」（AI 代理券商），2026-06-05 发�
 
 ## 9. 参与机会拆解（重点）
 
-**参与类型**：白名单型 + 人工型，成本极低，纯早期空投布局。
+**参与类型**：白名单型，成本极低。⚠️ **重要更正（2026-06-30 核实官网+blog）**：官方目前**仅有 testnet waitlist（邮箱注册）+ 付费 API**，没有积分、任务、Galxe、Discord 奖励或 pre-airdrop campaign。此前下表中的 points/Galxe/Discord 来自第三方空投聚合站渲染、官方未证实，已更正。
 
 | 动作 | 入口 | 说明 |
 |---|---|---|
-| 注册 waitlist | [cambrian.org](https://cambrian.org) 填邮箱 | 兼 pre-airdrop campaign，可加 beta、平台互动赚 points |
-| 进私有 Discord | waitlist 后部分收到邀请 | 查邮箱；做 guild tasks 拿 roles |
-| Galxe early Badge | Galxe | claim 后获专属 role，早期身份凭证 |
+| 注册 testnet waitlist | [cambrian.org](https://cambrian.org) 填邮箱 | **唯一确定的官方入口**；官方未说明是否计入空投 |
+| ~~Discord / Galxe / guild tasks / points~~ | — | ❌ **官方无此机制**（第三方空投站编造），勿据此刷任务 |
 
-- 早期参与者优先级高，points 体系大概率与未来空投挂钩。
+- ⚠️ 官方无 points 体系；「早期参与计入空投」仅为基于 token warrant 的合理推测，无官方承诺。
 - 维护成本：低（注册 + 偶尔互动），适合「白嫖式」长期挂机。
 
 ## 10. 发币 / 空投信号
 
 - **token 未官宣**，官方未披露 token 发行计划或分配。
-- 但两个强信号：① 融资结构是 **SAFE + token warrant**（投资人拿了 token 认股权）；② waitlist 明确兼作 **points / pre-airdrop campaign**。
+- 信号：融资结构是 **SAFE + token warrant**（投资人拿了 token 认股权）→ 发币概率高。
+- ⚠️ **更正**：此前据第三方空投站写的「waitlist 兼 points / pre-airdrop campaign」**官方未证实**（核官网+blog 仅 testnet waitlist + 付费 API）。空投信号实际仅剩 token warrant 这一条间接证据。
 - ➡️ 判断：发币概率高，但**无时间线**，奖励价值仍不确定。当作「低成本早期布局」而非「确定性收益」。
 
 ## 11. 七维评分（沿用 RootData v3，79.5）
@@ -162,14 +162,14 @@ TrueNorth = 首个「Agentic Brokerage」（AI 代理券商），2026-06-05 发�
 | 维度 | 分 | 理由 |
 |---|---|---|
 | 安全性 | 7 | 团队实名（Semiotic/The Graph 核心），主网前未披露审计 |
-| 参与价值 | 8 | waitlist + Galxe Badge + Discord guild tasks 入口明确，pre-TGE 早期 |
+| 参与价值 | 8→6 | 仅 testnet waitlist（邮箱），官方无积分/任务/空投活动；pre-TGE 早期但当前无可刷的参与动作 |
 | 参与成本 | 8 | 时间投入低，预期空投回报合理 |
 | 融资质量 | 9 | Polychain 领投 + Franklin Templeton + a16z CSX |
 | 团队背景 | 9 | Sam Green 前 Semiotic 联创/The Graph 核心，RL PhD |
 | 赛道质量 | 8 | 可验证 Oracle + AI agents 数据基础设施 |
 | 社区热度 | 5 | 新项目，Twitter 数据未明确 |
 
-> ⚠️ **延伸修正**：上表为 RootData 初筛分。深挖后「赛道质量」实际承压（Pyth 已正面进 AI agent 数据），建议下调至约 7；「参与价值」因 token 无时间线、客户为自家生态，亦偏乐观。综合分实际略低于 79.5。
+> ⚠️ **延伸 + 更正**：上表为 RootData 初筛分。① 「赛道质量」深挖后承压（Pyth 已正面进 AI agent 数据），下调至约 7；② 「参与价值」经 2026-06-30 核实，官方**无积分/任务/空投活动**（此前第三方空投站信息有误），实际约 6。综合分**明显低于 79.5（约 74–75）**。
 
 ## 12. 成本与风险
 
@@ -184,14 +184,14 @@ TrueNorth = 首个「Agentic Brokerage」（AI 代理券商），2026-06-05 发�
 
 - **正面**：这是 pre-watchlist 里少见的「团队 + 背书 + 真实 traction」三者俱全的早期项目。The Graph 血统让它在数据赛道有真本事，Franklin Templeton 领投把「机构数据」叙事坐实，$4.5B 索引 TVL 证明产品在跑。参与成本极低、下行有限。
 - **trade-off**：上行取决于两件未定的事——① token 是否发、怎么发；② 机构 + AI agent 的差异化能否转化为规模付费。两者都成立才有大回报，任一落空则只是「一个不错的 SaaS 数据公司」。
-- **明确建议**：**立即低成本参与 waitlist/Galxe/Discord**，作为高赔率早期布局；但不投入资金、不抱「确定空投」预期。升级 watchlist 的触发条件 = token 官宣 / 测试网激励上线 / 新机构客户。
+- **明确建议**：注册 testnet waitlist（邮箱）即可——唯一确定的官方早期动作；官方无积分/任务系统，「刷空投」无从下手，当前只能「留记录等 TGE」。不投入资金、不抱确定空投预期。升级 watchlist 触发条件 = token 官宣 / 测试网激励上线 / 新机构客户。
 
 **2026-06-29 延伸修正（深挖客户 + 竞争后）**：故事没崩，但更清醒——下游客户 TrueNorth 属「自家生态内验证」（Selini Capital 两边投），上游 Pyth 已用 Pyth Pro for AI Agents（MCP）正面逼近。投资逻辑不变（低成本博空投、下行有限），但「下一个 The Graph 级大赢家」概率**下调**，当作巨头边缘的细分卡位彩票，别当长期重仓核心。盯两个验证点：① 出现 Selini/TrueNorth 圈外的真机构客户；② Pyth 是否把 Data Marketplace 扩到借贷/流动性数据（那将是 Cambrian 的直接威胁）。
 
 ## 14. 行动方案
 
-- [ ] 立即：注册 cambrian.org waitlist（留邮箱）
-- [ ] 立即：claim Galxe early Badge，进 Discord 做 guild tasks 拿 role
+- [ ] 立即：注册 cambrian.org **testnet** waitlist（留邮箱）——目前唯一官方入口
+- [ ] 关注：官方是否推出积分/任务/测试网激励（**目前均无**；第三方空投站说法不可信）
 - [ ] 持续：关注 token 官宣、测试网/积分激励、新客户与新链（Ethereum/Hyperliquid）上线
 - [ ] 触发升级 watchlist：出现 TGE 计划 / 链上激励 / 头部机构新签
 
@@ -211,6 +211,7 @@ TrueNorth = 首个「Agentic Brokerage」（AI 代理券商），2026-06-05 发�
 | 2026-06-29 | 新建 pre-watchlist 项目页 | active | 通过 pre-watchlist upsert/intake 首次加入 |
 | 2026-06-29 | 生成详细研报建档 | active | 补全产品/traction/融资/团队/竞品/参与路径 |
 | 2026-06-30 | 审查调整 + 补全 GitHub 信号 | active | 7 处修订（§0 风险/去未核实信息/评分注解等）+ GitHub 开发信号实查 |
+| 2026-06-30 | 更正参与机制（重要） | active | 核实官网+blog：官方仅 testnet waitlist + 付费 API，删除第三方空投站误信息（无 points/Galxe/Discord/pre-airdrop）；参与价值 8→6，综合分降至约 74–75 |
 
 ## 17. 每周跟踪记录
 
@@ -221,9 +222,9 @@ TrueNorth = 首个「Agentic Brokerage」（AI 代理券商），2026-06-05 发�
 新信号：
 - $6M seed（Franklin Templeton + Polychain 共同领投，累计 $11.9M）2026-06-24/25 公布。
 - 产品 traction 公开：索引 $4.5B 借贷 TVL、1,789 vaults、320,000+ DEX 池。
-- waitlist + Galxe Badge + Discord guild tasks 参与入口开放，融资含 token warrant。
+- 仅 testnet waitlist（邮箱）官方开放；融资含 token warrant。（注：第三方空投站宣称的 Galxe/Discord/points 经核实官方无）
 
-机会：立即低成本参与 waitlist/Galxe/Discord，早期空投布局。
+机会：注册 testnet waitlist（邮箱）留记录；官方无积分/任务，暂无可刷的空投动作。
 
 下周关注：token 官宣线索、测试网/积分激励、新机构客户、Ethereum/Hyperliquid 上线。
 
