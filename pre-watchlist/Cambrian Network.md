@@ -10,7 +10,7 @@ updated: 2026-06-30
 
 - **一句话**：The Graph 核心团队做的「机构 + AI agent 级」链上数据 oracle 网络，顶级背书 + 真实 traction（已索引 $4.5B 借贷 TVL），早期 waitlist 空投窗口开放。
 - **评分**：79.5（通过·普通），🟢 低风险，pre-watchlist。
-- **参与类型**：白名单型（仅 testnet waitlist 邮箱注册）。⚠️ 官方**无积分/任务/空投活动**（2026-06-30 核官网+blog）；第三方空投站宣称的 points/Galxe/Discord 均未经官方证实。
+- **参与类型**：白名单型（仅 testnet waitlist 邮箱注册）。⚠️ 官方**当前无进行中的可刷活动**（2026-06-30 三轮核实：官网+blog+Galxe API）：官方 Galxe space 真实（3.4万关注）但唯一活动 Deep42 Seedling Club Badge 已过期；第三方空投站宣称的 points 体系 / Discord guild tasks / contributor contest **均不存在**。
 - **建议**：注册 testnet waitlist（邮箱）即可——这是当前**唯一**确定的官方早期动作。token 未官宣，但融资用 **SAFE + token warrant** 结构 → 发币有预期；然而官方无积分/任务系统，「刷空投」目前无从下手，只能「留个记录等 TGE」。
 - **最大看点**：团队（The Graph 血统）× 背书（a16z CSX → Polychain/Franklin Templeton）× 硬 traction。
 - **最大风险**：① **Pyth 已正面进入 AI agent 数据**（Pyth Pro for AI Agents，已发生而非未来威胁）；② 主力客户 TrueNorth 属「自家生态内验证」（Selini 两边投），非独立机构客户；③「机构 + AI agent」差异化尚未转化为规模付费；④ token 未确认、无时间线。
@@ -140,12 +140,13 @@ TrueNorth = 首个「Agentic Brokerage」（AI 代理券商），2026-06-05 发�
 
 ## 9. 参与机会拆解（重点）
 
-**参与类型**：白名单型，成本极低。⚠️ **重要更正（2026-06-30 核实官网+blog）**：官方目前**仅有 testnet waitlist（邮箱注册）+ 付费 API**，没有积分、任务、Galxe、Discord 奖励或 pre-airdrop campaign。此前下表中的 points/Galxe/Discord 来自第三方空投聚合站渲染、官方未证实，已更正。
+**参与类型**：白名单型，成本极低。⚠️ **重要更正（2026-06-30 三轮核实：官网+blog+Galxe API）**：当前官方参与入口仅 testnet waitlist（邮箱）+ 付费 API，**无进行中的可刷空投活动**。官方 Galxe space 真实存在（3.4万关注），但历史唯一活动「Deep42 Cambrian Seedling Club」Badge **已过期**（3,769 人领过）；第三方空投站宣称的 points 体系 / Discord guild tasks / contributor contest **均不存在**。
 
 | 动作 | 入口 | 说明 |
 |---|---|---|
 | 注册 testnet waitlist | [cambrian.org](https://cambrian.org) 填邮箱 | **唯一确定的官方入口**；官方未说明是否计入空投 |
-| ~~Discord / Galxe / guild tasks / points~~ | — | ❌ **官方无此机制**（第三方空投站编造），勿据此刷任务 |
+| Galxe space | [app.galxe.com/quest/CambrianNetwork](https://app.galxe.com/quest/CambrianNetwork) | 真实官方（3.4万关注），但唯一活动 Deep42 Seedling Club Badge **已过期**（3,769 参与）；当前无进行中任务 |
+| ~~contributor contest / Discord guild tasks / points 体系~~ | — | ❌ **不存在**（第三方空投站编造），勿据此刷任务 |
 
 - ⚠️ 官方无 points 体系；「早期参与计入空投」仅为基于 token warrant 的合理推测，无官方承诺。
 - 维护成本：低（注册 + 偶尔互动），适合「白嫖式」长期挂机。
@@ -154,7 +155,7 @@ TrueNorth = 首个「Agentic Brokerage」（AI 代理券商），2026-06-05 发�
 
 - **token 未官宣**，官方未披露 token 发行计划或分配。
 - 信号：融资结构是 **SAFE + token warrant**（投资人拿了 token 认股权）→ 发币概率高。
-- ⚠️ **更正**：此前据第三方空投站写的「waitlist 兼 points / pre-airdrop campaign」**官方未证实**（核官网+blog 仅 testnet waitlist + 付费 API）。空投信号实际仅剩 token warrant 这一条间接证据。
+- ⚠️ **更正（三轮核实）**：此前据第三方空投站写的「waitlist 兼 points / pre-airdrop campaign / contributor contest」**官方均无**。已核：官网=testnet waitlist+付费 API；Galxe space 真实但唯一活动（Deep42 Seedling Club Badge）已过期。空投信号实际仅剩 token warrant 这一条间接证据 + Galxe space 存在（暗示未来可能有 quest）。
 - ➡️ 判断：发币概率高，但**无时间线**，奖励价值仍不确定。当作「低成本早期布局」而非「确定性收益」。
 
 ## 11. 七维评分（沿用 RootData v3，79.5）
@@ -212,6 +213,7 @@ TrueNorth = 首个「Agentic Brokerage」（AI 代理券商），2026-06-05 发�
 | 2026-06-29 | 生成详细研报建档 | active | 补全产品/traction/融资/团队/竞品/参与路径 |
 | 2026-06-30 | 审查调整 + 补全 GitHub 信号 | active | 7 处修订（§0 风险/去未核实信息/评分注解等）+ GitHub 开发信号实查 |
 | 2026-06-30 | 更正参与机制（重要） | active | 核实官网+blog：官方仅 testnet waitlist + 付费 API，删除第三方空投站误信息（无 points/Galxe/Discord/pre-airdrop）；参与价值 8→6，综合分降至约 74–75 |
+| 2026-06-30 | 第三轮核实 Galxe API（钉死） | active | 修正第二轮过度否定：官方 Galxe space 真实(3.4万关注)、唯一活动 Deep42 Seedling Club Badge 已过期(3769参与)；contributor contest 确认不存在；当前仍无进行中可刷活动，参与价值 6 维持 |
 
 ## 17. 每周跟踪记录
 
@@ -222,7 +224,7 @@ TrueNorth = 首个「Agentic Brokerage」（AI 代理券商），2026-06-05 发�
 新信号：
 - $6M seed（Franklin Templeton + Polychain 共同领投，累计 $11.9M）2026-06-24/25 公布。
 - 产品 traction 公开：索引 $4.5B 借贷 TVL、1,789 vaults、320,000+ DEX 池。
-- 仅 testnet waitlist（邮箱）官方开放；融资含 token warrant。（注：第三方空投站宣称的 Galxe/Discord/points 经核实官方无）
+- 仅 testnet waitlist（邮箱）官方开放；融资含 token warrant。（注：官方 Galxe space 真实但活动 Deep42 Seedling Club 已过期；contributor contest/points/Discord guild tasks 经核实不存在，系第三方空投站编造）
 
 机会：注册 testnet waitlist（邮箱）留记录；官方无积分/任务，暂无可刷的空投动作。
 
