@@ -1,7 +1,7 @@
 ---
 status: pre-watchlist
 created: 2026-06-29
-updated: 2026-06-29
+updated: 2026-06-30
 ---
 
 # Cambrian Network 完整研究报告
@@ -54,7 +54,14 @@ Cambrian 不是传统喂价 oracle，而是面向**机构与 AI agent** 的链�
 
 ➡️ 产品已在生产环境跑真实数据，不是 PPT 项目。
 
-- **GitHub / 开发信号**：⏳ 待补——数据基础设施项目应跟踪开源仓库的提交频率/贡献者/star，本轮未查，下次研究补 Cambrian 代码活跃度。
+**GitHub / 开发信号**（[github.com/cambriannetwork](https://github.com/cambriannetwork)，截至 2026-06）：
+
+- org 创建 2024-10；**13 个公开 repo，总 star 仅约 10，公开活跃度低**。
+- 最近公开提交（2025-08~11）集中在 **agent 工具**：`x402-quick-demo`（⭐6）、`cambrian_erc8004_agent`（⭐4，ERC-8004 agent 身份标准）、`cambrian-monetized-mcp`（MCP 货币化）——印证 agent 支付 / MCP 方向。
+- 早期（2024）有 Uniswap v4 hook / volatility / **substreams** 痕迹（substreams = The Graph 技术，呼应团队血统），后 pivot 到数据 oracle。
+- 最近一次公开 push 约 2025-11，此后公开仓库静默约 7 个月。
+- **解读**：核心数据引擎 / API 后端应为**闭源**（机构 SaaS + centralized mode 的常态，商业数据是护城河，不必苛责）；但其号称的「可验证 oracle 网络」核心**尚未开源**，公开侧主要是 agent demo —— verifiable 部分仍属 alpha、待观察。安全性上 `cambrian-contracts`（Solidity）star 0、主网前未披露审计，与 §11 评分一致。
+- ⚠️ 注意区分：`cambrian.one`（Solana restaking NCN/AVS）是**另一个同名项目**，非本项目（本项目 = cambrian.org / github.com/cambriannetwork）。
 
 ## 4. 融资情况
 
@@ -203,6 +210,7 @@ TrueNorth = 首个「Agentic Brokerage」（AI 代理券商），2026-06-05 发�
 |---|---|---|---|
 | 2026-06-29 | 新建 pre-watchlist 项目页 | active | 通过 pre-watchlist upsert/intake 首次加入 |
 | 2026-06-29 | 生成详细研报建档 | active | 补全产品/traction/融资/团队/竞品/参与路径 |
+| 2026-06-30 | 审查调整 + 补全 GitHub 信号 | active | 7 处修订（§0 风险/去未核实信息/评分注解等）+ GitHub 开发信号实查 |
 
 ## 17. 每周跟踪记录
 
