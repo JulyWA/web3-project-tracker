@@ -273,6 +273,9 @@ Dragonfly 和 Electric Capital 都是加密原生一线/强二线机构，对 De
 <!-- watchlist-slug: tweet:2071682397611888874 -->
 - 2026-06-30 | [Twitter] `tweet:2071682397611888874` | [Playoffs Week 7 结束，积分总量 61.5M（周环比 +1.65%）](https://x.com/hibachi_xyz/status/2071682397611888874) | 积分增速放缓，早期积累优势扩大，无 snapshot 信号
 
+<!-- watchlist-slug: tweet:2072370691198816317 -->
+- 2026-07-02 | [Twitter] `tweet:2072370691198816317` | [SHIFT vault TVL 接近上限，仍可入场赚取收益和积分](https://x.com/hibachi_xyz/status/2072370691198816317) | SHIFT vault TVL cap 接近上限，进入可赚取收益和 bonus points
+
 ## 相关
 
 - [[Web3项目研究]]
