@@ -272,6 +272,9 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2071984372484612486 -->
 - 2026-07-01 | [Twitter] `tweet:2071984372484612486` | [Arc Transaction Memos 功能上线](https://x.com/arc/status/2071984372484612486) | Arc 推出 Transaction Memos，允许链上交易附加结构化付款上下文
 
+<!-- watchlist-slug: tweet:2072711903508623840 -->
+- 2026-07-03 | [Twitter] `tweet:2072711903508623840` | [Pyth Network 价格源上线 Arc Testnet](https://x.com/arc/status/2072711903508623840) | Pyth 高频金融数据在 Arc Testnet 上线，合约地址和 EVM 集成文档已发布
+
 ## 相关
 
 - [[Web3项目研究]]
