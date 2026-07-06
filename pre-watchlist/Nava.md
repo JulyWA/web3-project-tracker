@@ -42,6 +42,14 @@ AI agent guardrails / on-chain verification，官网已有 waitlist 和 docs；�
 
 ## 每周跟踪
 
+### 2026-07-06
+
+本周判断：继续观察，P2 普通观察。
+
+本周无新公告。Demo Agent 私测申请入口仍开放，产品可访问度没有变化，暂无积分/airdrop/grant 机制公布。
+
+来源：[官网](https://navalabs.ai)
+
 ### 2026-06-29
 
 本周判断：继续观察，P1 重点观察。

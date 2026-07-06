@@ -217,6 +217,14 @@ TrueNorth = 首个「Agentic Brokerage」（AI 代理券商），2026-06-05 发�
 
 ## 17. 每周跟踪记录
 
+### 2026-07-06
+
+本周判断：继续观察，P1 重点观察。
+
+本周无新信号。官方唯一可参与动作仍是注册 testnet waitlist（邮箱）。第三方空投站宣称的积分/contributor contest 经核实不存在。背书（Polychain/Franklin Templeton/a16z CSX）和 The Graph 团队血统维持高优先级，等待官方测试网或积分激励入口。
+
+来源：[官网](https://cambrian.org)
+
 ### 2026-06-29
 
 本周判断：新建 + 详细建档，继续观察（pre-watchlist），P1 重点观察。
