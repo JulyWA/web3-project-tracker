@@ -279,6 +279,9 @@ Dragonfly 和 Electric Capital 都是加密原生一线/强二线机构，对 De
 <!-- watchlist-slug: tweet:2072674184467996782 -->
 - 2026-07-03 | [Twitter] `tweet:2072674184467996782` | [$PAXG 黄金合约上线，最高 10 倍杠杆](https://x.com/hibachi_xyz/status/2072674184467996782) | $PAXG 在 Hibachi 上线，支持最高 10x 杠杆，每枚代表 1 盎司 Paxos 托管黄金
 
+<!-- watchlist-slug: tweet:2074150684023255070 -->
+- 2026-07-07 | [Twitter] `tweet:2074150684023255070` | [The Playoffs Week 8 完成，总积分 62.5M（周增 +1.63%）](https://x.com/hibachi_xyz/status/2074150684023255070) | Week 8 积分周更新，总量 62.5M，周增长 1.63%
+
 ## 相关
 
 - [[Web3项目研究]]

@@ -275,6 +275,9 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2072711903508623840 -->
 - 2026-07-03 | [Twitter] `tweet:2072711903508623840` | [Pyth Network 价格源上线 Arc Testnet](https://x.com/arc/status/2072711903508623840) | Pyth 高频金融数据在 Arc Testnet 上线，合约地址和 EVM 集成文档已发布
 
+<!-- watchlist-slug: tweet:2074206752988418335 -->
+- 2026-07-07 | [Twitter] `tweet:2074206752988418335` | [隐私路线图：为 builder 提供可选链上隐私](https://x.com/arc/status/2074206752988418335) | Arc 公布 opt-in 隐私功能路线图，面向在 Arc 上构建应用的开发者
+
 ## 相关
 
 - [[Web3项目研究]]
