@@ -278,6 +278,9 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2074206752988418335 -->
 - 2026-07-07 | [Twitter] `tweet:2074206752988418335` | [隐私路线图：为 builder 提供可选链上隐私](https://x.com/arc/status/2074206752988418335) | Arc 公布 opt-in 隐私功能路线图，面向在 Arc 上构建应用的开发者
 
+<!-- watchlist-slug: tweet:2074547232792293686 -->
+- 2026-07-08 | [Twitter] `tweet:2074547232792293686` | [Arc Testnet 今日进行负载测试](https://x.com/arc/status/2074547232792293686) | 7/8 计划性负载测试，可能出现交易失败率升高、手续费上涨、出块时间延长，testnet 操作可暂缓
+
 ## 相关
 
 - [[Web3项目研究]]
