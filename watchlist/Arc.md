@@ -281,6 +281,9 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2074547232792293686 -->
 - 2026-07-08 | [Twitter] `tweet:2074547232792293686` | [Arc Testnet 今日进行负载测试](https://x.com/arc/status/2074547232792293686) | 7/8 计划性负载测试，可能出现交易失败率升高、手续费上涨、出块时间延长，testnet 操作可暂缓
 
+<!-- watchlist-slug: tweet:2075339215928451205 -->
+- 2026-07-10 | [Twitter] `tweet:2075339215928451205` | [Arc x Encode virtual Programmable Money Bootcamp](https://x.com/arc/status/2075339215928451205) | Arc x Encode 虚拟 Programmable Money Bootcamp 进行中至 7/12，后续接 Hackathon
+
 ## 相关
 
 - [[Web3项目研究]]
