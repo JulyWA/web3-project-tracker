@@ -284,6 +284,9 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2075339215928451205 -->
 - 2026-07-10 | [Twitter] `tweet:2075339215928451205` | [Arc x Encode virtual Programmable Money Bootcamp](https://x.com/arc/status/2075339215928451205) | Arc x Encode 虚拟 Programmable Money Bootcamp 进行中至 7/12，后续接 Hackathon
 
+<!-- watchlist-slug: tweet:2075611000976613611 -->
+- 2026-07-13 | [Twitter] `tweet:2075611000976613611` | [Arc Open Source Showcase 线上展示，7 月 16 日](https://x.com/arc/status/2075611000976613611) | 7/16 10AM ET Circle+Canteen 联合走读 Arc 开源代码库、App primitives 和 Canteen×Arc 黑客松成果
+
 ## 相关
 
 - [[Web3项目研究]]
