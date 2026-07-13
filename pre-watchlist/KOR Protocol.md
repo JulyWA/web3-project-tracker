@@ -1,0 +1,30 @@
+---
+status: pre-watchlist
+created: 2026-07-13
+---
+
+# KOR Protocol
+
+## 1. 基本信息
+
+| 字段 | 内容 |
+|---|---|
+| 项目 ID | kor-protocol |
+| 状态 | pre-watchlist / active |
+| 分数 | 71 |
+| 风险 | 低风险 |
+| 官网 | https://www.korprotocol.com |
+| X / Twitter | https://twitter.com/korprotocol |
+| RootData | https://www.rootdata.com/Projects/detail/KOR%20Protocol |
+
+## 2. 初始判断
+
+KOR Protocol 是 Base 链上 IP clearinghouse，已跟 Black Mirror/Beatport 等大牌合作，gross revenue $2M，拥有 400k 连接钱包+100w 注册用户。是本批融资项目中唯一同时具备（a）顶级加密 VC 双领投（1kx+Blockchain Capital）（b）官方明确宣布 token launch 计划（c）已有实际产品+用户基础的项目。参与路径清晰：官网连接钱包、注册创作者资产、参与合作方任务。空投潜在样本：类比 Story Protocol/Zora 但估值仍在早期（$100M），风险主要是 IP 赛道过去空投兑现价值不高。建议以人工+多钱包脚本方式布局早期用户位。
+
+## 3. 生命周期记录
+
+| 日期 | 动作 | 状态 | 备注 |
+|---|---|---|---|
+| 2026-07-13 | 新建 pre-watchlist 项目页 | active | 通过 pre-watchlist upsert/intake 首次加入或更新 |
+
+## 4. 每周跟踪记录
