@@ -282,6 +282,9 @@ Dragonfly 和 Electric Capital 都是加密原生一线/强二线机构，对 De
 <!-- watchlist-slug: tweet:2074150684023255070 -->
 - 2026-07-07 | [Twitter] `tweet:2074150684023255070` | [The Playoffs Week 8 完成，总积分 62.5M（周增 +1.63%）](https://x.com/hibachi_xyz/status/2074150684023255070) | Week 8 积分周更新，总量 62.5M，周增长 1.63%
 
+<!-- watchlist-slug: tweet:2076696562550349995 -->
+- 2026-07-14 | [Twitter] `tweet:2076696562550349995` | [FLP vault 上限提升至 $2M，22.5% 年化 + Playoffs 积分同时累积](https://x.com/hibachi_xyz/status/2076696562550349995) | Playoffs 第9周结束，流通积分63.5M（周增+1.60%），FLP vault上限提升至$2M，先到先得。
+
 ## 相关
 
 - [[Web3项目研究]]
