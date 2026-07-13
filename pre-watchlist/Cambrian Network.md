@@ -217,6 +217,14 @@ TrueNorth = 首个「Agentic Brokerage」（AI 代理券商），2026-06-05 发�
 
 ## 17. 每周跟踪记录
 
+### 2026-07-13
+
+本周判断：继续观察，P1 重点观察。
+
+本周无新信号。官方唯一入口仍是 testnet waitlist（邮箱）。搜索确认：第三方空投站宣称的 points/contributor contest 不存在，Galxe space 真实但唯一活动已过期（3,769 人领取）。Polychain/Franklin Templeton/a16z CSX 背书和 The Graph 团队血统维持高优先级，但 token 无官宣、无时间线。触发升级条件：TGE 官宣 / 测试网激励 / 新 Galxe 活动开放。
+
+来源：[官网](https://cambrian.org) | [Galxe](https://app.galxe.com/quest/CambrianNetwork)
+
 ### 2026-07-06
 
 本周判断：继续观察，P1 重点观察。

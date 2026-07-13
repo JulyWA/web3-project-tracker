@@ -45,6 +45,14 @@ Solana yield exchange 已上线，app/docs/audits/GitHub 可跟踪；继续观�
 
 ## 每周跟踪
 
+### 2026-07-13
+
+本周判断：升级候选（倒计时 ~11 天，最后决策节点）。
+
+v2 $200K+ 奖励窗口从 2026-06-24 起 30 天，截止约 **2026-07-24**，本周是最后有效参与决策节点。XPN token 合约待审计，无 TGE 时间线，但本轮奖励直接发 USD，不依赖 token 价格。如确认参与：优先走 srONyc（本金保护侧）+ Strategies 路径，分散使用三页面；若不参与，等下次窗口。
+
+来源：[App Rewards](https://app.exponent.finance/en/rewards)
+
 ### 2026-07-06
 
 本周判断：升级候选（窗口倒计时，约 18 天）。
