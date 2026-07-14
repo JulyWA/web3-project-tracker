@@ -287,6 +287,9 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2075611000976613611 -->
 - 2026-07-13 | [Twitter] `tweet:2075611000976613611` | [Arc Open Source Showcase 线上展示，7 月 16 日](https://x.com/arc/status/2075611000976613611) | 7/16 10AM ET Circle+Canteen 联合走读 Arc 开源代码库、App primitives 和 Canteen×Arc 黑客松成果
 
+<!-- watchlist-slug: tweet:2077115105540727130 -->
+- 2026-07-15 | [Twitter] `tweet:2077115105540727130` | [Circle Developer Grant 首批 2026 年队伍公布，8 支团队在 Arc 上构建项目](https://x.com/arc/status/2077115105540727130) | Circle Grant Program 首批 2026 年队伍，8 支团队在 Arc 构建非洲和全球南方支付/金融普惠产品
+
 ## 相关
 
 - [[Web3项目研究]]
