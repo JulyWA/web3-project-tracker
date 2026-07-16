@@ -290,6 +290,9 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2077115105540727130 -->
 - 2026-07-15 | [Twitter] `tweet:2077115105540727130` | [Circle Developer Grant 首批 2026 年队伍公布，8 支团队在 Arc 上构建项目](https://x.com/arc/status/2077115105540727130) | Circle Grant Program 首批 2026 年队伍，8 支团队在 Arc 构建非洲和全球南方支付/金融普惠产品
 
+<!-- watchlist-slug: tweet:2077776606840705167 -->
+- 2026-07-17 | [Twitter] `tweet:2077776606840705167` | [Encode Club Arc Programmable Money Hackathon 开放参与](https://x.com/arc/status/2077776606840705167) | Arc 转推 Encode Club hackathon，4 周构建 Arc 链上产品，适合开发者参与
+
 ## 相关
 
 - [[Web3项目研究]]
