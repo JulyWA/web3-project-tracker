@@ -285,6 +285,9 @@ Dragonfly 和 Electric Capital 都是加密原生一线/强二线机构，对 De
 <!-- watchlist-slug: tweet:2076696562550349995 -->
 - 2026-07-14 | [Twitter] `tweet:2076696562550349995` | [FLP vault 上限提升至 $2M，22.5% 年化 + Playoffs 积分同时累积](https://x.com/hibachi_xyz/status/2076696562550349995) | Playoffs 第9周结束，流通积分63.5M（周增+1.60%），FLP vault上限提升至$2M，先到先得。
 
+<!-- watchlist-slug: tweet:2078119064703012967 -->
+- 2026-07-20 | [Twitter] `tweet:2078119064703012967` | [RoboNetHQ vault 满额，下一轮开放待通知](https://x.com/hibachi_xyz/status/2078119064703012967) | RoboNetHQ vault 在 24 小时内达到容量上限，Hibachi 官方提示下一轮开放即将到来
+
 ## 相关
 
 - [[Web3项目研究]]

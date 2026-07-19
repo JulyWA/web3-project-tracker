@@ -293,6 +293,9 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2077776606840705167 -->
 - 2026-07-17 | [Twitter] `tweet:2077776606840705167` | [Encode Club Arc Programmable Money Hackathon 开放参与](https://x.com/arc/status/2077776606840705167) | Arc 转推 Encode Club hackathon，4 周构建 Arc 链上产品，适合开发者参与
 
+<!-- watchlist-slug: commit:arc-node@745ba4e -->
+- 2026-07-20 | [GitHub] `commit:arc-node@745ba4e` | [arc-node：新增 public release finalizer CI 工作流](https://github.com/circlefin/arc-node/commit/745ba4eac61a553560a77c8b384c75aa6342da3f) | 新增 public release finalizer CI 工作流，Arc 正在规范化公开版本发布流程
+
 ## 相关
 
 - [[Web3项目研究]]
