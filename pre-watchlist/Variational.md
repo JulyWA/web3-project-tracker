@@ -42,6 +42,14 @@ Variational 是本批最值得继续观察的项目。它不是只有融资新�
 
 ## 4. 每周跟踪记录
 
+### 2026-07-20
+
+本周判断：升级候选（第 9 周，持续等待 July 确认）。
+
+Omni Points 赛季继续按计划运行：每周约 15 万积分，截止不晚于 Q3 2026（2026-09-30），约剩 **10 周**。新确认信号：VAR token TGE 官方时间窗口锁定在 Q3-Q4 2026，50% 社区分配不变，积分 → 代币路径明确。距离赛季结束仅剩约 10 周，若 July 想布局积分累积窗口，现在是最晚合理决策时机。已连续 9 周列为升级候选；若本周仍不决策，建议降回 P1 观察。
+
+来源：[Points 文档](https://docs.variational.io/omni/rewards/points) | [Omni App](https://omni.variational.io/) | [VAR 概述](https://whales.market/blog/what-is-var/)
+
 ### 2026-07-13
 
 本周判断：升级候选（第 8 周，持续等待 July 确认）。

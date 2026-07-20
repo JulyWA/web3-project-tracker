@@ -42,6 +42,14 @@ AI agent guardrails / on-chain verification，官网已有 waitlist 和 docs；�
 
 ## 每周跟踪
 
+### 2026-07-20
+
+本周判断：继续观察，P2 普通观察。
+
+本周无新公告。Demo waitlist 仍开放，无积分/airdrop/grant 机制。Polychain+Archetype 背书、AI agent guardrails 方向仍有价值，但产品进展和参与入口连续数周无变化。暂不需要额外操作。
+
+来源：[官网](https://navalabs.ai) | [Docs](https://docs.navalabs.ai)
+
 ### 2026-07-13
 
 本周判断：继续观察，P2 普通观察。

@@ -28,3 +28,11 @@ KOR Protocol 是 Base 链上 IP clearinghouse，已跟 Black Mirror/Beatport 等
 | 2026-07-13 | 新建 pre-watchlist 项目页 | active | 通过 pre-watchlist upsert/intake 首次加入或更新 |
 
 ## 4. 每周跟踪记录
+
+### 2026-07-20
+
+本周判断：升级候选（首次）。
+
+新信号：KOR Score Season 2 任务正式运行，入口在 [rewards.korprotocol.io](https://rewards.korprotocol.io)，覆盖社交任务、ENKOR 互动、IP 收藏品积分。官方明确宣布 $KOR token（名为 "IP"）将在 TGE 后向 KOR Score 持有者空投，无明确 TGE 日期但 Season 2 本身是活跃参与窗口。参与成本极低：Base 链 gas + 免费注册 + 社交任务，且 1kx + Blockchain Capital 双顶级机构领投背书。如确认参与，先在官网连接钱包 + 完成 KOR Score 任务即可占位。
+
+来源：[KOR Score 任务](https://rewards.korprotocol.io) | [官方 X](https://x.com/KorProtocol/status/1907433683029573781) | [airdrops.io](https://airdrops.io/kor-protocol/)

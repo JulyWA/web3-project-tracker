@@ -358,6 +358,14 @@ public_project_page: https://github.com/JulyWA/web3-project-tracker/blob/main/pr
 
 ## 18. 每日跟踪记录
 
+### 2026-07-20
+
+本周判断：继续观察，P2 普通观察。
+
+DRV 已 TGE（2025-01），不作为未发币空投跟踪。本周 stDRV staking 和 trading rewards 按周 epoch 正常运行，无新 vault boost、Season 2 空投或低风险入口公布。保留观察，等待 reward/fee 比改善或明确二次空投机制出现。本周无额外操作。
+
+来源：[App Rewards](https://app.derive.xyz/rewards)
+
 ### 2026-07-13
 
 本周判断：继续观察，P2 普通观察。
