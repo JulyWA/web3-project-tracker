@@ -296,6 +296,9 @@ updated: 2026-05-11
 <!-- watchlist-slug: commit:arc-node@745ba4e -->
 - 2026-07-20 | [GitHub] `commit:arc-node@745ba4e` | [arc-node：新增 public release finalizer CI 工作流](https://github.com/circlefin/arc-node/commit/745ba4eac61a553560a77c8b384c75aa6342da3f) | 新增 public release finalizer CI 工作流，Arc 正在规范化公开版本发布流程
 
+<!-- watchlist-slug: tweet:2079627251289895338 -->
+- 2026-07-22 | [Twitter] `tweet:2079627251289895338` | [Architect Check-in 月度直播 7/31](https://x.com/arc/status/2079627251289895338) | Arc 月度 architect check-in 直播 7 月 31 日，在 Arc House Architect 社区组注册
+
 ## 相关
 
 - [[Web3项目研究]]
