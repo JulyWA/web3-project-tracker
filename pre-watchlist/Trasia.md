@@ -9,7 +9,7 @@ updated: 2026-07-22
 ## 0. 快速结论
 
 - **一句话**：前 Multicoin 合伙人 Mable Jiang 创办的**亚洲版 Hyperliquid 前端**，Multicoin 独投 $1.75M（其首笔 Hyperliquid 生态 equity）；但它切入的 HIP-3 赛道**已被 Trade.XYZ 拿下 98% 份额、Felix/Ventuals 等竞争者已退出**。
-- **RootData 初筛 71 分 → 本报告修正至约 66–68**（赛道质量与融资质量被高估，详见 §10）。
+- **RootData 初筛 71 分 → 按 v3.1 规则重算 64 分，已低于 70 通过线**（赛道质量与融资质量被系统性高估，详见 §10）。
 - **当前真实形态**：非托管**前端界面**，交易的是 Hyperliquid 上**已有**的 HIP-3 市场（实测为 trade.xyz 的 `xyz:SP500`）；**自己的亚洲股票 perp 市场尚未部署**（计划年内）。
 - **参与方式**：Asia Points（官方真实存在，**invite-only 且未登录无法查看规则**）+ 实际 perp 交易 → 资金型 + 白名单型。
 - **最大看点**：Multicoin 独投背书 + 亚洲本地化分发（中英文、mobile-first）+ 超早期时间窗（web 版 7-17 刚上线）。
@@ -21,7 +21,7 @@ updated: 2026-07-22
 |---|---|
 | 项目 ID | trasia |
 | 状态 | pre-watchlist / active |
-| RootData 分数 | 71（本报告修正至约 66–68） |
+| RootData 分数 | 71（v3 初筛）→ **64**（v3.1 重算，**低于 70 通过线**） |
 | 风险 | 🟡 中风险（RootData 初判「低风险」偏乐观） |
 | 赛道 | Perp DEX 前端 / Hyperliquid HIP-3 生态 / 亚洲股票 perp |
 | 成立 | 2025-05 |
@@ -121,7 +121,7 @@ HIP-3 = Hyperliquid 的「builder-deployed perpetuals」：质押 **500,000 HYPE
 - 🟡 间接信号：Asia Points 为「trading rewards program」且 invite-only，是典型的 pre-token 积分铺垫；Multicoin 作为股权投资人通常伴随 token warrant（**但本轮未见公开披露**，不同于 Cambrian 有明确 SAFE+warrant 报道）。
 - ➡️ 判断：发币有可能但**证据链弱于**同类项目；当前应视为「早期交互记录 + 可能的积分权重」，不是确定性收益。
 
-## 10. 评分修正（RootData 71 → 约 66–68）
+## 10. 评分修正（v3 初筛 71 → v3.1 重算 64）
 
 | 维度 | RootData | 本报告 | 修正理由 |
 |---|---|---|---|
@@ -133,7 +133,10 @@ HIP-3 = Hyperliquid 的「builder-deployed perpetuals」：质押 **500,000 HYPE
 | 赛道质量 | 8 | **5–6** | ⬇️ 关键下调：HIP-3 已被 Trade.XYZ 拿下 98%，Felix/Ventuals 退出，回本周期 4 年 |
 | 社区热度 | 6 | 6 | Mable + Multicoin 自带传播；维持 |
 
-**综合：约 66–68**，风险等级由「低」上调至「🟡 中」。
+**综合：64.0**（按 v3.1 加权公式精算：6×20+7×25+7×10+7×15+6×15+5×10+6×5 = 640 → 64.0），**低于 70 通过线**；风险等级由「低」上调至「🟡 中」。
+
+> v3.1 扣分依据：融资质量 9 −1（独投且 equity<$300万）−1（equity<$200万）= **7**；赛道质量 8 −2（Trade.XYZ 占 98%、Felix/Ventuals 退出）−1（回本约 4 年、门槛 $35.89M ≫ $1.75M 融资）= **5**；参与价值 8 → **7**（自有市场未部署 + Asia Points 规则不透明）。
+> ➡️ **按 v3.1 规则，本项目在初筛阶段即不应通过（64 < 70）**，其 pre-watchlist 身份系 v3 旧规则遗留，建议按「继续观察但不升级」处理。
 
 ## 11. 成本与风险
 
@@ -177,7 +180,8 @@ HIP-3 = Hyperliquid 的「builder-deployed perpetuals」：质押 **500,000 HYPE
 | 日期 | 动作 | 状态 | 备注 |
 |---|---|---|---|
 | 2026-07-22 | 新建 pre-watchlist 项目页 | active | RootData 筛选命中（71 分）自动归档 |
-| 2026-07-22 | 生成详细研报建档 | active | 浏览器一手实测 + HIP-3 赛道格局深挖；评分修正 71→66–68，风险低→中 |
+| 2026-07-22 | 生成详细研报建档 | active | 浏览器一手实测 + HIP-3 赛道格局深挖；评分修正 71→64（v3.1），风险低→中 |
+| 2026-07-22 | 触发 rubric 升级 v3.1 | active | 本项目复盘直接催生评分规则 v3.1（信息核实规则 + 融资独投/口径修正 + 赛道竞争格局修正 + 风险上调条件）；v3.1 重算 64 已低于通过线 |
 
 ## 16. 每周跟踪记录
 
