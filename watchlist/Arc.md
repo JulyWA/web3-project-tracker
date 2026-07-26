@@ -299,6 +299,13 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2079627251289895338 -->
 - 2026-07-22 | [Twitter] `tweet:2079627251289895338` | [Architect Check-in 月度直播 7/31](https://x.com/arc/status/2079627251289895338) | Arc 月度 architect check-in 直播 7 月 31 日，在 Arc House Architect 社区组注册
 
+<!-- watchlist-slug: tweet:2080724998634021330 -->
+- 2026-07-27 | [Twitter] `tweet:2080724998634021330` | [Circle Developer Grant 2026 首批 8 支团队入选](https://x.com/arc/status/2080724998634021330) | 2026 首期开发者 Grant 首批 8 支团队入选，基于 Arc 构建非洲/全球南方支付场景
+<!-- watchlist-slug: tweet:2080725096277348365 -->
+- 2026-07-27 | [Twitter] `tweet:2080725096277348365` | [Architect 社区组织者计划面试流程更新](https://x.com/arc/status/2080725096277348365) | Architect 计划面试流程改版，有兴趣运营社区聚会可进 Architect Forum 申请
+<!-- watchlist-slug: release:arc-node@v0.7.3 -->
+- 2026-07-27 | [GitHub] `release:arc-node@v0.7.3` | [arc-node v0.7.3 release](https://github.com/circlefin/arc-node/releases/tag/v0.7.3) | CI 升级 + docs 域名迁移 arc.network→arc.io，无节点行为变化
+
 ## 相关
 
 - [[Web3项目研究]]
