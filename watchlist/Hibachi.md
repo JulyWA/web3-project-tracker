@@ -291,6 +291,9 @@ Dragonfly 和 Electric Capital 都是加密原生一线/强二线机构，对 De
 <!-- watchlist-slug: tweet:2079227110703673850 -->
 - 2026-07-21 | [Twitter] `tweet:2079227110703673850` | [The Playoffs Week 10：总积分 64.5M，Growi Alpha Vault 125% APY 开放](https://x.com/hibachi_xyz/status/2079227110703673850) | Week 10 积分总量 64.5M (+1.57% WoW)，FLP 20% APY / Growi Alpha 125% APY 开放，Robonet 满额
 
+<!-- watchlist-slug: tweet:2081786477134917692 -->
+- 2026-07-28 | [Twitter] `tweet:2081786477134917692` | [Week 11 Playoffs：65.5M 积分流通，Growi Alpha Vault APY 181%](https://x.com/hibachi_xyz/status/2081786477134917692) | 积分总量周增 1.55%，三个 vault 积分+yield 双产出，Growi Alpha Vault APY 181%
+
 ## 相关
 
 - [[Web3项目研究]]
