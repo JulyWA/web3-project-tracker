@@ -28,3 +28,11 @@ Pascal 由前 dYdX CEO Ivo Crnkovic-Rubsamen 和 Matthew Downey 创立，USV 领
 | 2026-07-22 | 新建 pre-watchlist 项目页 | active | 通过 pre-watchlist upsert/intake 首次加入或更新 |
 
 ## 4. 每周跟踪记录
+
+### 2026-07-27
+
+本周判断：P2 普通观察（private beta 已启动，散户参与路径不明）。
+
+Pascal 已于 2026-06 进入 private beta，已有机处理 200 万笔合约（无激励、有手续费，全为有机交易量）。定位 pro trader，无公开 airdrop/积分计划。若后续空投规则倾向 early beta 用户，占坑价值中等偏上；当前无明确散户参与路径，暂不需要额外操作。
+
+来源：[Fortune 报道](https://fortune.com/2026/07/16/exclusive-prediction-market-startup-pascal-9-million-heavyweights-kalshi-and-polymarket/) | [CryptoRank](https://cryptorank.io/news/feed/pascal-series-a-2026-07-16)

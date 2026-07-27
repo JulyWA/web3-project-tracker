@@ -185,6 +185,12 @@ HIP-3 = Hyperliquid 的「builder-deployed perpetuals」：质押 **500,000 HYPE
 
 ## 16. 每周跟踪记录
 
+### 2026-07-27
+
+本周判断：P2 普通观察（Asia Points invite-only 运行中，待 HIP-3 自有市场落地）。
+
+Asia Points invite-only 模式维持运行，mobile app 计划 8 月上线。自有 HIP-3 亚洲股票 perp 市场尚未部署，现有界面交易的是 trade.xyz 的 HIP-3 市场。HIP-3 赛道仍高度集中（Trade.XYZ 98% 份额）。观察下一步：① 自有市场部署；② Asia Points 规则公开；③ 8 月 mobile app 上线。本周暂不需要额外操作。
+
 ### 2026-07-22
 
 本周判断：新建 + 详细建档，**继续观察（降级关注度）**，P2。

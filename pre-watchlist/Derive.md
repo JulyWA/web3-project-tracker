@@ -407,3 +407,11 @@ DRV 已 TGE（2025-01），不作为未发币空投跟踪。本周 stDRV staking
 本周暂不需要额外操作。
 
 来源：[App Rewards](https://app.derive.xyz/rewards) | [DRV Launch Program](https://insights.derive.xyz/drv-launch-program/)
+
+### 2026-07-27
+
+本周判断：P2 普通观察（DRV 已 TGE，观察 reward/fee 比改善窗口）。
+
+无新 2026 行动信号。stDRV staking rewards 和 trading rewards 按 epoch 持续运行（约每周约 25 万 stDRV staking + 5 万 stDRV trading）。DRV 已于 2025-01-15 TGE，不作为未发币空投跟踪。观察重点仍为：reward/fee 比是否明显改善、vault boost 机会、新 market 上线或 MM Programs 开放。本周暂不需要额外操作。
+
+来源：[App Rewards](https://app.derive.xyz/rewards)

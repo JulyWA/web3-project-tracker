@@ -45,6 +45,14 @@ Solana yield exchange 已上线，app/docs/audits/GitHub 可跟踪；继续观�
 
 ## 每周跟踪
 
+### 2026-07-27
+
+本周判断：P1 重点观察（等待 Season 2 或 TGE 窗口）。
+
+v2 $200K+ 奖励活动确认已结束（30 天窗口，从 2026-05 末启动，约 6 月底截止）。TVL 峰值 $132M（2026-07 高点），Token 合约已完成但审计仍未完成，无 TGE 时间线公告。Multicoin/Solana Ventures/Anatoly 背书不变。下一个参与窗口可能是 Season 2 奖励或 TGE 相关激励；本周暂不需要额外操作。
+
+来源：[v2 报道](https://cryptobriefing.com/exponent-finance-v2-solana-yield-upgrade/) | [RockawayX 分析](https://www.rockawayx.com/insights/exponent-finance-dominates-fixed-yield-on-solana)
+
 ### 2026-07-20
 
 本周判断：P1 重点观察（v2 奖励窗口已截止，等待 XPN token 下一步）。

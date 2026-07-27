@@ -29,6 +29,12 @@ Prime Intellect 定位为 open superintelligence stack 服务企业训练自有 
 
 ## 4. 每周跟踪记录
 
+### 2026-07-27
+
+本周判断：P2 普通观察（无 token/积分，等待 INTELLECT-3 或 Base 上线触发）。
+
+INTELLECT-3（100B+ MoE）训练进行中，[技术报告](https://arxiv.org/pdf/2512.16144)已发。官方明确声明无 token/积分。ARR $100M，$1B 估值，Nvidia+Intel+ICONIQ+Radical 背书。若未来在 Base 主网发币，社区 GPU 贡献者可能有先机；当前只需维持 Discord 关注，等下一轮训练招募通知。本周暂不需要额外操作。
+
 ### 2026-07-20
 
 本周判断：继续观察，P1 重点观察。
