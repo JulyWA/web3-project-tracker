@@ -159,6 +159,9 @@ updated: 2026-05-11
 <!-- watchlist-slug: discord:1519378981579919450 -->
 - 2026-06-25 | [Discord] `discord:1519378981579919450` | [shelbynet 全量清空，部署新版本](https://discord.com/channels/1385014051272265868/1385014051658141770/1519378981579919450) | 新版本上线前清空 shelbynet 全部 blobs，关注后续 early access 公告
 
+<!-- watchlist-slug: tweet:2082113227215732974 -->
+- 2026-07-29 | [Twitter] `tweet:2082113227215732974` | [Aptos Foundation $50M+ 承诺背书，Shelby 定位为 AI 数据层](https://x.com/shelbyserves/status/2082113227215732974) | Aptos 将 Shelby 定位为 AI 数据层，与 DecibelTrade 并列为 Aptos 全栈组合，$50M+ 由 Aptos Foundation 和 AptosLabs 承诺
+
 ## 相关
 
 - [[Web3项目研究]]
