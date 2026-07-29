@@ -294,6 +294,9 @@ Dragonfly 和 Electric Capital 都是加密原生一线/强二线机构，对 De
 <!-- watchlist-slug: tweet:2081786477134917692 -->
 - 2026-07-28 | [Twitter] `tweet:2081786477134917692` | [Week 11 Playoffs：65.5M 积分流通，Growi Alpha Vault APY 181%](https://x.com/hibachi_xyz/status/2081786477134917692) | 积分总量周增 1.55%，三个 vault 积分+yield 双产出，Growi Alpha Vault APY 181%
 
+<!-- watchlist-slug: tweet:2082546830978793646 -->
+- 2026-07-30 | [Twitter] `tweet:2082546830978793646` | [Arc 官方宣布 Hibachi 在 Arc 上构建 FX 现货和永续合约](https://x.com/arc/status/2082546830978793646) | Arc 生态合作确认，CLOB+ZK 链上结算架构推进中，等待积分/参与活动
+
 ## 相关
 
 - [[Web3项目研究]]

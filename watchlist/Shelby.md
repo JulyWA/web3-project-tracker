@@ -162,6 +162,11 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2082113227215732974 -->
 - 2026-07-29 | [Twitter] `tweet:2082113227215732974` | [Aptos Foundation $50M+ 承诺背书，Shelby 定位为 AI 数据层](https://x.com/shelbyserves/status/2082113227215732974) | Aptos 将 Shelby 定位为 AI 数据层，与 DecibelTrade 并列为 Aptos 全栈组合，$50M+ 由 Aptos Foundation 和 AptosLabs 承诺
 
+<!-- watchlist-slug: discord:1532089871815147581 -->
+- 2026-07-30 | [Discord] `discord:1532089871815147581` | [shelbynet 全量清空，新版本部署中](https://discord.com/channels/1385014051272265868/1385014051658141770/1532089871815147581) | shelbynet 全量清空以部署新版本，Explorer 本周停运，等待恢复后参与
+<!-- watchlist-slug: discord:1532171432103248113 -->
+- 2026-07-30 | [Discord] `discord:1532171432103248113` | [Shelby 重大版本更新：存储节点生命周期/多地区/支付结算/性能提升](https://discord.com/channels/1385014051272265868/1385014051658141770/1532171432103248113) | v2 上传流程全链路迁移，在建功能含对象加密和直接磁盘 I/O
+
 ## 相关
 
 - [[Web3项目研究]]
