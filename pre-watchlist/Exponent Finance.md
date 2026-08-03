@@ -45,6 +45,15 @@ Solana yield exchange 已上线，app/docs/audits/GitHub 可跟踪；继续观�
 
 ## 每周跟踪
 
+### 2026-08-03
+
+本周判断：P2 普通观察（v2 活动已到期，待 Rewards Hub 新活动）。
+
+v2 $200K+ 30 天激励活动确认到期（5 月末启动，6 月末截止）。Rewards Hub（[app.exponent.finance/en/rewards](https://app.exponent.finance/en/rewards)）仍在运行但本周未见新活动公告。产品稳健：$2B+ yield volume，35K+ 用户，4 轮审计。Token 合约已完成但审计仍在。无 TGE 公告。Multicoin/Solana Ventures/Anatoly 背书不变。
+下一个参与窗口：关注 Rewards Hub 新活动或 Season 2 激励。
+
+---
+
 ### 2026-07-27
 
 本周判断：P1 重点观察（等待 Season 2 或 TGE 窗口）。

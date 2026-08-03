@@ -42,6 +42,15 @@ AI agent guardrails / on-chain verification，官网已有 waitlist 和 docs；�
 
 ## 每周跟踪
 
+### 2026-08-03
+
+本周判断：P2 普通观察（研究可信度提升，入口仍仅 waitlist）。
+
+研究论文被 NDSS 2026 收录，AI Agent 中间件验证层的技术背书加强。Waitlist 仍是唯一入口，私有测试网尚未对外开放。Polychain + Archetype 背书、$8.3M 种子轮不变。无新参与信号。
+等待：SDK 发布 / 开发者计划 / 公开测试网。本周暂不需要额外操作。
+
+---
+
 ### 2026-07-27
 
 本周判断：P2 普通观察（连续无新信号）。

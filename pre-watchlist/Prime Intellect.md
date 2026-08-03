@@ -29,6 +29,15 @@ Prime Intellect 定位为 open superintelligence stack 服务企业训练自有 
 
 ## 4. 每周跟踪记录
 
+### 2026-08-03
+
+本周判断：P2 普通观察（无新信号，$130M A 轮已消化）。
+
+$130M Series A（7 月 8 日）已消化，Nvidia + Intel + ICONIQ + Radical 背书不变，估值 $1B，ARR $100M。官方维持"无 token/无积分"立场，INTELLECT-1/2 之后尚未宣布 INTELLECT-3 训练招募。Discord 是唯一等待渠道。
+本周暂不需要额外操作。
+
+---
+
 ### 2026-07-27
 
 本周判断：P2 普通观察（无 token/积分，等待 INTELLECT-3 或 Base 上线触发）。

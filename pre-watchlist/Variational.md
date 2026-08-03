@@ -42,6 +42,14 @@ Variational 是本批最值得继续观察的项目。它不是只有融资新�
 
 ## 4. 每周跟踪记录
 
+### 2026-08-03
+
+本周判断：升级候选（Q3 积分窗口仅剩约 8 周）。
+
+无新信号，延续上周判断。Omni Points Q3 末截止不变，VAR TGE Q3-Q4 2026 预期，50% 社区分配承诺未变。进入 8 月，窗口进一步收窄，若 7-8 月一直没有主动交互则错过大部分积分积累期。建议确认是否升级正式 watchlist，开始持续在 [Omni](https://omni.variational.io/) 主网交互。来源：[airdrops.io](https://airdrops.io/variational/) · [文档](https://docs.variational.io/omni/rewards/points)
+
+---
+
 ### 2026-07-27
 
 本周判断：P1 重点观察（升级候选，积分窗口有明确截止）。

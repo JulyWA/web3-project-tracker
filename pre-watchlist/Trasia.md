@@ -185,6 +185,14 @@ HIP-3 = Hyperliquid 的「builder-deployed perpetuals」：质押 **500,000 HYPE
 
 ## 16. 每周跟踪记录
 
+### 2026-08-03
+
+本周判断：P1 重点观察（8 月移动端上线在即，邀请入口可能开放）。
+
+移动端计划 8 月上线，现在进入目标时间窗口。Asia Points 仍邀请制，移动端上线后可能放开邀请码渠道。自有 HIP-3 亚洲股票 perp 市场尚未部署，现有用户仍依托 trade.xyz 市场。Mable Jiang + Multicoin + $35M 自有流动性组合实力不减。重点：本月关注移动端上线公告和邀请码获取方式。来源：[The Block](https://www.theblock.co/post/408670/multicoin-capital-hyperliquid-ecosystem-investment-trasia)
+
+---
+
 ### 2026-07-27
 
 本周判断：P2 普通观察（Asia Points invite-only 运行中，待 HIP-3 自有市场落地）。
