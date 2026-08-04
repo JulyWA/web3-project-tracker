@@ -300,6 +300,9 @@ Dragonfly 和 Electric Capital 都是加密原生一线/强二线机构，对 De
 <!-- watchlist-slug: tweet:2082860430322499694 -->
 - 2026-07-31 | [Twitter] `tweet:2082860430322499694` | [FX price discovery 即将上线 Arc](https://x.com/hibachi_xyz/status/2082860430322499694) | Hibachi 官宣 FX price discovery 即将登陆 Arc，stablecoin FX 集成路线图关键进展
 
+<!-- watchlist-slug: tweet:2084331391307616534 -->
+- 2026-08-04 | [Twitter] `tweet:2084331391307616534` | [Week 12 Playoffs 积分周报](https://x.com/hibachi_xyz/status/2084331391307616534) | 总积分 66.5M (+1.53%)，FLP/Robonet 20% APY，Growi Alpha 10% APY
+
 ## 相关
 
 - [[Web3项目研究]]

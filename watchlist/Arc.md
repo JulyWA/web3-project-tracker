@@ -306,6 +306,11 @@ updated: 2026-05-11
 <!-- watchlist-slug: release:arc-node@v0.7.3 -->
 - 2026-07-27 | [GitHub] `release:arc-node@v0.7.3` | [arc-node v0.7.3 release](https://github.com/circlefin/arc-node/releases/tag/v0.7.3) | CI 升级 + docs 域名迁移 arc.network→arc.io，无节点行为变化
 
+<!-- watchlist-slug: tweet:2084353612197892299 -->
+- 2026-08-04 | [Twitter] `tweet:2084353612197892299` | [Cycles 清算网络集成 Arc Testnet](https://x.com/arc/status/2084353612197892299) | Cycles 将多边净额清算引入 Arc Testnet，以 USDC 结算，当前无用户存款/质押入口
+<!-- watchlist-slug: tweet:2084419412845875631 -->
+- 2026-08-04 | [Twitter] `tweet:2084419412845875631` | [Arc x Cycles：链上信用局视角](https://x.com/arc/status/2084419412845875631) | 社区解读 Cycles 集成为商业信用评分铺路
+
 ## 相关
 
 - [[Web3项目研究]]
