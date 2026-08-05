@@ -303,6 +303,9 @@ Dragonfly 和 Electric Capital 都是加密原生一线/强二线机构，对 De
 <!-- watchlist-slug: tweet:2084331391307616534 -->
 - 2026-08-04 | [Twitter] `tweet:2084331391307616534` | [Week 12 Playoffs 积分周报](https://x.com/hibachi_xyz/status/2084331391307616534) | 总积分 66.5M (+1.53%)，FLP/Robonet 20% APY，Growi Alpha 10% APY
 
+<!-- watchlist-slug: tweet:2085019665521070415 -->
+- 2026-08-06 | [Twitter] `tweet:2085019665521070415` | [Hibachi 暗示 Arc 主网首日上线](https://x.com/hibachi_xyz/status/2085019665521070415) | @arc ready，配合 Arc Sep 16 主网公告
+
 ## 相关
 
 - [[Web3项目研究]]

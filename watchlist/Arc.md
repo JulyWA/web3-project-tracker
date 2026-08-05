@@ -311,6 +311,11 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2084419412845875631 -->
 - 2026-08-04 | [Twitter] `tweet:2084419412845875631` | [Arc x Cycles：链上信用局视角](https://x.com/arc/status/2084419412845875631) | 社区解读 Cycles 集成为商业信用评分铺路
 
+<!-- watchlist-slug: tweet:2085014328378610023 -->
+- 2026-08-06 | [Twitter] `tweet:2085014328378610023` | [Arc 主网 Sep 16，DTCC 确认创始验证者](https://x.com/arc/status/2085014328378610023) | DTCC 加入 Arc 创始验证者，主网 9 月 16 日上线
+<!-- watchlist-slug: tweet:2085017940274073975 -->
+- 2026-08-06 | [Twitter] `tweet:2085017940274073975` | [Keyrock 确认为 Arc 首日流动性提供商](https://x.com/arc/status/2085017940274073975) | Keyrock 作为 day-one 流动性提供商加入 Arc，Sep 16 上线
+
 ## 相关
 
 - [[Web3项目研究]]
