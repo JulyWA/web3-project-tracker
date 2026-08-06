@@ -316,6 +316,15 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2085017940274073975 -->
 - 2026-08-06 | [Twitter] `tweet:2085017940274073975` | [Keyrock 确认为 Arc 首日流动性提供商](https://x.com/arc/status/2085017940274073975) | Keyrock 作为 day-one 流动性提供商加入 Arc，Sep 16 上线
 
+<!-- watchlist-slug: tweet:2085381600054014259 -->
+- 2026-08-07 | [Twitter] `tweet:2085381600054014259` | [Arc Mainnet 确认 9 月 16 日上线，RSVP 开放](https://x.com/arc/status/2085381600054014259) | Arc Mainnet 9/16 上线，RSVP 开放，质押/存款窗口时间节点确认
+<!-- watchlist-slug: tweet:2085383594726629613 -->
+- 2026-08-07 | [Twitter] `tweet:2085383594726629613` | [Chainlink Scale day 1 接入 Arc（含 BlackRock、DTCC、Mastercard）](https://x.com/arc/status/2085383594726629613) | Chainlink Scale 为 Arc 提供机构级 oracle，BlackRock/DTCC/Mastercard 为网络参与方
+<!-- watchlist-slug: tweet:2085395650301382712 -->
+- 2026-08-07 | [Twitter] `tweet:2085395650301382712` | [Uniswap day 1 上 Arc](https://x.com/arc/status/2085395650301382712) | Uniswap 确认 Arc day 1 接入，stable-stable 交易
+<!-- watchlist-slug: tweet:2085440944229523616 -->
+- 2026-08-07 | [Twitter] `tweet:2085440944229523616` | [MoneyGram 正式加入 Arc](https://x.com/arc/status/2085440944229523616) | MoneyGram 作为 Circle 长期合作伙伴接入 Arc 网络
+
 ## 相关
 
 - [[Web3项目研究]]
