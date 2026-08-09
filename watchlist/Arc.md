@@ -325,6 +325,11 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2085440944229523616 -->
 - 2026-08-07 | [Twitter] `tweet:2085440944229523616` | [MoneyGram 正式加入 Arc](https://x.com/arc/status/2085440944229523616) | MoneyGram 作为 Circle 长期合作伙伴接入 Arc 网络
 
+<!-- watchlist-slug: tweet:2085753665651101729 -->
+- 2026-08-10 | [Twitter] `tweet:2085753665651101729` | [Arc 主网 9月16日上线，LI.FI Day 1 集成，BlackRock/Visa/DTCC 验证者确认](https://x.com/arc/status/2085753665651101729) | Arc mainnet 9月16日上线，LI.FI 和 BlackRock/Visa/DTCC 等机构验证者确认参与
+<!-- watchlist-slug: blog:/blog/arc-mainnet-goes-live-on-september-16-2026 -->
+- 2026-08-10 | [Blog] `blog:/blog/arc-mainnet-goes-live-on-september-16-2026` | [Arc Mainnet Goes Live on September 16, 2026](https://www.arc.io/blog/arc-mainnet-goes-live-on-september-16-2026) | 官方博客确认主网 9月16日上线
+
 ## 相关
 
 - [[Web3项目研究]]
