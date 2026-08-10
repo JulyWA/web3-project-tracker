@@ -330,6 +330,9 @@ updated: 2026-05-11
 <!-- watchlist-slug: blog:/blog/arc-mainnet-goes-live-on-september-16-2026 -->
 - 2026-08-10 | [Blog] `blog:/blog/arc-mainnet-goes-live-on-september-16-2026` | [Arc Mainnet Goes Live on September 16, 2026](https://www.arc.io/blog/arc-mainnet-goes-live-on-september-16-2026) | 官方博客确认主网 9月16日上线
 
+<!-- watchlist-slug: tweet:2086914559194095772 -->
+- 2026-08-11 | [Twitter] `tweet:2086914559194095772` | [Arc Mainnet 9.16.26](https://x.com/arc/status/2086914559194095772) | Arc 主网确认 9 月 16 日上线，BlackRock/DTCC/Visa 等机构任 Founding Validator
+
 ## 相关
 
 - [[Web3项目研究]]

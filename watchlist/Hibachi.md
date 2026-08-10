@@ -306,6 +306,9 @@ Dragonfly 和 Electric Capital 都是加密原生一线/强二线机构，对 De
 <!-- watchlist-slug: tweet:2085019665521070415 -->
 - 2026-08-06 | [Twitter] `tweet:2085019665521070415` | [Hibachi 暗示 Arc 主网首日上线](https://x.com/hibachi_xyz/status/2085019665521070415) | @arc ready，配合 Arc Sep 16 主网公告
 
+<!-- watchlist-slug: tweet:2086871615443288417 -->
+- 2026-08-11 | [Twitter] `tweet:2086871615443288417` | [Week 13 Playoffs 结束，FLP vault 封顶](https://x.com/hibachi_xyz/status/2086871615443288417) | Week 13 完成，总积分 67.5M，FLP vault 达 $2M 上限关闭，当前 19.8% APY + 积分
+
 ## 相关
 
 - [[Web3项目研究]]
