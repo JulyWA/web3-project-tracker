@@ -28,3 +28,11 @@ Hack VC 领投 $12M 种子（顶级机构+顶级金额+Nomad/Pi 跟投）是本�
 | 2026-08-03 | 新建 pre-watchlist 项目页 | active | 通过 pre-watchlist upsert/intake 首次加入或更新 |
 
 ## 4. 每周跟踪记录
+
+### 2026-08-10
+
+本周判断：P1 重点观察（积分系统运行中，首次跟踪）。
+
+Points 系统 live，双周 epoch 发放，按任务量、难度、质量、多样性加权计分。Hack VC 领投 $12M 种子，10 万+ 贡献者，Base 主网 2026-03 已上线。参与方式：注册 [Hub](https://axisrobotics.ai/)，加入 BitRobot × Axis campaign，完成机器人仿真任务（人工操控，质量优先）。token 分配/vesting 未定，但文档明确预留 token 奖励空间。当前唯一风险是任务需真实人工操作，无法脚本批量刷；建议 1-3 账号试水，评估单账号 ROI 后决定是否扩量。
+
+来源：[CryptoRank 空投指南](https://cryptorank.io/drophunting/axis-ai-activity1105) | [官方文档](https://docs.axisrobotics.ai/economics/why-crypto)

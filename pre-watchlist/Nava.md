@@ -42,6 +42,14 @@ AI agent guardrails / on-chain verification，官网已有 waitlist 和 docs；�
 
 ## 每周跟踪
 
+### 2026-08-10
+
+本周判断：P2 普通观察（仍仅 waitlist，无新参与信号）。
+
+私测网和 waitlist 为唯一入口，本周无新 SDK 发布、开发者计划或公开测试网公告。Polychain + Archetype 背书、AI Agent guardrails 技术方向不变。继续低成本等待开发者计划或公开测试网。本周暂不需要额外操作。
+
+---
+
 ### 2026-08-03
 
 本周判断：P2 普通观察（研究可信度提升，入口仍仅 waitlist）。

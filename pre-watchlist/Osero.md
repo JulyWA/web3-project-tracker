@@ -29,6 +29,14 @@ Osero 是 Sky/Plasma 背书的 stablecoin yield / savings 项目，方向比纯�
 
 ## 4. 每周跟踪记录
 
+### 2026-08-10
+
+本周判断：建议暂停观察（第五周，延续，等用户确认）。
+
+App / Earn / Foundry 已上线，但连续五周无积分、激励或 whitelist 规则披露。Sky Savings Rate 约 5% APY 作为基础收益，无额外空投激励机制。继续占用观察池位置意义降低，建议确认暂停后执行 `set-status paused`。恢复条件：官方公布积分/激励计划或明确 token 路线图。
+
+---
+
 ### 2026-08-03
 
 本周判断：建议暂停观察（延续上周，等用户确认）。

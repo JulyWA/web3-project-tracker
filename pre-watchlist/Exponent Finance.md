@@ -45,6 +45,16 @@ Solana yield exchange 已上线，app/docs/audits/GitHub 可跟踪；继续观�
 
 ## 每周跟踪
 
+### 2026-08-10
+
+本周判断：P2 普通观察（v2 活动已到期，等待新激励或 token 进展）。
+
+v2 主网 $200k 奖励活动（30天，late May 2026 启动）已过期。XPN token 合约已定稿，待审计完成再确定 TGE 日期。官方无新积分/rewards hub 活动。Multicoin + Solana Ventures + Anatoly Yakovenko 背书不变，产品指标仍强（$2B+ yield volume，35K+ 用户）。若 XPN token 审计完成并开放新 rewards 活动，会触发升级。本周暂不需要额外操作。
+
+来源：[airdrops.io](https://airdrops.io/exponent/) | [RockawayX 分析](https://www.rockawayx.com/insights/exponent-finance-dominates-fixed-yield-on-solana)
+
+---
+
 ### 2026-08-03
 
 本周判断：P2 普通观察（v2 活动已到期，待 Rewards Hub 新活动）。
