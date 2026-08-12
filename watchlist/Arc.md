@@ -333,6 +333,9 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2086914559194095772 -->
 - 2026-08-11 | [Twitter] `tweet:2086914559194095772` | [Arc Mainnet 9.16.26](https://x.com/arc/status/2086914559194095772) | Arc 主网确认 9 月 16 日上线，BlackRock/DTCC/Visa 等机构任 Founding Validator
 
+<!-- watchlist-slug: tweet:2087628025651441684 -->
+- 2026-08-13 | [Twitter] `tweet:2087628025651441684` | [Aerodrome 即将上线 Arc](https://x.com/arc/status/2087628025651441684) | Aerodrome 宣布 critical liquidity infrastructure for institutional-grade assets 即将上线 Arc
+
 ## 相关
 
 - [[Web3项目研究]]
