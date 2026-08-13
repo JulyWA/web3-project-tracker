@@ -336,6 +336,11 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2087628025651441684 -->
 - 2026-08-13 | [Twitter] `tweet:2087628025651441684` | [Aerodrome 即将上线 Arc](https://x.com/arc/status/2087628025651441684) | Aerodrome 宣布 critical liquidity infrastructure for institutional-grade assets 即将上线 Arc
 
+<!-- watchlist-slug: tweet:2087926883514216697 -->
+- 2026-08-14 | [Twitter] `tweet:2087926883514216697` | [Pulsar Money 早期访问上线，Wirex 在 Arc 首个 BaaS 合作伙伴落地](https://x.com/arc/status/2087926883514216697) | Wirex 和 Pulsar Money 在 Arc 上首个 BaaS 合作伙伴上线，早期访问现已开放
+<!-- watchlist-slug: tweet:2087938919430230288 -->
+- 2026-08-14 | [Twitter] `tweet:2087938919430230288` | [Figment 确认成为 Arc 创世验证器，PoS 质押路线图明确](https://x.com/arc/status/2087938919430230288) | Figment 为 Arc 创世验证器，PoA 阶段，后续转 PoS 质押
+
 ## 相关
 
 - [[Web3项目研究]]

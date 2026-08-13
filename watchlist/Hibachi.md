@@ -309,6 +309,9 @@ Dragonfly 和 Electric Capital 都是加密原生一线/强二线机构，对 De
 <!-- watchlist-slug: tweet:2086871615443288417 -->
 - 2026-08-11 | [Twitter] `tweet:2086871615443288417` | [Week 13 Playoffs 结束，FLP vault 封顶](https://x.com/hibachi_xyz/status/2086871615443288417) | Week 13 完成，总积分 67.5M，FLP vault 达 $2M 上限关闭，当前 19.8% APY + 积分
 
+<!-- watchlist-slug: tweet:2087904527588503994 -->
+- 2026-08-14 | [Twitter] `tweet:2087904527588503994` | [Hibachi 正式退出 Beta，定位 stablecoin-native FX 主平台](https://x.com/hibachi_xyz/status/2087904527588503994) | Hibachi 上线生产环境，从 perps beta 转向 stablecoin FX 平台
+
 ## 相关
 
 - [[Web3项目研究]]
