@@ -341,6 +341,11 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2087938919430230288 -->
 - 2026-08-14 | [Twitter] `tweet:2087938919430230288` | [Figment 确认成为 Arc 创世验证器，PoS 质押路线图明确](https://x.com/arc/status/2087938919430230288) | Figment 为 Arc 创世验证器，PoA 阶段，后续转 PoS 质押
 
+<!-- watchlist-slug: tweet:2088339877167501454 -->
+- 2026-08-17 | [Twitter] `tweet:2088339877167501454` | [Uniswap 宣布将深度流动性池部署到 Arc](https://x.com/arc/status/2088339877167501454) | Uniswap 宣布将深度流动性池部署到 Arc，主网 9 月 16 日上线后可参与流动性提供
+<!-- watchlist-slug: tweet:2088351169693520186 -->
+- 2026-08-17 | [Twitter] `tweet:2088351169693520186` | [Uniswap RT: Arc is next stop for tokenized value](https://x.com/arc/status/2088351169693520186) | Uniswap 官方确认 Arc 为下一个支持平台
+
 ## 相关
 
 - [[Web3项目研究]]
