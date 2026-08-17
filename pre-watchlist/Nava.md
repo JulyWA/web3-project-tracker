@@ -42,6 +42,16 @@ AI agent guardrails / on-chain verification，官网已有 waitlist 和 docs；�
 
 ## 每周跟踪
 
+### 2026-08-17
+
+本周判断：P2 普通观察（仍仅 waitlist，无新参与信号）。
+
+官网 waitlist 和 docs 为唯一入口，本周无新 SDK、开发者计划或公开测试网公告。NDSS 2026 同行评审、Polychain + Archetype 背书不变。等待方向：开发者 alpha 或公开 beta 邀请。本周暂不需要额外操作。
+
+来源：[navalabs.ai](https://navalabs.ai) | [docs](https://docs.navalabs.ai)
+
+---
+
 ### 2026-08-10
 
 本周判断：P2 普通观察（仍仅 waitlist，无新参与信号）。

@@ -29,6 +29,16 @@ Pascal 由前 dYdX CEO Ivo Crnkovic-Rubsamen 和 Matthew Downey 创立，USV 领
 
 ## 4. 每周跟踪记录
 
+### 2026-08-17
+
+本周判断：P1 重点观察（Public beta 持续，早期用户记录窗口开放中）。
+
+Public beta 仍在运行，无新 airdrop/积分/任务公告。平台仍偏机构/pro trader，散户可做小额测试交易建立早期用户记录（类 Hyperliquid 模式）。USV 领投 $9M、前 dYdX CEO 团队背书不变。本周暂不需要额外操作，已注册者保持低频交互即可。
+
+来源：[pascal.markets](https://pascal.markets) | [Fortune 报道](https://fortune.com/2026/07/16/exclusive-prediction-market-startup-pascal-9-million-heavyweights-kalshi-and-polymarket/)
+
+---
+
 ### 2026-08-10
 
 本周判断：P1 重点观察（Public beta 已开放，早期用户占位窗口开启）。

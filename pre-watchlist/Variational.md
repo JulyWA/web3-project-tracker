@@ -42,6 +42,16 @@ Variational 是本批最值得继续观察的项目。它不是只有融资新�
 
 ## 4. 每周跟踪记录
 
+### 2026-08-17
+
+本周判断：P1 升级候选（On-Chain Trader Rewards Campaign 新上线，Q3 积分窗口剩约 6 周）。
+
+新信号：Variational 于 8 月 12 日上线 [On-Chain Trader Rewards Campaign](https://docs.variational.io/omni/trader-rewards)，目标 10,000 个预选活跃地址，达到交易量里程碑可额外获得 Points，每周四 0:00 UTC 结算；同时推荐人可获得 USDC 现金分成（大额 KYC）。Omni Points 赛季截止 Q3 2026 末，约剩 6 周。VAR 50% 社区分配承诺不变，积分 → 代币路径明确。已是升级候选满三个月，仍在等 July 确认。
+
+来源：[On-Chain Trader Rewards](https://docs.variational.io/omni/trader-rewards) | [Points 文档](https://docs.variational.io/omni/rewards/points)
+
+---
+
 ### 2026-08-10
 
 本周判断：P1 升级候选（Q3 积分窗口剩约 7 周）。

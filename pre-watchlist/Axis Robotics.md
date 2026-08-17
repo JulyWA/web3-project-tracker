@@ -29,6 +29,16 @@ Hack VC 领投 $12M 种子（顶级机构+顶级金额+Nomad/Pi 跟投）是本�
 
 ## 4. 每周跟踪记录
 
+### 2026-08-17
+
+本周判断：P1 重点观察（BitRobot × Axis Alliance Campaign 本周确认有效）。
+
+新信号：BitRobot Alliance Campaign 在 Aug 2026 active，双奖励轨道——完成仿真任务同时获得 Axis Points + BitRobot 网络激励，是比单纯刷 Axis Points 更高效的参与方式。参与路径：登录 [Hub](https://axisrobotics.ai/)，进入 Alliance 标签，加入 BitRobot × Axis 活动。任务仍需真实人工操控，质量导向，刷量无效。Points 双周 epoch 发放，token 分配/vesting 未定但空间保留。建议 1-3 账号评估单次任务 ROI 再决定是否扩量。
+
+来源：[CoinBay 教程](https://coinbay.io/en/how-to-join-the-axis-airdrop-36262) | [官方 Hub](https://axisrobotics.ai/)
+
+---
+
 ### 2026-08-10
 
 本周判断：P1 重点观察（积分系统运行中，首次跟踪）。
