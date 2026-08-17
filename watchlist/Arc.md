@@ -346,6 +346,9 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2088351169693520186 -->
 - 2026-08-17 | [Twitter] `tweet:2088351169693520186` | [Uniswap RT: Arc is next stop for tokenized value](https://x.com/arc/status/2088351169693520186) | Uniswap 官方确认 Arc 为下一个支持平台
 
+<!-- watchlist-slug: tweet:2089426032067850274 -->
+- 2026-08-18 | [Twitter] `tweet:2089426032067850274` | [Uniswap 确认在 Arc 主网部署，流动性基础设施就绪](https://x.com/arc/status/2089426032067850274) | Uniswap 将在 Arc 主网（9月16日）上线时同步部署 AMM 流动性层
+
 ## 相关
 
 - [[Web3项目研究]]

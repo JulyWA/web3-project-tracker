@@ -312,6 +312,9 @@ Dragonfly 和 Electric Capital 都是加密原生一线/强二线机构，对 De
 <!-- watchlist-slug: tweet:2087904527588503994 -->
 - 2026-08-14 | [Twitter] `tweet:2087904527588503994` | [Hibachi 正式退出 Beta，定位 stablecoin-native FX 主平台](https://x.com/hibachi_xyz/status/2087904527588503994) | Hibachi 上线生产环境，从 perps beta 转向 stablecoin FX 平台
 
+<!-- watchlist-slug: tweet:2089453997476266145 -->
+- 2026-08-18 | [Twitter] `tweet:2089453997476266145` | [第 14 周积分快照，JPY/USD 上线 1.8x 积分加成](https://x.com/hibachi_xyz/status/2089453997476266145) | JPY/USD 上线 1.8x 积分加成，总积分 68.5M 周增 1.48%，Arc 主网 9/16 为下一里程碑
+
 ## 相关
 
 - [[Web3项目研究]]
