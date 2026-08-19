@@ -354,6 +354,11 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2084997753550368837 -->
 - 2026-08-19 | [Twitter] `tweet:2084997753550368837` | [Arc mainnet launches September 16](https://x.com/arc/status/2084997753550368837) | 官方推文确认主网上线日期
 
+<!-- watchlist-slug: tweet:2090151820882825717 -->
+- 2026-08-20 | [Twitter] `tweet:2090151820882825717` | [Standard Chartered 接入 Arc，24/7 实时结算](https://x.com/arc/status/2090151820882825717) | 渣打银行将在 Arc 上线 24/7 实时支付通道
+<!-- watchlist-slug: tweet:2090052609126375591 -->
+- 2026-08-20 | [Twitter] `tweet:2090052609126375591` | [Uniswap 确认主网上线即接入 Arc](https://x.com/arc/status/2090052609126375591) | Uniswap 将在 Arc 主网上线当天提供流动性
+
 ## 相关
 
 - [[Web3项目研究]]
