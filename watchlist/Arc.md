@@ -349,6 +349,11 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2089426032067850274 -->
 - 2026-08-18 | [Twitter] `tweet:2089426032067850274` | [Uniswap 确认在 Arc 主网部署，流动性基础设施就绪](https://x.com/arc/status/2089426032067850274) | Uniswap 将在 Arc 主网（9月16日）上线时同步部署 AMM 流动性层
 
+<!-- watchlist-slug: blog:/arc-mainnet-goes-live-on-september-16-2026 -->
+- 2026-08-19 | [Blog/Twitter] `blog:/arc-mainnet-goes-live-on-september-16-2026` | [Arc Mainnet Goes Live on September 16, 2026](https://www.circle.com/pressroom/circle-announces-founding-validator-cohort-and-major-integrations-for-arc-ahead-of-september-16-mainnet-launch) | 主网定档9/16，创始验证者含BlackRock/DTCC/ICE/Mastercard/Visa等机构，暂无散户参与入口
+<!-- watchlist-slug: tweet:2084997753550368837 -->
+- 2026-08-19 | [Twitter] `tweet:2084997753550368837` | [Arc mainnet launches September 16](https://x.com/arc/status/2084997753550368837) | 官方推文确认主网上线日期
+
 ## 相关
 
 - [[Web3项目研究]]
