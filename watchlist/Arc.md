@@ -359,6 +359,9 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2090052609126375591 -->
 - 2026-08-20 | [Twitter] `tweet:2090052609126375591` | [Uniswap 确认主网上线即接入 Arc](https://x.com/arc/status/2090052609126375591) | Uniswap 将在 Arc 主网上线当天提供流动性
 
+<!-- watchlist-slug: activity:arc-ecosystem-integrations-uniswap-aerodrome-alchemy -->
+- 2026-08-24 | [Twitter] `activity:arc-ecosystem-integrations-uniswap-aerodrome-alchemy` | [Uniswap/Aerodrome/Alchemy 官宣即将登陆 Arc](https://x.com/arc/status/2090834644468187465) | Uniswap 开放借贷/LP策略，Aerodrome 做稳定币FX，Alchemy 提供基建，均标注即将上线
+
 ## 相关
 
 - [[Web3项目研究]]
