@@ -29,6 +29,14 @@ Pascal 由前 dYdX CEO Ivo Crnkovic-Rubsamen 和 Matthew Downey 创立，USV 领
 
 ## 4. 每周跟踪记录
 
+### 2026-08-24
+
+本周判断：P1 重点观察（本周无新信号，维持观察）。
+
+Public beta 仍在运行，无新 airdrop/积分/任务公告。平台仍偏机构/pro trader，散户可继续做小额测试交易建立早期用户记录。USV 领投 $9M、前 dYdX CEO 团队背书不变。本周暂不需要额外操作。
+
+---
+
 ### 2026-08-17
 
 本周判断：P1 重点观察（Public beta 持续，早期用户记录窗口开放中）。

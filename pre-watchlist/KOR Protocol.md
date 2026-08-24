@@ -29,6 +29,14 @@ KOR Protocol 是 Base 链上 IP clearinghouse，已跟 Black Mirror/Beatport 等
 
 ## 4. 每周跟踪记录
 
+### 2026-08-24
+
+本周判断：P1 升级候选（延续，本周无新公告，KOR Score Season 2 仍在运行）。
+
+KOR Score Season 2 仍在 [rewards.korprotocol.io](https://rewards.korprotocol.io) 运行，$KOR TGE 和分配细则本周仍无公告。官方确认积分参与者具备 $KOR airdrop 资格，具体时间线未定。1kx + Blockchain Capital 双领投、400k 连接钱包不变。已是升级候选超过一个月，仍在等 July 确认。
+
+---
+
 ### 2026-08-17
 
 本周判断：P1 升级候选（延续，KOR Score Season 2 进行中，token 分配规则仍"即将公布"）。

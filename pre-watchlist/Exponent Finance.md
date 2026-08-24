@@ -45,6 +45,14 @@ Solana yield exchange 已上线，app/docs/audits/GitHub 可跟踪；继续观�
 
 ## 每周跟踪
 
+### 2026-08-24
+
+本周判断：P2 普通观察（本周无新信号，维持观察）。
+
+XPN token 合约仍在审计中，TGE 日期未确认，官方无新积分/rewards 活动。Multicoin + Solana Ventures + Anatoly Yakovenko 背书、$2B+ yield volume 基本面不变。等 XPN 审计完成或新 rewards 活动开放再触发升级。
+
+---
+
 ### 2026-08-17
 
 本周判断：P2 普通观察（XPN token 合约定稿、审计中，等 TGE 时间线）。

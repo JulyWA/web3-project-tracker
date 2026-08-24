@@ -42,6 +42,14 @@ Variational 是本批最值得继续观察的项目。它不是只有融资新�
 
 ## 4. 每周跟踪记录
 
+### 2026-08-24
+
+本周判断：P1 升级候选（延续，本周无新公告，Q3 积分窗口约剩 5 周）。
+
+On-Chain Trader Rewards Campaign 和 Omni Points 仍在运行，官方未发新公告。Q3 末（9 月 30 日）积分截止窗口收窄至约 5 周，VAR 50% 社区分配承诺不变。已是升级候选超过一个月，仍在等 July 确认是否升级正式 watchlist 并开始主网交互。
+
+---
+
 ### 2026-08-17
 
 本周判断：P1 升级候选（On-Chain Trader Rewards Campaign 新上线，Q3 积分窗口剩约 6 周）。

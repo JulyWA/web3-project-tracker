@@ -217,6 +217,14 @@ TrueNorth = 首个「Agentic Brokerage」（AI 代理券商），2026-06-05 发�
 
 ## 17. 每周跟踪记录
 
+### 2026-08-24
+
+本周判断：P2 普通观察（本周无新信号，维持观察）。
+
+Testnet waitlist 仍是唯一确认入口，Galxe Deep42 Seedling Club Badge 持续过期，无新任务或积分系统公告。Sam Green / The Graph 背景 + Polychain/Franklin Templeton/a16z CSX 背书不变。触发升级条件：oracle 网络主网上线、积分/tasks 系统开放、token 官宣。
+
+---
+
 ### 2026-08-17
 
 本周判断：P2 普通观察（waitlist 延续，仍无 token/TGE 进展）。

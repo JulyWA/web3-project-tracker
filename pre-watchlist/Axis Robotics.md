@@ -29,6 +29,14 @@ Hack VC 领投 $12M 种子（顶级机构+顶级金额+Nomad/Pi 跟投）是本�
 
 ## 4. 每周跟踪记录
 
+### 2026-08-24
+
+本周判断：P1 重点观察（本周无新信号，维持观察）。
+
+BitRobot × Axis Alliance Campaign 和 Axis Points 系统仍在运行，本周无新任务或规则变化。Hack VC 领投、10 万+贡献者、token 分配/vesting 仍未定。继续以 1-3 账号规模评估单账号 ROI，暂不扩量。
+
+---
+
 ### 2026-08-17
 
 本周判断：P1 重点观察（BitRobot × Axis Alliance Campaign 本周确认有效）。
