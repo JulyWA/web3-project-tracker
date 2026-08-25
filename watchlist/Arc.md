@@ -362,6 +362,9 @@ updated: 2026-05-11
 <!-- watchlist-slug: activity:arc-ecosystem-integrations-uniswap-aerodrome-alchemy -->
 - 2026-08-24 | [Twitter] `activity:arc-ecosystem-integrations-uniswap-aerodrome-alchemy` | [Uniswap/Aerodrome/Alchemy 官宣即将登陆 Arc](https://x.com/arc/status/2090834644468187465) | Uniswap 开放借贷/LP策略，Aerodrome 做稳定币FX，Alchemy 提供基建，均标注即将上线
 
+<!-- watchlist-slug: tweet:2092009059184451763 -->
+- 2026-08-25 | [Twitter] `tweet:2092009059184451763` | [Arc x Ledger 集成](https://x.com/arc/status/2092009059184451763) | Ledger Live 支持直接在 Arc 上收发 USDC，交易在 Ledger 设备上验证
+
 ## 相关
 
 - [[Web3项目研究]]

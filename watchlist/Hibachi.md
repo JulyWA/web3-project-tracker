@@ -318,6 +318,9 @@ Dragonfly 和 Electric Capital 都是加密原生一线/强二线机构，对 De
 <!-- watchlist-slug: commit:hibachi_sdk@60bf2fc -->
 - 2026-08-24 | [GitHub] `commit:hibachi_sdk@60bf2fc` | [fix: enforce request timeouts and trigger price casing (#54)](https://github.com/hibachi-xyz/hibachi_sdk/commit/60bf2fc3323276c1b5ecb0c8252a6dbd70a00a38) | hibachi_sdk 修复请求超时强制和价格字段大小写问题
 
+<!-- watchlist-slug: tweet:2091992972875219013 -->
+- 2026-08-25 | [Twitter] `tweet:2091992972875219013` | [Hibachi Points Week 15](https://x.com/hibachi_xyz/status/2091992972875219013) | 积分流通总量 69.5M（周环比+1.46%），KRW/USD、CAD/USD 即将上线
+
 ## 相关
 
 - [[Web3项目研究]]
