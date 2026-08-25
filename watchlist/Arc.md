@@ -365,6 +365,9 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2092009059184451763 -->
 - 2026-08-25 | [Twitter] `tweet:2092009059184451763` | [Arc x Ledger 集成](https://x.com/arc/status/2092009059184451763) | Ledger Live 支持直接在 Arc 上收发 USDC，交易在 Ledger 设备上验证
 
+<!-- watchlist-slug: tweet:2092283761811677289 -->
+- 2026-08-26 | [Twitter] `tweet:2092283761811677289` | [Arc LatAm 加速器（与 crecimientoar 合作）](https://x.com/arc/status/2092283761811677289) | Arc 与 crecimientoar 联合推出六周 LatAm 加速器，面向支付/汇款/FX/国库/agentic commerce 方向的12+团队
+
 ## 相关
 
 - [[Web3项目研究]]
