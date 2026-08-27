@@ -368,6 +368,11 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2092283761811677289 -->
 - 2026-08-26 | [Twitter] `tweet:2092283761811677289` | [Arc LatAm 加速器（与 crecimientoar 合作）](https://x.com/arc/status/2092283761811677289) | Arc 与 crecimientoar 联合推出六周 LatAm 加速器，面向支付/汇款/FX/国库/agentic commerce 方向的12+团队
 
+<!-- watchlist-slug: tweet:2093091448552083716 -->
+- 2026-08-28 | [Twitter] `tweet:2093091448552083716` | [Arc x Morpho AMA](https://x.com/arc/status/2093091448552083716) | Arc x Morpho AMA，介绍 Midnight 固定利率借贷协议
+<!-- watchlist-slug: tweet:2092975987973874059 -->
+- 2026-08-28 | [Twitter] `tweet:2092975987973874059` | [Arc x Chainlink](https://x.com/arc/status/2092975987973874059) | Chainlink 为 Arc 提供数据与互操作性支持
+
 ## 相关
 
 - [[Web3项目研究]]
