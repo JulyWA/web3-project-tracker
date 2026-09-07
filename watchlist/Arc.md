@@ -376,6 +376,9 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2096312410369917139 -->
 - 2026-09-07 | [Twitter] `tweet:2096312410369917139` | [Arc Mainnet 9月16日上线，直播预约](https://x.com/arc/status/2096312410369917139) | Arc Mainnet 9月16日上线，官方直播预约开放
 
+<!-- watchlist-slug: tweet:2097082490225852803 -->
+- 2026-09-08 | [Twitter] `tweet:2097082490225852803` | [Arc Mainnet 9月16日上线，开放直播注册](https://x.com/arc/status/2097082490225852803) | Arc主网9/16纽约直播上线，创始验证人含BlackRock/ICE/Visa等，注册观看直播
+
 ## 相关
 
 - [[Web3项目研究]]
