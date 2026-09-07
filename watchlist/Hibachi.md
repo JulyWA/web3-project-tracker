@@ -321,6 +321,9 @@ Dragonfly 和 Electric Capital 都是加密原生一线/强二线机构，对 De
 <!-- watchlist-slug: tweet:2091992972875219013 -->
 - 2026-08-25 | [Twitter] `tweet:2091992972875219013` | [Hibachi Points Week 15](https://x.com/hibachi_xyz/status/2091992972875219013) | 积分流通总量 69.5M（周环比+1.46%），KRW/USD、CAD/USD 即将上线
 
+<!-- watchlist-slug: commit:hibachi_sdk@14a76b9 -->
+- 2026-09-07 | [GitHub] `commit:hibachi_sdk@14a76b9` | [fix: AccountTrade deserialization error](https://github.com/hibachi-xyz/hibachi_sdk/commit/14a76b95230869dd622c31a1fc4132a6eac1a9fa) | 修复 AccountTrade 缺失 counterparty 字段导致的反序列化错误，发布 v0.3.2
+
 ## 相关
 
 - [[Web3项目研究]]

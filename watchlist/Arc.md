@@ -373,6 +373,9 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2092975987973874059 -->
 - 2026-08-28 | [Twitter] `tweet:2092975987973874059` | [Arc x Chainlink](https://x.com/arc/status/2092975987973874059) | Chainlink 为 Arc 提供数据与互操作性支持
 
+<!-- watchlist-slug: tweet:2096312410369917139 -->
+- 2026-09-07 | [Twitter] `tweet:2096312410369917139` | [Arc Mainnet 9月16日上线，直播预约](https://x.com/arc/status/2096312410369917139) | Arc Mainnet 9月16日上线，官方直播预约开放
+
 ## 相关
 
 - [[Web3项目研究]]
