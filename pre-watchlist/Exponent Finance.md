@@ -45,6 +45,16 @@ Solana yield exchange 已上线，app/docs/audits/GitHub 可跟踪；继续观�
 
 ## 每周跟踪
 
+### 2026-09-08
+
+本周判断：P1 重点观察，维持观察，暂无新信号。
+
+v2 主网已于 2026 年 5 月底上线，30 天空投活动（约 $200,000 奖励池）已结束；XPN 代币合约据报道已定型但仍在等待审计，未见新的官方空投/TGE 时间表。产品与 yield 数据（$2B+ yield volume、35K+ 用户）保持不变。
+
+来源：[KuCoin 快讯](https://www.kucoin.com/news/flash/solana-yield-platform-exponent-closes-5m-seed-round-led-by-multicoin-capital) | [官网](https://exponent.finance)
+
+---
+
 ### 2026-08-24
 
 本周判断：P2 普通观察（本周无新信号，维持观察）。

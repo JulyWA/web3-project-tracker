@@ -42,6 +42,16 @@ AI agent guardrails / on-chain verification，官网已有 waitlist 和 docs；�
 
 ## 每周跟踪
 
+### 2026-09-08
+
+本周判断：P2 普通观察，维持观察，暂无新信号。
+
+Nava SDK 仍处于 Developer Preview，@navalabs 包限制访问，需申请授权和 credential；官网 waitlist 入口不变。核心方向（agentic economy 的 guardrails/验证层）与 Polychain、Archetype、FalconX 背书不变，未见新的公开测试或开发者开放计划。
+
+来源：[Nava 官方文档](https://docs.navalabs.ai/sdk/overview/) | [官网](https://navalabs.ai)
+
+---
+
 ### 2026-08-24
 
 本周判断：P2 普通观察（本周无新信号，维持观察）。

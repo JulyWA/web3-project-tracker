@@ -29,6 +29,16 @@ Hack VC 领投 $12M 种子（顶级机构+顶级金额+Nomad/Pi 跟投）是本�
 
 ## 4. 每周跟踪记录
 
+### 2026-09-08
+
+本周判断：P1 重点观察，本周有新的限时参与入口，暂不构成升级理由（未见明确资金投入截止/TGE 快照规则细化）。
+
+新信号：Axis Robotics 与 Binance Wallet 合作推出限时活动，面向符合条件的 Binance Keyless Wallet 用户空投 150 万枚 Axis Points，属于新的、时限性的可参与入口。TGE 预计在 2026 Q4。Hack VC 领投背景、10 万+贡献者、token 分配/vesting 仍未定。建议：在现有 1-3 账号规模基础上，评估是否满足 Binance Keyless Wallet 资格并参与该活动，暂不扩量。
+
+来源：[Airdrop Hunt with Lakhan (X)](https://x.com/CryptoLakhan/status/2092520653333123391) | [官方 Hub](https://axisrobotics.ai/)
+
+---
+
 ### 2026-08-24
 
 本周判断：P1 重点观察（本周无新信号，维持观察）。

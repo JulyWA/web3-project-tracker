@@ -29,6 +29,16 @@ KOR Protocol 是 Base 链上 IP clearinghouse，已跟 Black Mirror/Beatport 等
 
 ## 4. 每周跟踪记录
 
+### 2026-09-08
+
+本周判断：P1 重点观察，维持观察，暂无新信号。
+
+KOR ID（Base 链铸造）与 KOR Score 积分体系持续运行，官方仍未公布 TGE 具体日期或空投规则细节，未见新的官方声明确认空投。$7.5M A 轮、1kx/Blockchain Capital 双领投背景不变。
+
+来源：[MEXC 快讯](https://www.mexc.com/news/429662) | [官网](https://www.korprotocol.com)
+
+---
+
 ### 2026-08-24
 
 本周判断：P1 升级候选（延续，本周无新公告，KOR Score Season 2 仍在运行）。

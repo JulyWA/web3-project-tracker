@@ -42,6 +42,16 @@ Variational 是本批最值得继续观察的项目。它不是只有融资新�
 
 ## 4. 每周跟踪记录
 
+### 2026-09-08
+
+本周判断：P1 重点观察，暂不构成升级理由（VAR 尚未公布 Points 与代币的兑换比例，且积分规则本身非本周新变化）。
+
+新信号：Omni 于 2026-09-01 上线 swap 功能并推出 double points 活动，Omni Points 仍按每周五（UTC 0 点）结算，计划最迟在 2026 Q3 末结束每周分发。50% VAR 供应量承诺分配给社区，但代币尚未上线、兑换比例未公布。仍建议保持现有仓位/交互节奏，不新增资金投入。
+
+来源：[Variational 官方 Medium](https://medium.com/@variational-io/variational-airdrop-farm-omni-points-before-var-b369e4724b6f) | [Omni App](https://omni.variational.io/)
+
+---
+
 ### 2026-08-24
 
 本周判断：P1 升级候选（延续，本周无新公告，Q3 积分窗口约剩 5 周）。

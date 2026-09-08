@@ -217,6 +217,16 @@ TrueNorth = 首个「Agentic Brokerage」（AI 代理券商），2026-06-05 发�
 
 ## 17. 每周跟踪记录
 
+### 2026-09-08
+
+本周判断：P2 普通观察，维持观察，暂无新信号。
+
+Contributor contest 与 waitlist 入口仍在，公开测试网仍未开放（滚动发放测试网名额，无公开时间表）。未见官方 token/TGE 或新的 points/eligibility 规则。$11.9M 累计融资、Polychain/Franklin Templeton/a16z CSX 背书不变。
+
+来源：[The Block](https://www.theblock.co/post/406028/a16z-csx-backed-cambrian-seed-round-blockchain-data-oracle-network) | [官网](https://cambrian.org)
+
+---
+
 ### 2026-08-24
 
 本周判断：P2 普通观察（本周无新信号，维持观察）。
