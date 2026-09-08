@@ -379,6 +379,11 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2097082490225852803 -->
 - 2026-09-08 | [Twitter] `tweet:2097082490225852803` | [Arc Mainnet 9月16日上线，开放直播注册](https://x.com/arc/status/2097082490225852803) | Arc主网9/16纽约直播上线，创始验证人含BlackRock/ICE/Visa等，注册观看直播
 
+<!-- watchlist-slug: tweet:2097444874052075892 -->
+- 2026-09-09 | [Twitter] `tweet:2097444874052075892` | [Arc Mainnet Developer Pre-Show](https://x.com/arc/status/2097444874052075892) | 9月16日主网上线前开发者专场，介绍App Kits/Onramp/CCTP v3等
+<!-- watchlist-slug: tweet:2097369348784689227 -->
+- 2026-09-09 | [Twitter] `tweet:2097369348784689227` | [Aave x Arc builder session](https://x.com/arc/status/2097369348784689227) | 9月10日10AM ET，Aave V4在Arc上的借贷流动性session
+
 ## 相关
 
 - [[Web3项目研究]]
