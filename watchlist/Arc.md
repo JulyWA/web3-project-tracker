@@ -384,6 +384,13 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2097369348784689227 -->
 - 2026-09-09 | [Twitter] `tweet:2097369348784689227` | [Aave x Arc builder session](https://x.com/arc/status/2097369348784689227) | 9月10日10AM ET，Aave V4在Arc上的借贷流动性session
 
+<!-- watchlist-slug: tweet:2097761963527008292 -->
+- 2026-09-10 | [Twitter] `tweet:2097761963527008292` | [Aave 借贷接入 Arc](https://x.com/arc/status/2097761963527008292) | Aave 将把链上信用/借贷带到 Arc，Coming soon
+<!-- watchlist-slug: tweet:2097705752106516981 -->
+- 2026-09-10 | [Twitter] `tweet:2097705752106516981` | [Pulsar Pro 主网上线首日可用](https://x.com/arc/status/2097705752106516981) | Pulsar Pro 现金返还在 Arc 主网上线首日（9月16日）即可用
+<!-- watchlist-slug: tweet:2097685782106607916 -->
+- 2026-09-10 | [Twitter] `tweet:2097685782106607916` | [Wirex 加入 Arc 稳定币基建](https://x.com/arc/status/2097685782106607916) | Wirex 从加密卡业务转向 Arc 稳定币基础设施
+
 ## 相关
 
 - [[Web3项目研究]]

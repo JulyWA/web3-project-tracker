@@ -170,6 +170,9 @@ updated: 2026-05-11
 <!-- watchlist-slug: discord:1534580774345642148 -->
 - 2026-08-06 | [Discord] `discord:1534580774345642148` | [开发者应用提交窗口延期至 8 月 13 日](https://discord.com/channels/1385014051272265868/1385014051658141770/1534580774345642148) | 官方延期开发者应用提交截止至约 Aug 13，需迁移到 shelbynet 环境
 
+<!-- watchlist-slug: tweet:2097724211246862479 -->
+- 2026-09-10 | [Twitter] `tweet:2097724211246862479` | [Shelby Private Beta 分批邀请](https://x.com/shelbyserves/status/2097724211246862479) | 官方开始分阶段邀请小范围客户测试 Private Beta，暂无公开申请入口
+
 ## 相关
 
 - [[Web3项目研究]]
