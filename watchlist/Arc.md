@@ -391,6 +391,13 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2097685782106607916 -->
 - 2026-09-10 | [Twitter] `tweet:2097685782106607916` | [Wirex 加入 Arc 稳定币基建](https://x.com/arc/status/2097685782106607916) | Wirex 从加密卡业务转向 Arc 稳定币基础设施
 
+<!-- watchlist-slug: tweet:2098170228723376259 -->
+- 2026-09-11 | [Twitter] `tweet:2098170228723376259` | [Arc Mainnet 9月16日上线，Developer Pre-Show](https://x.com/arc/status/2098170228723376259) | 11家创始验证者公布（BlackRock/DTCC/ICE/Mastercard/Visa等），开发者可参加Pre-Show
+<!-- watchlist-slug: tweet:2098174751877521868 -->
+- 2026-09-11 | [Twitter] `tweet:2098174751877521868` | [Maple syrupUSDC 上线 Arc](https://x.com/arc/status/2098174751877521868) | 约$1B机构信贷敞口的存款产品接入Arc
+<!-- watchlist-slug: tweet:2098050410334589003 -->
+- 2026-09-11 | [Twitter] `tweet:2098050410334589003` | [Aave 为 Arc 带来借贷基础设施](https://x.com/arc/status/2098050410334589003) | 借贷协议集成公告，暂无具体参与链接
+
 ## 相关
 
 - [[Web3项目研究]]
