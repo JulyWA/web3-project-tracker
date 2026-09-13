@@ -398,6 +398,11 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2098050410334589003 -->
 - 2026-09-11 | [Twitter] `tweet:2098050410334589003` | [Aave 为 Arc 带来借贷基础设施](https://x.com/arc/status/2098050410334589003) | 借贷协议集成公告，暂无具体参与链接
 
+<!-- watchlist-slug: commit:arc-node@ac565f2 -->
+- 2026-09-14 | [GitHub] `commit:arc-node@ac565f2` | [genesis 配置修复：ProtocolConfig schema 对齐](https://github.com/circlefin/arc-node/commit/ac565f2d173c926097f8dbf0c91c71a13a5aa20f) | 主网上线前共识层加固
+<!-- watchlist-slug: commit:arc-node@186d124 -->
+- 2026-09-14 | [GitHub] `commit:arc-node@186d124` | [genesis 配置修复：validator voting power 校验](https://github.com/circlefin/arc-node/commit/186d124633d83295f6fe8d352b8b124b3d5561e4) | 主网上线前共识层加固
+
 ## 相关
 
 - [[Web3项目研究]]
