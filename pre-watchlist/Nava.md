@@ -42,6 +42,12 @@ AI agent guardrails / on-chain verification，官网已有 waitlist 和 docs；�
 
 ## 每周跟踪
 
+### 2026-09-14
+
+本周判断：P2 继续观察，暂无新信号。私测 waitlist 入口不变，本周未见新的 demo/SDK/开发者资格更新。
+
+---
+
 ### 2026-09-08
 
 本周判断：P2 普通观察，维持观察，暂无新信号。

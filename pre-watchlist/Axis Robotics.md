@@ -29,6 +29,14 @@ Hack VC 领投 $12M 种子（顶级机构+顶级金额+Nomad/Pi 跟投）是本�
 
 ## 4. 每周跟踪记录
 
+### 2026-09-14
+
+本周判断：升级候选（建议 July 确认后 graduate）。官方与 Binance Wallet 合作推出限时活动，向符合条件的 Binance Keyless Wallet 用户发放 150 万枚 Axis Points；同时 Kaito Creator Program 第一期（2026-08-19 至 2026-09-18）以 0.2% $AXIS 供应量为奖池奖励前 500 名创作者，TGE 预期 Q4 2026。两个活动都是限时+明确奖励资格，符合升级标准。
+
+来源：[Axis Robotics 官方](https://axisrobotics.ai/) | [CryptoRank Axis Robotics Airdrop](https://cryptorank.io/drophunting/axis-ai-activity1105)
+
+---
+
 ### 2026-09-08
 
 本周判断：P1 重点观察，本周有新的限时参与入口，暂不构成升级理由（未见明确资金投入截止/TGE 快照规则细化）。

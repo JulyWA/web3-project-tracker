@@ -29,6 +29,12 @@ Osero 是 Sky/Plasma 背书的 stablecoin yield / savings 项目，方向比纯�
 
 ## 4. 每周跟踪记录
 
+### 2026-09-14
+
+本周判断：P2 继续观察，暂无新信号。Osero Earn/App/Foundry 三条产品线已披露，但本周未见新的积分、activity 或地区限制更新。
+
+---
+
 ### 2026-09-08
 
 本周判断：P2 普通观察，维持观察，暂无新信号。

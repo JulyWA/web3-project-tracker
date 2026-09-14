@@ -42,6 +42,14 @@ Variational 是本批最值得继续观察的项目。它不是只有融资新�
 
 ## 4. 每周跟踪记录
 
+### 2026-09-14
+
+本周判断：升级候选（建议 July 确认后 graduate）。Omni 推出限时 Swaps Trading Competition（2026-09-10 00:00 UTC 至 2026-09-24 00:00 UTC），20,000 USDC 奖池奖励前 20 名交易者，叠加 swap double points 活动，属于明确的限时资金投入窗口+奖励资格活动，符合升级标准。
+
+来源：[Variational Omni App](https://omni.variational.io/) | [Variational Airdrop Guide](https://www.airdropsea.com/post/variational-exchange-airdrop-tutorial-complete-guide-to-earn-var-tokens-through-omni-points-2026)
+
+---
+
 ### 2026-09-08
 
 本周判断：P1 重点观察，暂不构成升级理由（VAR 尚未公布 Points 与代币的兑换比例，且积分规则本身非本周新变化）。
