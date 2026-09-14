@@ -403,6 +403,13 @@ updated: 2026-05-11
 <!-- watchlist-slug: commit:arc-node@186d124 -->
 - 2026-09-14 | [GitHub] `commit:arc-node@186d124` | [genesis 配置修复：validator voting power 校验](https://github.com/circlefin/arc-node/commit/186d124633d83295f6fe8d352b8b124b3d5561e4) | 主网上线前共识层加固
 
+<!-- watchlist-slug: tweet:2099580696125927537 -->
+- 2026-09-15 | [Twitter] `tweet:2099580696125927537` | [Arc Mainnet 上线 9 月 16 日](https://x.com/arc/status/2099580696125927537) | Arc Mainnet 定档 9 月 16 日上线，多家钱包官宣 Day 1 支持
+<!-- watchlist-slug: tweet:2099627578923319380 -->
+- 2026-09-15 | [Twitter] `tweet:2099627578923319380` | [Arc 上线直播预告](https://x.com/arc/status/2099627578923319380) | 官方直播预告，9 月 16 日展示生态全貌
+<!-- watchlist-slug: tweet:2099573904150815096 -->
+- 2026-09-15 | [Twitter] `tweet:2099573904150815096` | [Ledger 支持 Arc](https://x.com/arc/status/2099573904150815096) | Ledger 官宣即将支持 Arc 自托管资产
+
 ## 相关
 
 - [[Web3项目研究]]
