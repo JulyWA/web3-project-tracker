@@ -410,6 +410,13 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2099573904150815096 -->
 - 2026-09-15 | [Twitter] `tweet:2099573904150815096` | [Ledger 支持 Arc](https://x.com/arc/status/2099573904150815096) | Ledger 官宣即将支持 Arc 自托管资产
 
+<!-- watchlist-slug: tweet:2100005646989193342 -->
+- 2026-09-16 | [Twitter] `tweet:2100005646989193342` | [Arc 主网 9/16 正式上线](https://x.com/arc/status/2100005646989193342) | 主网明天上线，创始验证人含BlackRock/DTCC/Mastercard/Visa
+<!-- watchlist-slug: tweet:2099890988974035350 -->
+- 2026-09-16 | [Twitter] `tweet:2099890988974035350` | [MetaMask 成为 Arc 默认钱包](https://x.com/arc/status/2099890988974035350) | MetaMask 成为 Arc 默认浏览器/移动端钱包
+<!-- watchlist-slug: tweet:2099975956278710722 -->
+- 2026-09-16 | [Twitter] `tweet:2099975956278710722` | [Pump.fun 支持 Arc 交易](https://x.com/arc/status/2099975956278710722) | Pump.fun 主网上线第一天支持 Arc 代币交易
+
 ## 相关
 
 - [[Web3项目研究]]
