@@ -417,6 +417,9 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2099975956278710722 -->
 - 2026-09-16 | [Twitter] `tweet:2099975956278710722` | [Pump.fun 支持 Arc 交易](https://x.com/arc/status/2099975956278710722) | Pump.fun 主网上线第一天支持 Arc 代币交易
 
+<!-- watchlist-slug: tweet:2100316782351258059 -->
+- 2026-09-17 | [Twitter] `tweet:2100316782351258059` | [Arc 主网上线](https://x.com/arc/status/2100316782351258059) | Circle Arc 主网正式上线，founding validator 含 BlackRock/Visa/Mastercard/DTCC/ICE，100+应用接入，ARC创世铸造100亿枚，公开发行未定
+
 ## 相关
 
 - [[Web3项目研究]]

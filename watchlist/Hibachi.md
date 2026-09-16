@@ -324,6 +324,9 @@ Dragonfly 和 Electric Capital 都是加密原生一线/强二线机构，对 De
 <!-- watchlist-slug: commit:hibachi_sdk@14a76b9 -->
 - 2026-09-07 | [GitHub] `commit:hibachi_sdk@14a76b9` | [fix: AccountTrade deserialization error](https://github.com/hibachi-xyz/hibachi_sdk/commit/14a76b95230869dd622c31a1fc4132a6eac1a9fa) | 修复 AccountTrade 缺失 counterparty 字段导致的反序列化错误，发布 v0.3.2
 
+<!-- watchlist-slug: tweet:2100186498272211125 -->
+- 2026-09-17 | [Twitter] `tweet:2100186498272211125` | [Hibachi 随 Arc 主网上线](https://x.com/hibachi_xyz/status/2100186498272211125) | Hibachi 作为Day1合作方在Arc主网开放FX/贵金属/加密永续合约
+
 ## 相关
 
 - [[Web3项目研究]]
