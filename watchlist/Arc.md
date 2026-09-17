@@ -420,6 +420,13 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2100316782351258059 -->
 - 2026-09-17 | [Twitter] `tweet:2100316782351258059` | [Arc 主网上线](https://x.com/arc/status/2100316782351258059) | Circle Arc 主网正式上线，founding validator 含 BlackRock/Visa/Mastercard/DTCC/ICE，100+应用接入，ARC创世铸造100亿枚，公开发行未定
 
+<!-- watchlist-slug: tweet:2100717902030938432 -->
+- 2026-09-18 | [Twitter] `tweet:2100717902030938432` | [Arc 公开主网正式上线](https://x.com/arc/status/2100717902030938432) | Arc 公开主网上线，BlackRock/DTCC/Visa/Mastercard等为创世验证者
+<!-- watchlist-slug: tweet:2100570473385865228 -->
+- 2026-09-18 | [Twitter] `tweet:2100570473385865228` | [Arc Microgrants 开放申请](https://x.com/arc/status/2100570473385865228) | 最高$1M资助早期原型/POC项目
+<!-- watchlist-slug: tweet:2100673430215609180 -->
+- 2026-09-18 | [Twitter] `tweet:2100673430215609180` | [Extended 支持 Arc 存取 USDC](https://x.com/arc/status/2100673430215609180) | Extended平台已支持通过Arc存取USDC
+
 ## 相关
 
 - [[Web3项目研究]]
