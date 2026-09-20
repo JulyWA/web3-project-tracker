@@ -427,6 +427,13 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2100673430215609180 -->
 - 2026-09-18 | [Twitter] `tweet:2100673430215609180` | [Extended 支持 Arc 存取 USDC](https://x.com/arc/status/2100673430215609180) | Extended平台已支持通过Arc存取USDC
 
+<!-- watchlist-slug: tweet:2100978164281594074 -->
+- 2026-09-21 | [Twitter] `tweet:2100978164281594074` | [Arc Portal 上线，可存款进 Morpho](https://x.com/arc/status/2100978164281594074) | Arc Portal 上线，可用 USDC/cirBTC 接入 Morpho earn 入口，管理 agent 钱包
+<!-- watchlist-slug: tweet:2100953842703851582 -->
+- 2026-09-21 | [Twitter] `tweet:2100953842703851582` | [builder 资助计划最高 $1M](https://x.com/arc/status/2100953842703851582) | 面向 Arc 上支付/FX/借贷/RWA/agentic workflow 团队开放资助申请
+<!-- watchlist-slug: tweet:2101023454111670430 -->
+- 2026-09-21 | [Twitter] `tweet:2101023454111670430` | [USDC Bridge 官方桥接入口开放](https://x.com/arc/status/2101023454111670430) | Circle 官方 USDC Bridge，可桥接资产进 Arc
+
 ## 相关
 
 - [[Web3项目研究]]
