@@ -29,6 +29,14 @@ Polymarket 是本次 41 个项目里唯一符合硬件门槛+参与预期+机构
 
 ## 4. 每周跟踪记录
 
+### 2026-09-21
+
+本周判断：新增风险信号，继续观察（P1，非升级理由）。POLY 空投规则/快照仍无新进展。WSJ 报道 Polymarket 曾遭遇至少 $10M 盗刷卡欺诈，CEO Shayne Coplan 被曝要求团队"先增长、被抓再交罚款"并撤销同源存取款反洗钱规则；CFTC 已介入调查，美国区 CEO 及合规负责人已被解雇，合规主管因披露内部报告辞职。若 CFTC 升级为正式执法或美国业务被暂停，应重新评估是否继续观察。
+
+来源：[The Block](https://www.theblock.co/news/regulation/2026-09-20-polymarket-faced-10-million-fraud-attempt-as-its-ceo-pushed-growth-over-compliance-concerns-wsj-415875) | [Cryptopolitan](https://www.cryptopolitan.com/polymarkets-10-million-fraud-scare-tests-whether-growth-outran-compliance/)
+
+---
+
 ### 2026-09-14
 
 本周判断：P1 继续观察，暂无新信号。CMO 已确认 POLY 空投会发生，但 snapshot 日期、分配规则、供应量仍未公布，市场普遍预期在 2026 下半年晚些时候。

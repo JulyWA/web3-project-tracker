@@ -327,6 +327,9 @@ Dragonfly 和 Electric Capital 都是加密原生一线/强二线机构，对 De
 <!-- watchlist-slug: tweet:2100186498272211125 -->
 - 2026-09-17 | [Twitter] `tweet:2100186498272211125` | [Hibachi 随 Arc 主网上线](https://x.com/hibachi_xyz/status/2100186498272211125) | Hibachi 作为Day1合作方在Arc主网开放FX/贵金属/加密永续合约
 
+<!-- watchlist-slug: tweet:2102146620141851065 -->
+- 2026-09-22 | [Twitter] `tweet:2102146620141851065` | [Vault更新 FLP/ROBO](https://x.com/hibachi_xyz/status/2102146620141851065) | FLP剩$17000额度APR19.9%，ROBO满仓APR39.3%
+
 ## 相关
 
 - [[Web3项目研究]]

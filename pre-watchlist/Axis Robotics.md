@@ -29,6 +29,14 @@ Hack VC 领投 $12M 种子（顶级机构+顶级金额+Nomad/Pi 跟投）是本�
 
 ## 4. 每周跟踪记录
 
+### 2026-09-21
+
+本周判断：升级候选（建议 July 确认后 graduate）。AXIS 代币 Community Sale 窗口已开启（2026-09-21 至 09-28 13:00 UTC，09-30 结算），价格 $0.10、FDV 约 $1 亿、总供应 10 亿枚（Base 链，USDC 结算，单人额度 $100–$100,000）；TGE 解锁 10%，锁定 6 个月后线性释放剩余 90%。这是明确的资金投入窗口和截止日期，符合升级标准。
+
+来源：[KuCoin 快讯](https://www.kucoin.com/news/flash/axis-robotics-opens-pre-registration-for-axis-token-community-sale) | [CryptoRank Axis AI ICO](https://cryptorank.io/ico/axis-ai)
+
+---
+
 ### 2026-09-14
 
 本周判断：升级候选（建议 July 确认后 graduate）。官方与 Binance Wallet 合作推出限时活动，向符合条件的 Binance Keyless Wallet 用户发放 150 万枚 Axis Points；同时 Kaito Creator Program 第一期（2026-08-19 至 2026-09-18）以 0.2% $AXIS 供应量为奖池奖励前 500 名创作者，TGE 预期 Q4 2026。两个活动都是限时+明确奖励资格，符合升级标准。

@@ -434,6 +434,13 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2101023454111670430 -->
 - 2026-09-21 | [Twitter] `tweet:2101023454111670430` | [USDC Bridge 官方桥接入口开放](https://x.com/arc/status/2101023454111670430) | Circle 官方 USDC Bridge，可桥接资产进 Arc
 
+<!-- watchlist-slug: tweet:2102110618933485863 -->
+- 2026-09-22 | [Twitter] `tweet:2102110618933485863` | [Digital Asset-Backed Borrowing 上线](https://x.com/arc/status/2102110618933485863) | 存BTC铸cirBTC借USDC，存款/借贷类参与机会
+<!-- watchlist-slug: tweet:2102151222560178425 -->
+- 2026-09-22 | [Twitter] `tweet:2102151222560178425` | [主网首周数据](https://x.com/arc/status/2102151222560178425) | 6天566亿美元转账量，26.9M笔，58.6万地址
+<!-- watchlist-slug: tweet:2102068855636189620 -->
+- 2026-09-22 | [Twitter] `tweet:2102068855636189620` | [Programmable Money Accelerator黑客松启动](https://x.com/arc/status/2102068855636189620) | 12支决赛队伍，8周加速器，11月Demo Day
+
 ## 相关
 
 - [[Web3项目研究]]
