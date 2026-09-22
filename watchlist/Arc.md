@@ -441,6 +441,9 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2102068855636189620 -->
 - 2026-09-22 | [Twitter] `tweet:2102068855636189620` | [Programmable Money Accelerator黑客松启动](https://x.com/arc/status/2102068855636189620) | 12支决赛队伍，8周加速器，11月Demo Day
 
+<!-- watchlist-slug: tweet:2102416652952551544 -->
+- 2026-09-23 | [Twitter] `tweet:2102416652952551544` | [Tangem 接入 Arc，可直接 swap 到 USDC](https://x.com/arc/status/2102416652952551544) | Tangem App 内可直接自托管 swap 进 USDC
+
 ## 相关
 
 - [[Web3项目研究]]
