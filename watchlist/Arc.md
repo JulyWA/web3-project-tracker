@@ -444,6 +444,11 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2102416652952551544 -->
 - 2026-09-23 | [Twitter] `tweet:2102416652952551544` | [Tangem 接入 Arc，可直接 swap 到 USDC](https://x.com/arc/status/2102416652952551544) | Tangem App 内可直接自托管 swap 进 USDC
 
+<!-- watchlist-slug: tweet:2102880552261144768 -->
+- 2026-09-24 | [Twitter] `tweet:2102880552261144768` | [MetaMask 内可直接用法币买卖 Arc 上的 USDC](https://x.com/arc/status/2102880552261144768) | 可在 MetaMask 里直接体验法币购买/出售 Arc 链上 USDC
+<!-- watchlist-slug: tweet:2102791920384937985 -->
+- 2026-09-24 | [Twitter] `tweet:2102791920384937985` | [SafePal 钱包接入 Arc，支持 cirBTC](https://x.com/arc/status/2102791920384937985) | 用 SafePal 钱包连接 Arc Portal 即可体验 cirBTC
+
 ## 相关
 
 - [[Web3项目研究]]
