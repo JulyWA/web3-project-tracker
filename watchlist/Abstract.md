@@ -121,7 +121,8 @@ updated: 2026-09-23
 | [abstract-tier-tracker](https://github.com/AlexanderGalayda/abstract-tier-tracker) | 各 tier 人数每周历史 | 数据可读；仓库无许可证 |
 | Dune `abstract.*` 表 | 活跃地址、新地址、交易数、余额分布（需自写 SQL） | 推荐做链上用户画像 |
 | [L2BEAT API](https://l2beat.com/api/scaling/activity/abstract) | 日交易数 | 可用，交叉校验 |
-| Etherscan V2（chainid 2741） | 按地址查余额/交易 | 免费档可用 |
+| Etherscan V2（chainid 2741） | 按地址查余额/交易 | 免费档可用，需 key |
+| **`block-explorer-api.mainnet.abs.xyz/address/{addr}`** | 按地址查**完整代币组合**（ETH + 全部 ERC-20/NFT，含 usdPrice/liquidity），免鉴权 | 官方 explorer（explorer.mainnet.abs.xyz）的真实后端，未公开文档但比 Etherscan V2 更全面、不需要 key，**推荐作为余额查询的主源** |
 | 现有 Dune 看板（hashed_em、outputlayer） | 交易、账户数 | 数据停在 7 月或查询超时，别依赖 |
 | Nansen / growthepie | — | 不支持 Abstract |
 | GitHub 刷量 bot、仿冒 SDK 仓库 | — | 涉及私钥，别碰 |
@@ -135,7 +136,11 @@ updated: 2026-09-23
 - **日活跃发送地址**：日常 4.6 万～6.4 万，两次异常拉高到 7 万～7.7 万（08-31、09-18）
 - **新增地址**：日常 300～800 个，**09-18 单日暴增到 27,050 个**，是基线的 30～90 倍
 - **交易高度集中**：30 天活跃过的约 20.3 万个地址中，**576 个（0.28%）跑了 368 万笔交易，占全部交易的 54%**——集中在自动化/机器人账户，从凌晨到凌晨按固定间隔不间断发交易
-- **余额不是有效信号**：抽查 48 个不同活跃度的钱包（含跑了 2 万多笔交易的账户），**原生 ETH 余额几乎全部接近 0**。原因是 AGW 智能钱包由 paymaster 代付 gas，交易不需要钱包自身持有 ETH。**因此"钱包质量"不能用余额衡量**，需改用交易多样性、账户年龄、徽章/tier 等维度
+- **余额：原生 ETH 不能单独代表钱包质量，但完整代币组合可以查到，且已修正之前的判断**。最初只查了原生 ETH 余额，48 个样本钱包（含跑了 2 万多笔交易的账户）几乎全部接近 0——这是因为 AGW 智能钱包由 paymaster 代付 gas，交易不需要自己持有 ETH，误以为"余额查不到有效信号"。改用官方 explorer 后端 `block-explorer-api.mainnet.abs.xyz`（同一批 48 个地址）按**完整代币组合估值**重新核算：
+  - 组合总值中位数约 **$0.04**，均值 $10.7（被少数账户拉高）
+  - 62.5%（30/48）组合价值低于 $1，只有 2 个账户超过 $100（最高 $175.7）
+  - 持有的代币数量（`num_assets`）和交易笔数没有稳定的正相关：有账户跑了 2.4 万笔交易但只有 1 个资产、价值 $0；也有账户只跑 18 笔交易却持有 112 种代币
+  - **结论**：Abstract 上真实用户的链上资产普遍很轻，多数账户组合价值不到 1 美元；持有的代币里相当一部分是无定价的空投/农场代币，不代表真实价值。钱包质量排名如果要做，用组合总值可以作为一个维度，但要跟交易多样性、账户年龄、徽章/tier 一起看，不能单独用
 - **09-18 异常已查明**：当日 72,573 笔交易集中打给合约 `0x3b50de27...76ce2a`（Dune 合约 ABI 确认为官方 **VoteGovernor** 治理投票合约，对应 2024-10 Panoramic Governance 研究里的机制），方法为 `voteForApp(uint256)`。解码 `Voted` 事件后，当日投票集中在 app id 213「**Maze of Gains**」（27,277 票，占当日投票 37%），其余票数分散在 Tollan Universe、Cambria、Gigling Racing 等生态游戏。判断是 Maze of Gains 发起了一轮投票活动，吸引大量新钱包（多为首次连接）参与投票，同时带动新增地址暴涨——不是异常或攻击
 
 ## 7. 触发信号（出现即升级关注）
