@@ -9,22 +9,34 @@ tags:
   - sector/stablecoin
   - sector/l1
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-09-24
 ---
 
 # Arc
 
 ## 0. 快速结论
 
-- 建议：可尝试
-- 总分：78/100
+- 建议：可尝试（低成本参与，不为空投投钱）
+- 总分：78/100（2026-05-11 评分，主网上线后未重评）
 - 风险等级：中低
-- 参与类型：脚本型 / 开发者型 / 白名单型
-- 当前动作：优先做开发者留痕，包括 public testnet、部署/测试合约、运行节点、关注 bug bounty；暂不做资金型动作。
-- 截止时间：未发现明确截止时间
+- 参与类型：真实使用型 / 开发者型 / 社区身份型
+- 当前动作：用官方 Arc Portal 做小额真实使用（桥 USDC、Aave 存款、稳定币兑换），Arc House 攒社区身份；不打 meme 发射台，不买场外溢价 USDC，不刷交易量。
+- 截止时间：官方无截止时间；代币相关唯一硬约束是预售合同的 2028-05-08 PoS 退款触发线
 - 置信度：中高
 
-一句话：Arc 背靠 Circle，公开测试网、开源节点和 bug bounty 都已经可参与，适合做开发者早期留痕；但目前没有明确空投承诺，不能按“必撸空投”处理。
+一句话：主网已于 2026-09-16 上线，Circle 完成 ARC 创世铸造但明确「不代表公开发行承诺」，官方至今没有任何积分、空投或解锁时间表；参与价值在于低成本留痕和熟悉产品，不能按「必撸空投」处理。
+
+## 0.1 主网后现状（截至 2026-09-24）
+
+- 网络：2026-09-16 开放公开主网，chainId `5042`，RPC `https://rpc.mainnet.arc.io`，浏览器 `https://explorer.arc.io`，gas 用 USDC，官方入口 `https://portal.arc.io`。
+- 代币：ARC 已创世铸造 100 亿枚，合约 `0xA12Cd81d0f9988E3d60c4B6a0D52D368Ef3c788d`（2026-09-17 用公开 RPC 只读核对：name=Arc、symbol=ARC、decimals=6、totalSupply=100 亿）。官方原话：不可交易、不可质押、不可用于治理或手续费。链上已出现多个同名假币，认地址。
+- 共识：仍为 PoA。官方表述是「2027 年探索转向 PoS」，无具体日期；无公开质押，无公开验证者名额。
+- 激励：无官方积分、快照或空投。Arc House Architect 积分官方写明「无金钱价值，不保证空投资格」。
+- 首日（2026-09-16）：776 万笔交易、40.9 万活跃地址，USDC 净流入约 $5.15 亿；约 82% 的 DEX 成交来自发射台，头部发射台代币次日跌 52–74%。链上 5 月起已跑私有主网，这些不是从零开始的数字。
+- 资金分布：全链 TVL 约 $3.34 亿。Morpho 约 $2.27 亿，主要是 Galaxy、Keyrock 机构金库；Aave V4 存款约 $7,735 万，借出仅约 $6.6 万，存 USDC 几乎没有利息。
+- 生态：Uniswap（v2/v3/v4/UniswapX）、Aave V4、Morpho、Aero Lite、LI.FI 首日可用；Hibachi 自称首日上线，但合约仍以 USDT 结算，Arc 原生 FX 订单簿标注为 Next up。
+- 产品：Arc Portal、Arc Studio、App Kits、StableFX、Agent Stack、x402 结算服务均已可用；隐私功能和 AgentVM 仍在开发中。
+- 详细研究：《Arc 主网参与手册》《Arc 上线直播复盘》两份报告（私有 Artifact，未在本仓库公开）。
 
 ## 1. 官方来源确认
 
@@ -59,26 +71,30 @@ updated: 2026-05-11
 | 赛道质量 | 10% | 8 | 稳定币原生 L1、RWA/支付/FX/资本市场基础设施，符合长期金融基础设施方向。 |
 | 社区与开发热度 | 5% | 6 | GitHub `circlefin/arc-node` 已开源，约 43 commits、v0.6.0 release；仍处早期。 |
 
+注：本表为 2026-05-11 主网前评分，主网上线后未重评。
+
 ## 4. 参与机会拆解
 
-- 是否有 testnet / beta / waitlist：有。Arc public testnet 已上线。
-- 是否有 points / XP / badge：未发现明确公开 points / XP / badge。
-- 是否有 airdrop / retroactive 暗示：未发现官方明确承诺。
-- 是否有 grant / bug bounty / developer task：有。官方博客称 Arc testnet code 开源，并上线 HackerOne bug bounty。
-- 是否有 deposit / stake / LP：未发现面向普通用户的官方资金型激励；不建议为了潜在空投盲目存款。
-- 参与入口：
-  - Docs：[Arc Docs](https://docs.arc.network/)
-  - Faucet：[Circle Faucet](https://faucet.circle.com/)
-  - Explorer：[Arc Testnet Explorer](https://testnet.arcscan.app/)
-  - Node repo：[circlefin/arc-node](https://github.com/circlefin/arc-node)
+- 是否有 testnet / beta / waitlist：公开主网已上线；测试网（chainId 5042002）仍在运行。
+- 是否有 points / XP / badge：只有 Arc House Architect 积分，官方声明无金钱价值、不保证空投资格；链上无积分系统。
+- 是否有 airdrop / retroactive 暗示：官方无承诺。白皮书生态 60% 份额含「更广泛的参与机制」；Allaire 在 2026-05-11 Q1 电话会口头提过 airdrops（已核对转录原文，属愿景表述非承诺）。
+- 是否有 grant / bug bounty / developer task：有。Circle Developer Grants（USDC，按里程碑发放）、Arc Builders Fund（Circle Ventures 股权投资）、HackerOne 赏金（Circle 全公司计划，严重档上限 $5,000）。
+- 是否有 deposit / stake / LP：无官方资金型激励。协议层可正常存款和 LP，但当前借款需求极低，收益接近零。
+- 参与入口（只认以下官方域名）：
+  - 官方入口：[Arc Portal](https://portal.arc.io)
+  - Docs：[docs.arc.io](https://docs.arc.io)
+  - 浏览器：[explorer.arc.io](https://explorer.arc.io)
+  - 社区与积分：[Arc House](https://community.arc.io)
+  - 节点仓库：[circlefin/arc-node](https://github.com/circlefin/arc-node)
 - 推荐参与方式：
-  - 运行或研究 Arc node。
-  - public testnet 上部署小合约、发交易、测试 USDC gas / CCTP / Gateway / App Kit。
-  - 如有安全能力，参与 bug bounty 或至少阅读范围。
+  - 用官方 CCTP 小额桥 USDC 进 Arc，先试 ≤$1 确认到账再补足。
+  - 在 Aave V4 存一笔、在 Uniswap 做一次 USDC↔EURC 兑换，留真实链上记录，金额控制在可以归零的范围。
+  - 在 Arc House 做真实社区贡献，申请 Builder / Architect 身份。
+  - 有余力就投黑客松或 grant，这是目前唯一确定能拿到钱的路径。
 - 不建议做的动作：
   - 不要把 Arc 当成已确认空投项目。
-  - 不要在非官方入口连接钱包。
-  - 不要为了“链上痕迹”投入真实资金。
+  - 不要在 meme 发射台冲新币，不要买场外溢价 USDC。
+  - 不要与任何自称 ARC 的可交易代币交互，官方 ARC 目前不可交易。
 
 ## 5. 成本与风险
 
@@ -103,30 +119,32 @@ updated: 2026-05-11
 ## 7. 触发 Watchlist 条件
 
 - 立即行动：
-  - 出现有截止时间的 bug bounty / grant / builder campaign。
-  - 出现 points / badge / eligibility / snapshot 明确信号。
+  - 官方公布 ARC 解锁或分发时间表（官方称「未来几个月」，至今未出）。
+  - 官方公布 PoS 具体日期或质押规则（「2027 年探索」已出现，不再算触发）。
+  - 官方首次出现积分、任务、快照或空投表述。
 - 可尝试：
-  - public testnet 部署合约、运行节点、测试 Arc App Kit。
+  - 协议方（Aave、Morpho、Uniswap、Aero 等）公布 Arc 专属激励。
+  - Hibachi Arc 原生 FX 订单簿上线。
 - 观察：
-  - mainnet 时间、治理/validator 规则、是否出现 token/retroactive 相关表述。
+  - Arc 上借款需求和真实收益率是否起来。
+  - 机构资金落地进度（BUIDL、USYC、DTCC 计划中的 2027 下半年代币化）。
 - 需确认：
-  - HackerOne 具体范围和奖励规则。
-  - 是否有官方 builder program / grant。
+  - 未来若有分发，是否对美国或特定地区用户设限。
 - 无新信号：
-  - 普通生态合作名单重复发布，不单独上报。
+  - 钱包、生态接入类公告重复发布，不单独上报。
 
 ## 8. July 视角
 
-- 是否符合当前 Web3 辅助线定位：符合，但只适合作为高质量开发者交互观察，不适合变成日常主线。
-- 是否值得提高优先级：若出现明确 builder campaign、bug bounty 高额奖励、points/badge、validator 早期资格，则提高。
+- 是否符合当前 Web3 辅助线定位：符合。主网后仍是支线，主线是 meme 代币研究，不投入资金型精力。
+- 是否值得提高优先级：出现解锁时间表、PoS 日期与质押规则、或协议级 Arc 专属激励时提高。
 - 是否值得写入 [[Web3项目研究]]：已写入。
 - 是否需要新建或更新项目页：已更新。
 
 ## 9. 下一步
 
-1. 打开官方 docs，完成一次最小开发者交互：faucet → 发交易 → 部署/调用小合约。
-2. 阅读 `circlefin/arc-node` release 和 bug bounty 范围，判断是否有可执行任务。
-3. 每周跟踪 GitHub release / docs update / blog 是否出现 points、grant、validator 或 mainnet 时间线。
+1. 从 Arc Portal 做一次最小真实使用：官方 CCTP 桥 ≤$1 测试 → 补足计划金额 → Aave V4 存款 + Uniswap 一次稳定币兑换。
+2. 等 Hibachi 的 Arc 原生 FX 订单簿上线，再把它并进同一轮操作。
+3. 每周跟踪官方 blog / docs / GitHub 是否出现解锁时间表、PoS 日期、质押规则或协议级激励。
 
 ## 10. 操作记录
 
@@ -134,11 +152,18 @@ updated: 2026-05-11
 |---|---|---:|---|---|
 | 2026-05-11 | 新建项目跟踪页 | 0 | 待研究 | 关注交互机会 |
 | 2026-05-11 | 按新版研究流程更新 | 0 | 可尝试 | public testnet + node + bug bounty 是主要窗口 |
+| 2026-09-16 | 主网上线前完成参与手册研究 | 0 | 可尝试 | 确认无官方空投，结论方向不变 |
+| 2026-09-17 | 上线后核实 + 直播复盘（含链上只读核验） | 0 | 可尝试 | 核实 chainId、ARC 合约地址、首日数据 |
+| 2026-09-24 | 按主网后事实重写结论区与参与机会 | 0 | 可尝试 | 同时更正两条过度解读的跟踪记录 |
 
 ## 11. 来源
 
-- [Arc 官网](https://www.arc.network/)
-- [Arc Docs](https://docs.arc.network/)
+- [Arc 官网](https://www.arc.io/)（原域名 arc.network 已迁移）
+- [Arc Docs](https://docs.arc.io/)
+- [Arc Portal](https://portal.arc.io)
+- [Arc 主网上线新闻稿 2026-09-16](https://www.circle.com/pressroom/circle-launches-arc-mainnet-an-economic-operating-system-for-the-internet)
+- [ARC 代币白皮书](https://www.arc.io/arc-token-whitepaper)
+- [Circle 8-K：ARC 代币预售 2026-05-11](https://www.sec.gov/Archives/edgar/data/1876042/000187604226000148/crcl-20260511.htm)
 - [Arc public testnet 公告](https://www.arc.network/blog/circle-launches-arc-public-testnet)
 - [Arc 开源节点与 bug bounty 公告](https://www.arc.network/blog/open-sourcing-arc-run-your-own-arc-node-and-bug-bounty-program)
 - [Circle public testnet press release](https://www.circle.com/pressroom/circle-launches-arc-public-testnet)
@@ -207,7 +232,7 @@ updated: 2026-05-11
 - 2026-06-08 | [GitHub] `release:arc-node@v0.7.2` | [arc-node v0.7.2 release](https://github.com/circlefin/arc-node/releases/tag/v0.7.2) | 内部同步 release，BREAKING_CHANGES.md 新增 28 行，ValidatorManagement.s.sol 更新
 
 <!-- watchlist-slug: tweet:2064059889907802370 -->
-- 2026-06-09 | [Twitter] `tweet:2064059889907802370` | [明天 8AM PT 开启参与活动 The Shift](https://x.com/arc/status/2064059889907802370) | 官方预告明天开启任务/互动节点，可能涉及质押/早期访问
+- 2026-06-09 | [Twitter] `tweet:2064059889907802370` | [营销预告推文（原记「The Shift 活动」）](https://x.com/arc/status/2064059889907802370) | 2026-09-17 更正：原推为 "MEMO: Please prepare for prolonged inactivity"，链接指向营销页 arc.io/theboredroom，并不存在名为 The Shift 的活动，也与质押或早期访问无关
 
 <!-- watchlist-slug: tweet:2064751192862048420 -->
 - 2026-06-11 | [Twitter] `tweet:2064751192862048420` | [Arc India Region Kickoff — 6月18日线上圆桌](https://x.com/arc/status/2064751192862048420) | 6月18日线上圆桌，stablecoin使用场景讨论，官方开放注册
@@ -317,7 +342,7 @@ updated: 2026-05-11
 - 2026-08-06 | [Twitter] `tweet:2085017940274073975` | [Keyrock 确认为 Arc 首日流动性提供商](https://x.com/arc/status/2085017940274073975) | Keyrock 作为 day-one 流动性提供商加入 Arc，Sep 16 上线
 
 <!-- watchlist-slug: tweet:2085381600054014259 -->
-- 2026-08-07 | [Twitter] `tweet:2085381600054014259` | [Arc Mainnet 确认 9 月 16 日上线，RSVP 开放](https://x.com/arc/status/2085381600054014259) | Arc Mainnet 9/16 上线，RSVP 开放，质押/存款窗口时间节点确认
+- 2026-08-07 | [Twitter] `tweet:2085381600054014259` | [Arc Mainnet 确认 9 月 16 日上线，RSVP 开放](https://x.com/arc/status/2085381600054014259) | Arc Mainnet 9/16 上线，RSVP 开放。2026-09-17 更正：原摘要「质押/存款窗口时间节点确认」为误读，官方从未开放公开质押或存款窗口
 <!-- watchlist-slug: tweet:2085383594726629613 -->
 - 2026-08-07 | [Twitter] `tweet:2085383594726629613` | [Chainlink Scale day 1 接入 Arc（含 BlackRock、DTCC、Mastercard）](https://x.com/arc/status/2085383594726629613) | Chainlink Scale 为 Arc 提供机构级 oracle，BlackRock/DTCC/Mastercard 为网络参与方
 <!-- watchlist-slug: tweet:2085395650301382712 -->
