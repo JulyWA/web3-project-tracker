@@ -1,5 +1,5 @@
 ---
-status: pre-watchlist
+status: rejected
 created: 2026-07-22
 ---
 
@@ -89,3 +89,5 @@ Private beta 继续运行，机构/专业交易者为主。无 airdrop / whiteli
 Pascal 已于 2026-06 进入 private beta，已有机处理 200 万笔合约（无激励、有手续费，全为有机交易量）。定位 pro trader，无公开 airdrop/积分计划。若后续空投规则倾向 early beta 用户，占坑价值中等偏上；当前无明确散户参与路径，暂不需要额外操作。
 
 来源：[Fortune 报道](https://fortune.com/2026/07/16/exclusive-prediction-market-startup-pascal-9-million-heavyweights-kalshi-and-polymarket/) | [CryptoRank](https://cryptorank.io/news/feed/pascal-series-a-2026-07-16)
+
+| 2026-09-24 | 取消关注 | rejected | 2026-09-24 源探针：官网 pascal.markets 域名失联、官推 @pascalmarkets 不存在，July 确认 rejected |

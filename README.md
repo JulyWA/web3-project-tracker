@@ -8,6 +8,7 @@ This repository stores shareable Web3 project tracking notes exported from July'
 - `pre-watchlist/`: RootData-passed projects still under lightweight observation.
 - `tool-projects/`: tools, data sources, dashboards, APIs, and research infrastructure used for Web3/derivatives analysis. These are not treated as token or airdrop watchlist projects unless explicitly upgraded later.
 - `archive/`: reserved for graduated or rejected historical project notes.
+- `rejected/`: projects screened out by the RootData intake (hard gates or below the score line), one Markdown table per month. Only the sanitized public reason is exported; deduplicated by project.
 
 ## Privacy
 

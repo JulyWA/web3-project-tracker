@@ -474,6 +474,13 @@ updated: 2026-09-24
 <!-- watchlist-slug: tweet:2102791920384937985 -->
 - 2026-09-24 | [Twitter] `tweet:2102791920384937985` | [SafePal 钱包接入 Arc，支持 cirBTC](https://x.com/arc/status/2102791920384937985) | 用 SafePal 钱包连接 Arc Portal 即可体验 cirBTC
 
+<!-- watchlist-slug: tweet:2103157260411441579 -->
+- 2026-09-25 | [Twitter] `tweet:2103157260411441579` | [Onramp Kit 正式向开发者开放](https://x.com/arc/status/2103157260411441579) | 开发者可直接接入服务端 onramp session、内嵌 widget、身份验证，嵌入法币转 USDC 流程
+<!-- watchlist-slug: tweet:2103141338464346310 -->
+- 2026-09-25 | [Twitter] `tweet:2103141338464346310` | [Swissborg 上线 Arc 链 USDC 存取](https://x.com/swissborg/status/2103141338464346310) | Swissborg 支持 Arc 上 USDC 存取，为第 8 条支持链
+<!-- watchlist-slug: tweet:2103243076076769709 -->
+- 2026-09-25 | [Twitter] `tweet:2103243076076769709` | [BlackRock 白皮书点名 Arc 为机器原生经济结算层](https://x.com/arc/status/2103243076076769709) | BlackRock《Machine-Native Economy》白皮书点名 Arc(USDC为gas)和以太坊为AI agent支付潜在结算网络
+
 ## 相关
 
 - [[Web3项目研究]]
