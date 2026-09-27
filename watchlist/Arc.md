@@ -481,6 +481,13 @@ updated: 2026-09-24
 <!-- watchlist-slug: tweet:2103243076076769709 -->
 - 2026-09-25 | [Twitter] `tweet:2103243076076769709` | [BlackRock 白皮书点名 Arc 为机器原生经济结算层](https://x.com/arc/status/2103243076076769709) | BlackRock《Machine-Native Economy》白皮书点名 Arc(USDC为gas)和以太坊为AI agent支付潜在结算网络
 
+<!-- watchlist-slug: tweet:2103605465875701925 -->
+- 2026-09-28 | [Twitter] `tweet:2103605465875701925` | [USYC live on Arc](https://x.com/arc/status/2103605465875701925) | USYC代币化货币市场基金在Arc主网上线，作为机构级抵押资产
+<!-- watchlist-slug: tweet:2103650768310206631 -->
+- 2026-09-28 | [Twitter] `tweet:2103650768310206631` | [Microgrants/Developer Grants/Arc Builders Fund](https://x.com/arc/status/2103650768310206631) | 官方提及开发者资助计划，未附申请链接
+<!-- watchlist-slug: commit:arc-node@6e76402 -->
+- 2026-09-28 | [GitHub] `commit:arc-node@6e76402` | [fix(consensus): open the store only after the execution engine is reachable](https://github.com/circlefin/arc-node/commit/6e764023ee6515fe70573e123ed2db912a7207b4) | 共识层bug修复，1 commit +7/-5
+
 ## 相关
 
 - [[Web3项目研究]]
