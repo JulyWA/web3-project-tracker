@@ -488,6 +488,11 @@ updated: 2026-09-24
 <!-- watchlist-slug: commit:arc-node@6e76402 -->
 - 2026-09-28 | [GitHub] `commit:arc-node@6e76402` | [fix(consensus): open the store only after the execution engine is reachable](https://github.com/circlefin/arc-node/commit/6e764023ee6515fe70573e123ed2db912a7207b4) | 共识层bug修复，1 commit +7/-5
 
+<!-- watchlist-slug: tweet:2104613471962939683 -->
+- 2026-09-29 | [Twitter] `tweet:2104613471962939683` | [Morpho 上 cirBTC 借贷超 $150M](https://x.com/arc/status/2104613471962939683) | Arc 链上机构借贷活跃度信号
+<!-- watchlist-slug: tweet:2104611794136481807 -->
+- 2026-09-29 | [Twitter] `tweet:2104611794136481807` | [Earn Kit 发布](https://x.com/arc/status/2104611794136481807) | 无需写合约即可接入 USDC 收益的开发者 SDK
+
 ## 相关
 
 - [[Web3项目研究]]

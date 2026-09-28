@@ -330,6 +330,9 @@ Dragonfly 和 Electric Capital 都是加密原生一线/强二线机构，对 De
 <!-- watchlist-slug: tweet:2102146620141851065 -->
 - 2026-09-22 | [Twitter] `tweet:2102146620141851065` | [Vault更新 FLP/ROBO](https://x.com/hibachi_xyz/status/2102146620141851065) | FLP剩$17000额度APR19.9%，ROBO满仓APR39.3%
 
+<!-- watchlist-slug: tweet:2104662410082529559 -->
+- 2026-09-29 | [Twitter] `tweet:2104662410082529559` | [Vault Week 20 更新](https://x.com/hibachi_xyz/status/2104662410082529559) | GAV APR 17.8% 仍有额度，FLP/ROBO 已满额
+
 ## 相关
 
 - [[Web3项目研究]]
