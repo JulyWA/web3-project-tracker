@@ -29,6 +29,14 @@ Hack VC 领投 $12M 种子（顶级机构+顶级金额+Nomad/Pi 跟投）是本�
 
 ## 4. 每周跟踪记录
 
+### 2026-09-28
+
+本周判断：需要处理——AXIS Community Sale 窗口今天（2026-09-28 13:00 UTC）截止，09-30 结算。上周（09-21）已建议升级候选但 July 尚未确认，这是本轮参与窗口的最后决定时点，过期后只能等二级市场或下一轮。
+
+来源：[sale.axisrobotics.ai](https://sale.axisrobotics.ai/) | [KuCoin 快讯](https://www.kucoin.com/news/flash/axis-robotics-opens-public-sale-presale-for-10m-usd)
+
+---
+
 ### 2026-09-21
 
 本周判断：升级候选（建议 July 确认后 graduate）。AXIS 代币 Community Sale 窗口已开启（2026-09-21 至 09-28 13:00 UTC，09-30 结算），价格 $0.10、FDV 约 $1 亿、总供应 10 亿枚（Base 链，USDC 结算，单人额度 $100–$100,000）；TGE 解锁 10%，锁定 6 个月后线性释放剩余 90%。这是明确的资金投入窗口和截止日期，符合升级标准。

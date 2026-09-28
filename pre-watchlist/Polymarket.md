@@ -29,6 +29,14 @@ Polymarket 是本次 41 个项目里唯一符合硬件门槛+参与预期+机构
 
 ## 4. 每周跟踪记录
 
+### 2026-09-28
+
+本周判断：继续观察，风险信号累加（非删除理由）。纽约州对 Polymarket 提起非法博彩运营诉讼，Polymarket 已反诉（9/24）；同时"银行倒闭"类预测市场（涉富国银行/摩根大通/美银）引发 FDIC 关注（9/25）。这是继上周 WSJ 欺诈/合规报道后的第二组独立监管风险，POLY 空投快照规则仍未公布。若纽约诉讼或 FDIC 介入升级为业务限制，需重新评估。
+
+来源：[Al Jazeera](https://www.aljazeera.com/economy/2026/9/24/new-york-sues-polymarket-over-allegations-of-illegal-gambling-operations) | [Bloomberg](https://www.bloomberg.com/news/articles/2026-09-25/polymarket-wagers-on-bank-failures-trigger-fdic-concerns)
+
+---
+
 ### 2026-09-21
 
 本周判断：新增风险信号，继续观察（P1，非升级理由）。POLY 空投规则/快照仍无新进展。WSJ 报道 Polymarket 曾遭遇至少 $10M 盗刷卡欺诈，CEO Shayne Coplan 被曝要求团队"先增长、被抓再交罚款"并撤销同源存取款反洗钱规则；CFTC 已介入调查，美国区 CEO 及合规负责人已被解雇，合规主管因披露内部报告辞职。若 CFTC 升级为正式执法或美国业务被暂停，应重新评估是否继续观察。

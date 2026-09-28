@@ -42,6 +42,14 @@ Variational 是本批最值得继续观察的项目。它不是只有融资新�
 
 ## 4. 每周跟踪记录
 
+### 2026-09-28
+
+本周判断：P1 重点观察，暂不构成新的升级理由（Omni 主网仍是白名单/邀请制，普通用户无法直接参与）。新信息（待核实）：有报道称 VAR TGE 定档 2026 Q4，创世空投比例为 32%（分配给积分持有者），Points 计划已从原定 Q3 末延后至 TGE 前结束。这与此前已知的"50% VAR 供应量给社区"口径不完全一致，可能是社区分配内部拆分，需下次核实官方文档后再更新判断。
+
+来源：[Points 文档](https://docs.variational.io/omni/rewards/points) | [KuCoin 快讯](https://www.kucoin.com/news/flash/variational-announces-var-token-tge-in-q4-2026-with-32-genesis-airdrop)
+
+---
+
 ### 2026-09-14
 
 本周判断：升级候选（建议 July 确认后 graduate）。Omni 推出限时 Swaps Trading Competition（2026-09-10 00:00 UTC 至 2026-09-24 00:00 UTC），20,000 USDC 奖池奖励前 20 名交易者，叠加 swap double points 活动，属于明确的限时资金投入窗口+奖励资格活动，符合升级标准。
