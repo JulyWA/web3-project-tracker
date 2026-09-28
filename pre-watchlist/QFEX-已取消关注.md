@@ -1,5 +1,5 @@
 ---
-status: pre-watchlist
+status: rejected
 created: 2026-09-28
 ---
 
@@ -32,3 +32,5 @@ YC S25 + General Catalyst，剑桥量化背景做传统资产 24/7 perp
 | 2026-09-28 | 新建 pre-watchlist 项目页 | active | 通过 pre-watchlist upsert/intake 首次加入或更新 |
 
 ## 4. 每周跟踪记录
+
+| 2026-09-28 | 取消关注 | rejected | 2026-09-28 硬规则：空投预期 4.8 < 5 不通过（无 token/积分官宣，YC/GC 股权型投资方） |

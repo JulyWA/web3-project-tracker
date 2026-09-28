@@ -1,5 +1,5 @@
 ---
-status: pre-watchlist
+status: rejected
 created: 2026-09-28
 ---
 
@@ -32,3 +32,5 @@ Anthropic pre-IPO perp OI第一、$14M Ribbit领投、HIP-3上有真实交易量
 | 2026-09-28 | 新建 pre-watchlist 项目页 | active | 通过 pre-watchlist upsert/intake 首次加入或更新 |
 
 ## 4. 每周跟踪记录
+
+| 2026-09-28 | 取消关注 | rejected | 2026-09-28 新硬规则：空投预期 4.5 < 5 不通过（官方明确无 token/积分/赛季） |

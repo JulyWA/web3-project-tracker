@@ -1,5 +1,5 @@
 ---
-status: pre-watchlist
+status: rejected
 created: 2026-09-28
 ---
 
@@ -32,3 +32,5 @@ created: 2026-09-28
 | 2026-09-28 | 新建 pre-watchlist 项目页 | active | 通过 pre-watchlist upsert/intake 首次加入或更新 |
 
 ## 4. 每周跟踪记录
+
+| 2026-09-28 | 取消关注 | rejected | 2026-09-28 纠正：实物收藏品交易市场（RootData 标签 NFT），命中 G5 NFT 交易市场黑名单，与 CatchBack 同判；融资页候选无标签致门槛漏判 |
