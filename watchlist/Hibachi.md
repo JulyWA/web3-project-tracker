@@ -333,6 +333,9 @@ Dragonfly 和 Electric Capital 都是加密原生一线/强二线机构，对 De
 <!-- watchlist-slug: tweet:2104662410082529559 -->
 - 2026-09-29 | [Twitter] `tweet:2104662410082529559` | [Vault Week 20 更新](https://x.com/hibachi_xyz/status/2104662410082529559) | GAV APR 17.8% 仍有额度，FLP/ROBO 已满额
 
+<!-- watchlist-slug: tweet:2104899217374560636 -->
+- 2026-09-30 | [Twitter] `tweet:2104899217374560636` | [Stablecoin FX即将上线预告](https://x.com/hibachi_xyz/status/2104899217374560636) | KBW期间官方预告Stablecoin FX即将上线，暂无细节
+
 ## 相关
 
 - [[Web3项目研究]]

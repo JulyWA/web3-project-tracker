@@ -493,6 +493,13 @@ updated: 2026-09-24
 <!-- watchlist-slug: tweet:2104611794136481807 -->
 - 2026-09-29 | [Twitter] `tweet:2104611794136481807` | [Earn Kit 发布](https://x.com/arc/status/2104611794136481807) | 无需写合约即可接入 USDC 收益的开发者 SDK
 
+<!-- watchlist-slug: tweet:2105055028960731297 -->
+- 2026-09-30 | [Twitter] `tweet:2105055028960731297` | [Technical Office Hours](https://x.com/arc/status/2105055028960731297) | 开发者可报名参加Onramp/Earn/Borrow Kit讲解，10月1日
+<!-- watchlist-slug: tweet:2104964430660247649 -->
+- 2026-09-30 | [Twitter] `tweet:2104964430660247649` | [Earn Kit上线Arc Mainnet](https://x.com/arc/status/2104964430660247649) | 开发者可集成第三方USDC/EURC借贷收益
+<!-- watchlist-slug: tweet:2105011709111091318 -->
+- 2026-09-30 | [Twitter] `tweet:2105011709111091318` | [XAUm黄金资产上线Arc](https://x.com/arc/status/2105011709111091318) | 用户可在Uniswap swap/LP XAUm/USDC
+
 ## 相关
 
 - [[Web3项目研究]]
