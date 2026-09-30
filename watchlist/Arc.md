@@ -500,6 +500,9 @@ updated: 2026-09-24
 <!-- watchlist-slug: tweet:2105011709111091318 -->
 - 2026-09-30 | [Twitter] `tweet:2105011709111091318` | [XAUm黄金资产上线Arc](https://x.com/arc/status/2105011709111091318) | 用户可在Uniswap swap/LP XAUm/USDC
 
+<!-- watchlist-slug: tweet:2105326807683838406 -->
+- 2026-10-01 | [Twitter] `tweet:2105326807683838406` | [Onramp/Earn/Borrow Kit 上线 Arc 主网](https://x.com/arc/status/2105326807683838406) | 官方内嵌 USDC 充值/生息/借贷 Kit 上线主网
+
 ## 相关
 
 - [[Web3项目研究]]
