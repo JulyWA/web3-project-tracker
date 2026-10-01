@@ -173,6 +173,9 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2097724211246862479 -->
 - 2026-09-10 | [Twitter] `tweet:2097724211246862479` | [Shelby Private Beta 分批邀请](https://x.com/shelbyserves/status/2097724211246862479) | 官方开始分阶段邀请小范围客户测试 Private Beta，暂无公开申请入口
 
+<!-- watchlist-slug: tweet:2105689481215131962 -->
+- 2026-10-02 | [Twitter] `tweet:2105689481215131962` | [Private Beta 启动](https://x.com/shelbyserves/status/2105689481215131962) | 性能/位置/控制/经济模型顺序推进
+
 ## 相关
 
 - [[Web3项目研究]]

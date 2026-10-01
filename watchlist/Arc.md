@@ -503,6 +503,11 @@ updated: 2026-09-24
 <!-- watchlist-slug: tweet:2105326807683838406 -->
 - 2026-10-01 | [Twitter] `tweet:2105326807683838406` | [Onramp/Earn/Borrow Kit 上线 Arc 主网](https://x.com/arc/status/2105326807683838406) | 官方内嵌 USDC 充值/生息/借贷 Kit 上线主网
 
+<!-- watchlist-slug: tweet:2105643907736359189 -->
+- 2026-10-02 | [Twitter] `tweet:2105643907736359189` | [Borrow Kit 上线](https://x.com/arc/status/2105643907736359189) | cirBTC 抵押借 USDC，通过 Morpho 市场
+<!-- watchlist-slug: tweet:2105734496549318662 -->
+- 2026-10-02 | [Twitter] `tweet:2105734496549318662` | [Centrifuge 代币化资产接入 Arc](https://x.com/arc/status/2105734496549318662) | JTRSY/JAAA/HYB 代币化资产上线
+
 ## 相关
 
 - [[Web3项目研究]]
