@@ -515,6 +515,9 @@ updated: 2026-09-24
 <!-- watchlist-slug: tweet:2106051587114508550 -->
 - 2026-10-08 | [Twitter] `tweet:2106051587114508550` | [Borrow Kit 上线 Arc 主网并开源示例 App](https://x.com/arc/status/2106051587114508550) | 开发者可参考示例代码接入借贷
 
+<!-- watchlist-slug: tweet:2108271211805643093 -->
+- 2026-10-09 | [Twitter] `tweet:2108271211805643093` | [Earn Kit 接入 Morpho Vaults](https://x.com/arc/status/2108271211805643093) | Arc Earn Kit SDK 支持将闲置 USDC 接入 Morpho Vaults，deposit/earn/track/withdraw API 面向开发者
+
 ## 相关
 
 - [[Web3项目研究]]
