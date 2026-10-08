@@ -1,5 +1,5 @@
 ---
-status: pre-watchlist
+status: paused
 created: 2026-05-18
 ---
 
@@ -178,3 +178,5 @@ App / Earn / Foundry 连续 8 周无公开入口或激励机制，且未见上�
 下周关注：Osero App 是否开放公开访问；是否出现积分/收益活动/早期存款激励；审计和地区限制披露。
 
 来源：[CoinDesk](https://www.coindesk.com/business/2026/05/12/stablecoin-yield-infrastructure-project-raises-usd13-5m-in-round-led-by-sky-ecosystem) | [Stablewatch](https://www.stablewatch.io/research/stablewatch-incubates-osero-with-a-13-5m-raise) | [Docs](https://docs.osero.org/)
+
+| 2026-10-08 | 取消关注 | paused | 连续建议暂停(4周前已提，中间两期记录疏漏)，July 2026-10-08 确认暂停 |
