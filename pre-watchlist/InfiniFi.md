@@ -28,3 +28,11 @@ InfiniFi 将传统银行「分数储备」概念搬到 onchain 稳定币，存�
 | 2026-09-28 | 新建 pre-watchlist 项目页 | active | 通过 pre-watchlist upsert/intake 首次加入或更新 |
 
 ## 4. 每周跟踪记录
+
+### 2026-10-08
+
+本周判断：P1 继续观察，暂无新信号。官方 Q4 2026 TGE 口径不变，仍未公布具体日期或 snapshot 规则；存款/ATH TVL $180M 现状不变，资金型参与者可继续存款累积权重。
+
+来源：[infiniFi $3M 融资报道](https://pulse2.com/infinifi-raises-more-than-3-million-ahead-of-planned-q4-token-launch/)
+
+---

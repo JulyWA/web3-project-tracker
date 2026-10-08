@@ -508,6 +508,13 @@ updated: 2026-09-24
 <!-- watchlist-slug: tweet:2105734496549318662 -->
 - 2026-10-02 | [Twitter] `tweet:2105734496549318662` | [Centrifuge 代币化资产接入 Arc](https://x.com/arc/status/2105734496549318662) | JTRSY/JAAA/HYB 代币化资产上线
 
+<!-- watchlist-slug: tweet:2107866380691447808 -->
+- 2026-10-08 | [Twitter] `tweet:2107866380691447808` | [Aave V4 支持 syrupUSDC 作为 Arc 抵押品](https://x.com/arc/status/2107866380691447808) | 可用 syrupUSDC 向 Aave V4 借出 USDC
+<!-- watchlist-slug: tweet:2107145909599629703 -->
+- 2026-10-08 | [Twitter] `tweet:2107145909599629703` | [Morpho on Arc 存款破 $500M](https://x.com/arc/status/2107145909599629703) | 上线两周多存款规模信号
+<!-- watchlist-slug: tweet:2106051587114508550 -->
+- 2026-10-08 | [Twitter] `tweet:2106051587114508550` | [Borrow Kit 上线 Arc 主网并开源示例 App](https://x.com/arc/status/2106051587114508550) | 开发者可参考示例代码接入借贷
+
 ## 相关
 
 - [[Web3项目研究]]

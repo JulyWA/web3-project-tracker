@@ -176,6 +176,9 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2105689481215131962 -->
 - 2026-10-02 | [Twitter] `tweet:2105689481215131962` | [Private Beta 启动](https://x.com/shelbyserves/status/2105689481215131962) | 性能/位置/控制/经济模型顺序推进
 
+<!-- watchlist-slug: tweet:2107848870181122345 -->
+- 2026-10-08 | [Twitter] `tweet:2107848870181122345` | [Private Beta 开始跑真实客户生产负载](https://x.com/shelbyserves/status/2107848870181122345) | 从测试阶段进入真实客户使用
+
 ## 相关
 
 - [[Web3项目研究]]

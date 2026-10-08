@@ -42,6 +42,16 @@ Variational 是本批最值得继续观察的项目。它不是只有融资新�
 
 ## 4. 每周跟踪记录
 
+### 2026-10-08
+
+本周判断：升级候选（延续，已连续超过 17 周待 July 决策，本次澄清上周遗留疑点）。核实结果：Omni 主网仍标注 private beta，但公开 access code `OMNIKINGNAT` 允许任何新用户直接连接钱包进入并获得 15% 永久积分加成——并非真正封闭白名单，上周"普通用户无法直接参与"的顾虑可以解除。VAR tokenomics 已完整公布：Genesis Distribution 32% 按积分比例分配、TGE 时 100% 解锁；Team & Investors 50% 锁 12 个月后线性释放 3 年以上；Ecosystem Reserve 18%。TGE 定档 2026 Q4，账户只需 ≥1 点积分即具备空投资格，门槛极低。这是本池内持续时间最长的升级候选，建议本次给出明确决定（升级 / 继续观察 / 暂停三选一），避免无限期悬挂。
+
+风险：Perp 交易本身有资金损失风险（主网路径）；积分与最终代币的兑换比例仍按比例分配、无固定汇率保证。
+
+来源：[CryptoBriefing](https://cryptobriefing.com/variational-var-token-launch-airdrop/) | [Points 文档](https://docs.variational.io/omni/rewards/points)
+
+---
+
 ### 2026-09-28
 
 本周判断：P1 重点观察，暂不构成新的升级理由（Omni 主网仍是白名单/邀请制，普通用户无法直接参与）。新信息（待核实）：有报道称 VAR TGE 定档 2026 Q4，创世空投比例为 32%（分配给积分持有者），Points 计划已从原定 Q3 末延后至 TGE 前结束。这与此前已知的"50% VAR 供应量给社区"口径不完全一致，可能是社区分配内部拆分，需下次核实官方文档后再更新判断。

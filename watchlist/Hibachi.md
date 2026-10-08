@@ -336,6 +336,9 @@ Dragonfly 和 Electric Capital 都是加密原生一线/强二线机构，对 De
 <!-- watchlist-slug: tweet:2104899217374560636 -->
 - 2026-09-30 | [Twitter] `tweet:2104899217374560636` | [Stablecoin FX即将上线预告](https://x.com/hibachi_xyz/status/2104899217374560636) | KBW期间官方预告Stablecoin FX即将上线，暂无细节
 
+<!-- watchlist-slug: tweet:2107621792143605971 -->
+- 2026-10-08 | [Twitter] `tweet:2107621792143605971` | [Hibachi Open 竞赛上线(10/7-10/19)](https://x.com/hibachi_xyz/status/2107621792143605971) | 交易满$500K分享100万积分池,前50名分现金最高$20,000
+
 ## 相关
 
 - [[Web3项目研究]]

@@ -29,6 +29,14 @@ Hack VC 领投 $12M 种子（顶级机构+顶级金额+Nomad/Pi 跟投）是本�
 
 ## 4. 每周跟踪记录
 
+### 2026-10-08
+
+本周判断：状态变化——AXIS Community Sale 窗口已于 09-28 13:00 UTC 如期关闭，09-30 结算，July 未在窗口内确认升级，本轮募资型参与窗口已错过，只能等二级市场或下一轮。token 尚未 TGE，暂无交易所上线信息。BitRobot × Axis teleop 积分入口仍在运行，不受 Sale 关闭影响，回落为 P1 继续观察；暂不需要新操作。
+
+来源：[Bitrue Axis Sale 结果](https://www.bitrue.com/blog/axis-robotics-token-sale) | [RootData 快讯](https://www.rootdata.com/news/758350)
+
+---
+
 ### 2026-09-28
 
 本周判断：需要处理——AXIS Community Sale 窗口今天（2026-09-28 13:00 UTC）截止，09-30 结算。上周（09-21）已建议升级候选但 July 尚未确认，这是本轮参与窗口的最后决定时点，过期后只能等二级市场或下一轮。

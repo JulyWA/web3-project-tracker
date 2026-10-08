@@ -32,3 +32,11 @@ dYdX 团队+Robinhood 分发，官方已确认未来 token，现货零费+perps 
 | 2026-09-28 | 新建 pre-watchlist 项目页 | active | 通过 pre-watchlist upsert/intake 首次加入或更新 |
 
 ## 4. 每周跟踪记录
+
+### 2026-10-08
+
+本周判断：升级候选（新信号）。官方确认 Arcus Points Season 0 已结束排名，Season 1 于 10 月 1 日正式开放，可通过交易、做市、留存存款、推荐赚取积分，每周三 15:00 EST 结算。这是明确的官方 points 机制上线，符合升级标准；但官方条款注明 points 不保证兑换为 token 或产生 TGE，且美/英/加用户仍被禁止。建议：用有 perp 历史的钱包连接 waitlist 继续参与 Season 1，等 July 确认是否升级正式 watchlist。
+
+来源：[Bitrue Arcus 空投指南](https://www.bitrue.com/blog/arcus-airdrop-guide-earn-points-robinhood-chain) | [The Block](https://theblock.co/news/defi/2026-08-25-robinhood-chain-dex-arcus-ptokens-perps-erc-20s-412696)
+
+---
