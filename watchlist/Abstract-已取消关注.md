@@ -1,6 +1,6 @@
 ---
 type: project
-status: watchlist
+status: cancelled
 category: web3
 priority: medium
 tags:
