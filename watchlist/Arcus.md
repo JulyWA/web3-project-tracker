@@ -1,5 +1,5 @@
 ---
-status: pre-watchlist
+status: watchlist
 created: 2026-09-28
 ---
 
@@ -40,3 +40,5 @@ dYdX 团队+Robinhood 分发，官方已确认未来 token，现货零费+perps 
 来源：[Bitrue Arcus 空投指南](https://www.bitrue.com/blog/arcus-airdrop-guide-earn-points-robinhood-chain) | [The Block](https://theblock.co/news/defi/2026-08-25-robinhood-chain-dex-arcus-ptokens-perps-erc-20s-412696)
 
 ---
+
+| 2026-10-08 | 从 pre-watchlist 升级 | watchlist | Points Season 1 已开跑，July 2026-10-08 确认升级 |
