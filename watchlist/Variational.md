@@ -1,5 +1,5 @@
 ---
-status: pre-watchlist
+status: watchlist
 created: 2026-05-25
 ---
 
@@ -185,3 +185,5 @@ Omni Points 赛季继续按计划运行：每周约 15 万积分，截止不晚�
 风险：Perp 交易有资金损失风险（主网路径）；VAR token 具体分配时间和比例未官宣，积分价值仍不确定。
 
 来源：[Points 文档](https://docs.variational.io/omni/rewards/points) | [Airdrop 指南（bittime.com）](https://www.bittime.com/en/blog/airdrop-variational-testnet) | [X 分析帖](https://x.com/Basesol_NFT/status/2003466651463770358)
+
+| 2026-10-08 | 从 pre-watchlist 升级 | watchlist | 悬挂17+周后澄清：私测白名单顾虑不成立(有公开access code)，TGE已定档Q4，July 2026-10-08 确认升级 |
