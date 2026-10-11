@@ -518,6 +518,9 @@ updated: 2026-09-24
 <!-- watchlist-slug: tweet:2108271211805643093 -->
 - 2026-10-09 | [Twitter] `tweet:2108271211805643093` | [Earn Kit 接入 Morpho Vaults](https://x.com/arc/status/2108271211805643093) | Arc Earn Kit SDK 支持将闲置 USDC 接入 Morpho Vaults，deposit/earn/track/withdraw API 面向开发者
 
+<!-- watchlist-slug: release:arc-node@v0.8.1 -->
+- 2026-10-12 | [GitHub] `release:arc-node@v0.8.1` | [arc-node v0.8.1发布](https://github.com/circlefin/arc-node/releases/tag/v0.8.1) | 修复pq-precompile gas预留bug，常规修复
+
 ## 相关
 
 - [[Web3项目研究]]

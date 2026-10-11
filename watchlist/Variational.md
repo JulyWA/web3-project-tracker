@@ -187,3 +187,8 @@ Omni Points 赛季继续按计划运行：每周约 15 万积分，截止不晚�
 来源：[Points 文档](https://docs.variational.io/omni/rewards/points) | [Airdrop 指南（bittime.com）](https://www.bittime.com/en/blog/airdrop-variational-testnet) | [X 分析帖](https://x.com/Basesol_NFT/status/2003466651463770358)
 
 | 2026-10-08 | 从 pre-watchlist 升级 | watchlist | 悬挂17+周后澄清：私测白名单顾虑不成立(有公开access code)，TGE已定档Q4，July 2026-10-08 确认升级 |
+
+## 每日跟踪记录
+
+<!-- watchlist-slug: tweet:2109298017551765687 -->
+- 2026-10-12 | [Twitter] `tweet:2109298017551765687` | [perps交易者资格申领最高3000积分](https://x.com/variational_io/status/2109298017551765687) | 有链上perps交易记录可查资格，最高3000积分，推荐人最高1.5万美元奖励

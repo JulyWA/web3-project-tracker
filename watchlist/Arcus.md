@@ -42,3 +42,8 @@ dYdX 团队+Robinhood 分发，官方已确认未来 token，现货零费+perps 
 ---
 
 | 2026-10-08 | 从 pre-watchlist 升级 | watchlist | Points Season 1 已开跑，July 2026-10-08 确认升级 |
+
+## 每日跟踪记录
+
+<!-- watchlist-slug: tweet:2108665474649350639 -->
+- 2026-10-12 | [Twitter] `tweet:2108665474649350639` | [等候名单放量29000+，邀请码机制调整](https://x.com/arcus_xyz/status/2108665474649350639) | 29000+等候名单交易者获得访问权限，邀请码自动绑定推荐人，老码退还+奖励
