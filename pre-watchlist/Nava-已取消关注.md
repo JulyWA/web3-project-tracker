@@ -213,3 +213,5 @@ Nava SDK 仍处于 Developer Preview，@navalabs 包限制访问，需申请授�
 下周关注：是否开放开发者任务、测试资格或 demo 申请后的下一步。
 
 来源：[官网](https://navalabs.ai) | [Docs](https://docs.navalabs.ai) | [融资报道](https://fortune.com/2026/04/14/nava-seed-funding-ai-financial-agents/)
+
+| 2026-10-12 | 取消关注 | paused | 2026-10-12 复核降级：无 token，官方从未表态（非明确不发）。入池 6 个月，官网全站仅 Waitlist + Request Access/Demo，无 token/积分/airdrop 字样；官方 blog 9 篇（最新 2026-08-21）零相关内容。融资属实（$8.3M 种子，Polychain + Archetype 领投）。【参与类型修正】原判「脚本型+白名单型」中脚本型不成立——零链上动作，只剩白名单型。第三方（coinlaunch/airdrops.io）把 waitlist 包装成空投机会，官方无。注意勿与同名 Nava Labs(web3 agency) 混淆 |

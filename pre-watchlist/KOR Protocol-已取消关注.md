@@ -1,5 +1,5 @@
 ---
-status: pre-watchlist
+status: paused
 created: 2026-07-13
 ---
 
@@ -104,3 +104,5 @@ KOR Score Quests Season 2 仍在进行，token 奖励规则尚未宣布，但官
 新信号：KOR Score Season 2 任务正式运行，入口在 [rewards.korprotocol.io](https://rewards.korprotocol.io)，覆盖社交任务、ENKOR 互动、IP 收藏品积分。官方明确宣布 $KOR token（名为 "IP"）将在 TGE 后向 KOR Score 持有者空投，无明确 TGE 日期但 Season 2 本身是活跃参与窗口。参与成本极低：Base 链 gas + 免费注册 + 社交任务，且 1kx + Blockchain Capital 双顶级机构领投背书。如确认参与，先在官网连接钱包 + 完成 KOR Score 任务即可占位。
 
 来源：[KOR Score 任务](https://rewards.korprotocol.io) | [官方 X](https://x.com/KorProtocol/status/1907433683029573781) | [airdrops.io](https://airdrops.io/kor-protocol/)
+
+| 2026-10-12 | 取消关注 | paused | 2026-10-12 July 确认暂停：入池3个月(71分,v3.1旧线)零新进展，最新消息仍是7月7日A轮融资，代币无时间表；公开渠道查无Discord/Telegram/GitHub |
