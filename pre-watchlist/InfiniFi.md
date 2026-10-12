@@ -29,6 +29,14 @@ InfiniFi 将传统银行「分数储备」概念搬到 onchain 稳定币，存�
 
 ## 4. 每周跟踪记录
 
+### 2026-10-12
+
+本周判断：P1 继续观察，无实质新进展。创始人披露 Season 1/2 积分已锚定固定代币分配（不会被稀释），8-26 起至 TGE 期间参与仍可获新一轮固定分配积分；智能合约已通过 Certora 形式化验证，多链扩展至 Ethereum/Arbitrum/Katana/Base。但这些是存量信息的细节补充，Q4 2026 TGE 仍无具体日期、无领取/质押机制披露。继续盯快照日期公告。
+
+来源：[alearesearch Season分析](https://alearesearch.substack.com/p/infinifi-season-1-points-and-2026) | [iq.wiki 项目档案](https://iq.wiki/wiki/infinifi)
+
+---
+
 ### 2026-10-08
 
 本周判断：P1 继续观察，暂无新信号。官方 Q4 2026 TGE 口径不变，仍未公布具体日期或 snapshot 规则；存款/ATH TVL $180M 现状不变，资金型参与者可继续存款累积权重。

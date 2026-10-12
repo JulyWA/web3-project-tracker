@@ -28,3 +28,11 @@ Vest Labs 2025-03 融 $5M+累计 $15M，Portal Ventures 为早期投资者；202
 | 2026-10-09 | 新建 pre-watchlist 项目页 | active | 通过 pre-watchlist upsert/intake 首次加入或更新 |
 
 ## 4. 每周跟踪记录
+
+### 2026-10-12
+
+本周判断：风险信号——$13M 种子轮已获 Dealroom/Invezz/TechFlowPost 等多家一级媒体独立确认（此前仅 RootData 单源，现已解除未验证标记）。但业务实质已转型为"利润分成 prop trading firm"，链上 DEX TVL 持续恶化至约 $136K（30天 -72.7%，加速下滑）；第三方审查 PropŞikayet 标记 HIGH RISK：99.8%交易量为虚拟 prop 评估非真实链上交易，巴拿马注册无金融牌照、无消费者追索权，2026年内已发生3次定价/清算事故（4/15、6/8、6/30）。积分计划已从赛季制转为"ALWAYS ON"常驻模式，暗示短期无 TGE 计划。建议 July 评估是否暂停观察——原始"链上 perp DEX 早期机会"定位已名实不符，当前更像需独立评估的中心化 prop trading 产品。
+
+来源：[Dealroom](https://app.dealroom.co/news/note/vest-raises-13m-seed-to-flip-the-prop-trading-model-in-traders-favour) | [DefiLlama TVL](https://defillama.com/protocol/vest-markets) | [PropŞikayet风险评级](https://propsikayet.com/en/vest-markets)
+
+---
