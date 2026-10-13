@@ -337,3 +337,5 @@ v2 奖励窗口（$200K+）自 2026-06-24 起 30 天，截止约 **2026-07-24**�
 | 2026-10-12 | 取消关注 | paused | 2026-10-12 复核降级：无 token。官网 + blog 7 篇（最新 2026-09-02）+ docs sitemap 244 页，三源零 points/token/tokenomics/airdrop；app 导航无 Points Hub。主网活跃（v2 2026-05-28 上线、Strategy Vaults、Risk-Tranching），故 paused 非 rejected。融资属实（$5M 种子 Multicoin 领投，累计约 $7M）。【参与类型修正】原判「资金型+脚本型」中脚本型不成立。第三方称的 Points Hub / XPN 合约已定稿 均系编造——XPN 说法溯源到 2022 年另一项目 Exponent CX 的 DAO 通讯，张冠李戴 |
 
 | 2026-10-13 | 转蹲守 | paused | 2026-10-13 修正文档命名：原脚本对 paused 和 rejected 共用「已取消关注」后缀，导致公开仓把蹲守项目标成已放弃。已加 PAUSED_SUFFIX 区分，本次重跑纠正为「蹲守中」。判断依据见 2026-10-12 的复核记录 |
+
+| 2026-10-13 | 取消关注 | rejected | 2026-10-13 重打分后 57.0 < 60 通过线，按 rubric「< 60 不通过」降级（原 74.5，原记录仅有叙述无分值、分数不可追溯）。官网 + 官方 blog 7 篇 + 官方 docs sitemap 244 页三源零 points/token/tokenomics/airdrop，app 导航无 Points Hub；第三方称的 Points Hub 与「XPN 合约已定稿」系编造（XPN 溯源到 2022 年另一项目 Exponent CX 的 DAO 通讯）。主网确在活跃（v2 2026-05-28 上线、4 轮独立审计），但无任何官方 token 信号。参与价值 3 / 参与成本 4 |

@@ -217,3 +217,5 @@ Nava SDK 仍处于 Developer Preview，@navalabs 包限制访问，需申请授�
 | 2026-10-12 | 取消关注 | paused | 2026-10-12 复核降级：无 token，官方从未表态（非明确不发）。入池 6 个月，官网全站仅 Waitlist + Request Access/Demo，无 token/积分/airdrop 字样；官方 blog 9 篇（最新 2026-08-21）零相关内容。融资属实（$8.3M 种子，Polychain + Archetype 领投）。【参与类型修正】原判「脚本型+白名单型」中脚本型不成立——零链上动作，只剩白名单型。第三方（coinlaunch/airdrops.io）把 waitlist 包装成空投机会，官方无。注意勿与同名 Nava Labs(web3 agency) 混淆 |
 
 | 2026-10-13 | 转蹲守 | paused | 2026-10-13 修正文档命名：原脚本对 paused 和 rejected 共用「已取消关注」后缀，导致公开仓把蹲守项目标成已放弃。已加 PAUSED_SUFFIX 区分，本次重跑纠正为「蹲守中」。判断依据见 2026-10-12 的复核记录 |
+
+| 2026-10-13 | 取消关注 | rejected | 2026-10-13 重打分后 51.5 < 60 通过线，按 rubric「< 60 不通过」降级（原 74）。无 token 且官方从未表态；官网全站仅 Waitlist + Request Access/Demo，官方 blog 9 篇（最新 2026-08-21）零相关；零链上动作，入池 6 个月无进展。第三方 coinlaunch/airdrops.io 把邮箱 waitlist 包装成空投机会。参与价值 3 / 安全性 5（产品仍私测）/ 社区热度 4 |
