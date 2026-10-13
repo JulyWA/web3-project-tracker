@@ -1,5 +1,5 @@
 ---
-status: paused
+status: pre-watchlist
 created: 2026-07-13
 ---
 
@@ -108,3 +108,5 @@ KOR Score Quests Season 2 仍在进行，token 奖励规则尚未宣布，但官
 | 2026-10-12 | 取消关注 | paused | 2026-10-12 July 确认暂停：入池3个月(71分,v3.1旧线)零新进展，最新消息仍是7月7日A轮融资，代币无时间表；公开渠道查无Discord/Telegram/GitHub |
 
 | 2026-10-13 | 转蹲守 | paused | 2026-10-13 仅修正文档命名：状态 paused 未变，原脚本对 paused/rejected 共用「已取消关注」后缀造成误标，本次按新的 PAUSED_SUFFIX 纠正为「蹲守中」。本条未做项目复核，判断依据沿用此前记录 |
+
+| 2026-10-13 | 恢复关注 | active | 2026-10-13 转 active（July 拍板）。参与窗口自检命中：官方 KOR Quests → points → KOR Score 自 2024-05 起至今未终止、无截止日期（窗口 open），而状态却是 paused——窗口开着不该挂蹲守。重核结论：人工型成立（官方 Quests 为真），脚本型已剔除（KOR ID 为 soulbound 单次 mint，无可重复链上动作）。限制：官网 korprotocol.com 为 404、korprotocol.io 首页仅一字、rewards 子域需鉴权，官方 blog/docs 正文未能直接核到，结论建立在官方新闻稿 + 官方 KOR ID 入口上。重算总分 73.0（原记录 71，子项合成为准） |
