@@ -180,3 +180,5 @@ App / Earn / Foundry 连续 8 周无公开入口或激励机制，且未见上�
 来源：[CoinDesk](https://www.coindesk.com/business/2026/05/12/stablecoin-yield-infrastructure-project-raises-usd13-5m-in-round-led-by-sky-ecosystem) | [Stablewatch](https://www.stablewatch.io/research/stablewatch-incubates-osero-with-a-13-5m-raise) | [Docs](https://docs.osero.org/)
 
 | 2026-10-08 | 取消关注 | paused | 连续建议暂停(4周前已提，中间两期记录疏漏)，July 2026-10-08 确认暂停 |
+
+| 2026-10-13 | 转蹲守 | paused | 2026-10-13 仅修正文档命名：状态 paused 未变，原脚本对 paused/rejected 共用「已取消关注」后缀造成误标，本次按新的 PAUSED_SUFFIX 纠正为「蹲守中」。本条未做项目复核，判断依据沿用此前记录 |

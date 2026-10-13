@@ -106,3 +106,5 @@ KOR Score Quests Season 2 仍在进行，token 奖励规则尚未宣布，但官
 来源：[KOR Score 任务](https://rewards.korprotocol.io) | [官方 X](https://x.com/KorProtocol/status/1907433683029573781) | [airdrops.io](https://airdrops.io/kor-protocol/)
 
 | 2026-10-12 | 取消关注 | paused | 2026-10-12 July 确认暂停：入池3个月(71分,v3.1旧线)零新进展，最新消息仍是7月7日A轮融资，代币无时间表；公开渠道查无Discord/Telegram/GitHub |
+
+| 2026-10-13 | 转蹲守 | paused | 2026-10-13 仅修正文档命名：状态 paused 未变，原脚本对 paused/rejected 共用「已取消关注」后缀造成误标，本次按新的 PAUSED_SUFFIX 纠正为「蹲守中」。本条未做项目复核，判断依据沿用此前记录 |

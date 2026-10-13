@@ -335,3 +335,5 @@ v2 奖励窗口（$200K+）自 2026-06-24 起 30 天，截止约 **2026-07-24**�
 来源：[App](https://app.exponent.finance/income) | [Docs](https://docs.exponent.finance) | [The Block](https://www.theblock.co/post/399630/solana-yield-exchange-exponent-funding-multicoin-capital)
 
 | 2026-10-12 | 取消关注 | paused | 2026-10-12 复核降级：无 token。官网 + blog 7 篇（最新 2026-09-02）+ docs sitemap 244 页，三源零 points/token/tokenomics/airdrop；app 导航无 Points Hub。主网活跃（v2 2026-05-28 上线、Strategy Vaults、Risk-Tranching），故 paused 非 rejected。融资属实（$5M 种子 Multicoin 领投，累计约 $7M）。【参与类型修正】原判「资金型+脚本型」中脚本型不成立。第三方称的 Points Hub / XPN 合约已定稿 均系编造——XPN 说法溯源到 2022 年另一项目 Exponent CX 的 DAO 通讯，张冠李戴 |
+
+| 2026-10-13 | 转蹲守 | paused | 2026-10-13 修正文档命名：原脚本对 paused 和 rejected 共用「已取消关注」后缀，导致公开仓把蹲守项目标成已放弃。已加 PAUSED_SUFFIX 区分，本次重跑纠正为「蹲守中」。判断依据见 2026-10-12 的复核记录 |
