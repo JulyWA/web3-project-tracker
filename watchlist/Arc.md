@@ -521,6 +521,9 @@ updated: 2026-09-24
 <!-- watchlist-slug: release:arc-node@v0.8.1 -->
 - 2026-10-12 | [GitHub] `release:arc-node@v0.8.1` | [arc-node v0.8.1发布](https://github.com/circlefin/arc-node/releases/tag/v0.8.1) | 修复pq-precompile gas预留bug，常规修复
 
+<!-- watchlist-slug: tweet:2110023702947729742 -->
+- 2026-10-14 | [Twitter] `tweet:2110023702947729742` | [Aave V4 on Arc 存款突破 $3 亿](https://x.com/arc/status/2110023702947729742) | Aave V4 on Arc 存款突破 3 亿美元
+
 ## 相关
 
 - [[Web3项目研究]]
