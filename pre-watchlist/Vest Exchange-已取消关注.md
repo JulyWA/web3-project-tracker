@@ -1,5 +1,5 @@
 ---
-status: pre-watchlist
+status: rejected
 created: 2026-10-09
 ---
 
@@ -36,3 +36,5 @@ Vest Labs 2025-03 融 $5M+累计 $15M，Portal Ventures 为早期投资者；202
 来源：[Dealroom](https://app.dealroom.co/news/note/vest-raises-13m-seed-to-flip-the-prop-trading-model-in-traders-favour) | [DefiLlama TVL](https://defillama.com/protocol/vest-markets) | [PropŞikayet风险评级](https://propsikayet.com/en/vest-markets)
 
 ---
+
+| 2026-10-13 | 取消关注 | rejected | 2026-10-13 整条重评后双重不通过：空投预期 3.4 < 5（触发 2026-09-28 硬规则）、总分 48.9 < 60（原 60.5）。触发重评的原因是档案全面过期——主域名已迁 vest.exchange → vestmarkets.com（旧址仅剩跳转页「We've Moved!」），官方现行全量文档约 19 万字符中 point/airdrop/season/farm 零命中，原记录「官方 2025-03 起已上线 points 项目」在现行官方渠道查不到；产品已转型为永续 + 自营资金考核盘（买 $40–$200 评测号 → $2.5k–$25k 资金 → 80% 分成），prop 分成不是空投。脚本型已剔除：官方 ToS 明文禁 wash trading/bot/多账户，无公开 API。融资本身属实（Fortune 2026-10-07 独家一手，Portal Ventures 领投 $13M），单源问题已解除，但融资与空投预期无关 |
