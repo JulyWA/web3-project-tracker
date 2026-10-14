@@ -524,6 +524,11 @@ updated: 2026-09-24
 <!-- watchlist-slug: tweet:2110023702947729742 -->
 - 2026-10-14 | [Twitter] `tweet:2110023702947729742` | [Aave V4 on Arc 存款突破 $3 亿](https://x.com/arc/status/2110023702947729742) | Aave V4 on Arc 存款突破 3 亿美元
 
+<!-- watchlist-slug: tweet:2110445536113217617 -->
+- 2026-10-15 | [Twitter] `tweet:2110445536113217617` | [Arguspad 已上线 Arc](https://x.com/arc/status/2110445536113217617) | Arguspad 集成上线，可发起项目
+<!-- watchlist-slug: tweet:2110388537124422016 -->
+- 2026-10-15 | [Twitter] `tweet:2110388537124422016` | [Arc Studio 上线](https://x.com/arc/status/2110388537124422016) | 可直接在 Arc 上构建链上应用
+
 ## 相关
 
 - [[Web3项目研究]]

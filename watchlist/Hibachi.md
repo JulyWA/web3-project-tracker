@@ -342,6 +342,9 @@ Dragonfly 和 Electric Capital 都是加密原生一线/强二线机构，对 De
 <!-- watchlist-slug: tweet:2109780007362900014 -->
 - 2026-10-13 | [Twitter] `tweet:2109780007362900014` | [Points Playoffs Week 22 更新](https://x.com/hibachi_xyz/status/2109780007362900014) | 积分流通76.5M(+1.31% WoW)，Hibachi Open合格交易量$102.8M
 
+<!-- watchlist-slug: tweet:2110388217124098346 -->
+- 2026-10-15 | [Twitter] `tweet:2110388217124098346` | [KappaLab vault cap 提升至 $2.5M](https://x.com/hibachi_xyz/status/2110388217124098346) | FLP vault allocation 开放
+
 ## 相关
 
 - [[Web3项目研究]]

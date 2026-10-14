@@ -179,6 +179,11 @@ updated: 2026-05-11
 <!-- watchlist-slug: tweet:2107848870181122345 -->
 - 2026-10-08 | [Twitter] `tweet:2107848870181122345` | [Private Beta 开始跑真实客户生产负载](https://x.com/shelbyserves/status/2107848870181122345) | 从测试阶段进入真实客户使用
 
+<!-- watchlist-slug: blog:/news/shelby-private-beta-the-first-customer-workloads-are-live -->
+- 2026-10-15 | [官方博客] `blog:/news/shelby-private-beta-the-first-customer-workloads-are-live` | [Private Beta 上线](https://shelby.xyz/news/shelby-private-beta-the-first-customer-workloads-are-live) | 首批客户工作负载已跑通
+<!-- watchlist-slug: blog:/news/from-testnet-to-private-beta -->
+- 2026-10-15 | [官方博客] `blog:/news/from-testnet-to-private-beta` | [From Testnet to Private Beta](https://shelby.xyz/news/from-testnet-to-private-beta) | 测试网走向生产环境
+
 ## 相关
 
 - [[Web3项目研究]]
