@@ -322,3 +322,5 @@ Testnet waitlist 仍开放，官方无积分系统或新任务入口（Galxe 唯
 来源：[The Block](https://www.theblock.co/post/406028/a16z-csx-backed-cambrian-seed-round-blockchain-data-oracle-network) | [CryptoBriefing](https://cryptobriefing.com/cambrian-raises-6m-seed-oracle-network/)
 
 | 2026-10-12 | 取消关注 | rejected | 2026-10-12 复核否定：无任何 token 迹象，定位已转 B2B 付费数据 API（docs 为纯 API 参考，/pricing 付费套餐，2026-08-05 起 API 公开商用）。官方 blog 16 篇（最新 2026-10-08 支持 BNB Chain）零 token/TGE/空投/积分；两轮融资均为股权（$5.9M 预种子 a16z CSX + 累计 $11.9M，含 Franklin Templeton/Polychain）。【评分污染，重要】当初 79.5 分（全池最高）所依据的「waitlist = pre-airdrop、可赚积分」仅见于 airdrops.io/coinlaunch 等第三方，官方渠道完全查不到——该维度为第三方编造，v3 评分应下修。唯一真实入口是无奖励承诺的 testnet waitlist。另注 BNB Chain 上 CUNR 代币与本项目无关，属冒名 |
+
+| 2026-10-13 | 重评降分 | rejected | 79.5 → **64.0**（方案 B）。参与价值 8→3、参与成本 8→5：两维原理由均建立在官方不存在的机制上——「contributor contest」官方从未有过，污染源为 airdrops.io / coinlaunch。其余五维未改。重算后仍在 60 线上，但池内排位由第 1 位降至第 12 位（末位） |

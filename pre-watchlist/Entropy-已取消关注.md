@@ -34,3 +34,5 @@ Anthropic pre-IPO perp OI第一、$14M Ribbit领投、HIP-3上有真实交易量
 ## 4. 每周跟踪记录
 
 | 2026-09-28 | 取消关注 | rejected | 2026-09-28 新硬规则：空投预期 4.5 < 5 不通过（官方明确无 token/积分/赛季） |
+
+| 2026-10-14 | 重算+perp判据 | rejected | 2026-10-13 剔除「脚本型」后按 v4 重算 66.5 → **66.15**（参与方式子维度 C 由 9 降至 8）。剔除依据：官方无积分/任务体系，唯一奖励是现金手续费返佣且返佣基数仅为 Entropy 在 HIP-3 分成的一半、刷量净支出为负；官方 referrals 明文禁 wash trading / pre-arranged trading / self-referral。2026-10-14 perp 判据：**赛道分保持 8** —— 虽在 Hyperliquid HIP-3 上，但 Ribbit Capital $14M 领投 + Hyperion 代付 $40M HYPE 属强融资，「HL 链上 + 弱融资」两条件不同时满足故免 −2 |

@@ -1,5 +1,5 @@
 ---
-status: pre-watchlist
+status: rejected
 created: 2026-07-22
 updated: 2026-07-22
 ---
@@ -221,3 +221,5 @@ Asia Points invite-only 模式维持运行，mobile app 计划 8 月上线。自
 | 2026-10-14 | 重评降分 | rejected | 71 → **57.0**（低于 60 通过线），归 rescore。2026-08-04 原淘汰理由引用的「v3.1 重算 64」分项从未持久化、无法诚实重建，故按今日事实重评。两条原依据均被推翻：①参与价值 8 的「Asia Points 已上线」——官方 docs 确实命名该计划（非第三方编造），但详情页 /asia-points/overview 为 404、机制未公开，The Block 一手口径是 "set to launch"；②赛道质量 8 的「HIP-3 新叙事」——Hyperliquid 官方 info/perpDexs 实测 10 个部署者无 trasia，亚洲股票永续三个月未落地，重心漂移到 Scout Mode。项目本身活着（移动端已上架、TG 日更），融资 $1.75M Multicoin 独投与团队履历均属实。官推更正：@TrasiaLabs 不存在 → @trasiaxyz |
 
 | 2026-10-14 | 赛道分微调 | rejected | 赛道质量 4 → **5**（8 −2 −1），总分 57.0 → **58.0**，仍低于 60 通过线。本条是扣分判据唯一完全命中的：在 Hyperliquid 生态内 + $1.75M Multicoin 独投为池内最小、无后续轮无其他机构背书，两条件同时满足。4 分改留给已离开 perp 赛道的条目（如 Vest 转 prop firm）。**rubric 的竞争格局修正表早就把本项目写成案例「perp 8 −2 −1 = 5」，规则一直在、只是 09-28 批没执行。**perp 判据统一（July 2026-10-14 拍板）：赛道的「竞争格局修正」−2 只适用于**在头部自己的链/生态内直接竞争**的项目（perp 头部=Hyperliquid），且须「在头部生态内」+「融资弱无扶持」两条件同时满足才扣；其他龙头/链方扶持或非头部链上强融资则 +1。此前 09-28 批整批跳过修正（一律写「格局未定不调整」）、v3 与 10-09 批则把「赛道有龙头」误当对所有参与者扣分，两种漂移方向相反。 |
+
+| 2026-10-14 | 取消关注 | rejected | 2026-10-14 仅修正文档命名：状态 rejected 未变。本条的 rejected 是 2026-08-04 July 拍板、2026-10-12 用 update-outcome 补回写 archive 的，未走 set-status 故从未触发项目页改名，文件名一直是 active 形态。verify_scores.py 第 8 项检查上线后发现 |

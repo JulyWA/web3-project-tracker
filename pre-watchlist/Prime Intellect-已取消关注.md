@@ -1,5 +1,5 @@
 ---
-status: pre-watchlist
+status: rejected
 created: 2026-07-13
 ---
 
@@ -51,3 +51,7 @@ INTELLECT-3（100B+ MoE）训练进行中，[技术报告](https://arxiv.org/pdf
 新信号：$130M A 轮融资（2026-07-08）正式确认，估值 $1B，Nvidia Ventures + Intel Capital + ICONIQ + Radical Ventures 领投，Perplexity/Cognition 创始人天使参与。这是从"潜在发币"到"可能发币"的信号升级——融资规模和投资方阵容与 AI+Crypto 交叉标的未来 token 逻辑完全吻合。官方仍无 token 公告，但社区 GPU 贡献路径（INTELLECT-3 下一轮训练招募）是当前最低成本占位方式。关注 Discord 社区招募公告，锁定 GPU 贡献或代码贡献者位置。
 
 来源：[SiliconAngle 报道](https://siliconangle.com/2026/07/08/prime-intellect-raises-130m-1b-valuation-ai-training-platform/) | [官网](https://www.primeintellect.ai)
+
+| 2026-10-14 | 取消关注 | rejected | 2026-10-14 仅修正文档命名：状态 rejected 未变。本条的 rejected 是 2026-08-04 July 拍板、2026-10-12 用 update-outcome 补回写 archive 的，未走 set-status 故从未触发项目页改名，文件名一直是 active 形态。verify_scores.py 第 8 项检查上线后发现 |
+
+| 2026-10-13 | 标签修正 | rejected | 剔除 participation_types 的「脚本型」：核官方后不成立。v3 评分公式不含参与方式子维度，**分数不变（72）**，仅修正标签事实性。注：本条 score_reasons 的参与价值当初就写对了（「5 — 官方明确无 token/无积分」）且只给 5 分 —— 属标签错而非分数错，与 Cambrian 等「分数被污染」的条目不同类 |

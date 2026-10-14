@@ -104,3 +104,5 @@ BitRobot × Axis Alliance Campaign 和 Axis Points 系统仍在运行，本周�
 Points 系统 live，双周 epoch 发放，按任务量、难度、质量、多样性加权计分。Hack VC 领投 $12M 种子，10 万+ 贡献者，Base 主网 2026-03 已上线。参与方式：注册 [Hub](https://axisrobotics.ai/)，加入 BitRobot × Axis campaign，完成机器人仿真任务（人工操控，质量优先）。token 分配/vesting 未定，但文档明确预留 token 奖励空间。当前唯一风险是任务需真实人工操作，无法脚本批量刷；建议 1-3 账号试水，评估单账号 ROI 后决定是否扩量。
 
 来源：[CryptoRank 空投指南](https://cryptorank.io/drophunting/axis-ai-activity1105) | [官方文档](https://docs.axisrobotics.ai/economics/why-crypto)
+
+| 2026-10-13 | 标签修正+窗口回填 | active | 剔除「脚本型」（官方积分为浏览器端遥操作机器人任务，属人工型），**分数不变（71.5）**。回填 participation_window：公募 commitment 窗口 2026-09-28 05:00 UTC 已关闭（超额 239 万 USDC、填充率 42.03%），但官方 Axis Point System 仍开放（hub.axisrobotics.ai）、TGE 仍 TBA，故窗口状态 open |

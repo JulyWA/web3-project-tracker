@@ -44,3 +44,5 @@ InfiniFi 将传统银行「分数储备」概念搬到 onchain 稳定币，存�
 来源：[infiniFi $3M 融资报道](https://pulse2.com/infinifi-raises-more-than-3-million-ahead-of-planned-q4-token-launch/)
 
 ---
+
+| 2026-10-13 | 按 v4 重打分 | active | 73 → **66.75**。本条原标 scoring_rule_version=v4 但 score_reasons 用的是 v3 的 7 个维度名，是 21 条记录中唯一的规则/输出不一致项，导致 v4 硬规则「空投预期 < 5 不通过」对它从未适用。补齐 v4 七维后空投预期 6.9 ≥ 5 通过硬规则。**修正原依据**：原参与价值 9 分的理由「官方明确 Q4 2026 TGE 已公告」与官方文档矛盾——Q4 2026 仅第三方（kucoin blog / airdrops.io）称，官方 docs 查不到日期，且积分转代币 not stated |

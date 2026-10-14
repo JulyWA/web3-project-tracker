@@ -1,5 +1,5 @@
 ---
-status: pre-watchlist
+status: rejected
 created: 2026-06-03
 updated: 2026-06-22
 public_project_page: https://github.com/JulyWA/web3-project-tracker/blob/main/pre-watchlist/Derive.md
@@ -423,3 +423,5 @@ DRV 已 TGE，staking/trading rewards 按 epoch 持续运行，无新 Season 2 �
 无新 2026 行动信号。stDRV staking rewards 和 trading rewards 按 epoch 持续运行（约每周约 25 万 stDRV staking + 5 万 stDRV trading）。DRV 已于 2025-01-15 TGE，不作为未发币空投跟踪。观察重点仍为：reward/fee 比是否明显改善、vault boost 机会、新 market 上线或 MM Programs 开放。本周暂不需要额外操作。
 
 来源：[App Rewards](https://app.derive.xyz/rewards)
+
+| 2026-10-14 | 取消关注 | rejected | 2026-10-14 仅修正文档命名：状态 rejected 未变。本条的 rejected 是 2026-08-04 July 拍板、2026-10-12 用 update-outcome 补回写 archive 的，未走 set-status 故从未触发项目页改名，文件名一直是 active 形态。verify_scores.py 第 8 项检查上线后发现 |
