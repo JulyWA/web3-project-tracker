@@ -46,3 +46,5 @@ InfiniFi 将传统银行「分数储备」概念搬到 onchain 稳定币，存�
 ---
 
 | 2026-10-13 | 按 v4 重打分 | active | 73 → **66.75**。本条原标 scoring_rule_version=v4 但 score_reasons 用的是 v3 的 7 个维度名，是 21 条记录中唯一的规则/输出不一致项，导致 v4 硬规则「空投预期 < 5 不通过」对它从未适用。补齐 v4 七维后空投预期 6.9 ≥ 5 通过硬规则。**修正原依据**：原参与价值 9 分的理由「官方明确 Q4 2026 TGE 已公告」与官方文档矛盾——Q4 2026 仅第三方（kucoin blog / airdrops.io）称，官方 docs 查不到日期，且积分转代币 not stated |
+
+| 2026-10-14 | C5 下修·边界案例 | active | 空投预期 6.9 → **6.4**（A 7→6），总分 66.75 → **65.5**，仍过线。按判据 **C5**（July 2026-10-14 把空投预期 A 的 7-8 档从「或」改「且」）。判据是「官方是否有**代币分配将依据某种参与行为**的表述」，不是「积分是否换币」。**判不相连的依据（边界案例）**：官方 Points Program 文档完备（Phase/Episode/Chapter + R 值表 + 两套 multiplier）、依据真实，但积分转代币 **not stated**；唯一近似表述是 badge「**may matter for** special perks, early-access, or future reserve/benefit allocations」—— 主语是 badge 不是 points、措辞是 may matter for、且未明说代币，弱于 Axis 的「plans to use Points as **one input**」一个档次。TGE 日期亦 not stated（Q4 2026 仅第三方称）。**这条是边界判断，一句话可回滚** |
