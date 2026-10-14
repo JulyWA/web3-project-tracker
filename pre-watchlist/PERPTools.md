@@ -36,3 +36,5 @@ PERPTools 整合 AI 交易 agent + perp DEX + prediction markets，依托 DEXToo
 来源：[KuCoin快讯](https://www.kucoin.com/news/flash/perptools-discloses-8m-in-funding-plans-q4-2026-tge) | [crypto.news](https://crypto.news/perptools-raises-8m-with-near-animoca-brands-joining-seed-round/)
 
 ---
+
+| 2026-10-14 | 赛道分上调 | active | 赛道潜力 5 → **8**（基础分，不扣不加），总分 61.0 → **65.5**。原 5 的理由「Hyperliquid 一家独大」属赛道事实，但本项目不在 Hyperliquid 上（多链，交易层走 Orderly），该事实不构成对它的扣分；亦无龙头项目扶持（Animoca/NEAR/Sfermion 二线、$5M 累计 $8M）故不加分。perp 判据统一（July 2026-10-14 拍板）：赛道的「竞争格局修正」−2 只适用于**在头部自己的链/生态内直接竞争**的项目（perp 头部=Hyperliquid），且须「在头部生态内」+「融资弱无扶持」两条件同时满足才扣；其他龙头/链方扶持或非头部链上强融资则 +1。此前 09-28 批整批跳过修正（一律写「格局未定不调整」）、v3 与 10-09 批则把「赛道有龙头」误当对所有参与者扣分，两种漂移方向相反。 |
