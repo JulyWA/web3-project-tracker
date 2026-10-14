@@ -217,3 +217,5 @@ Asia Points invite-only 模式维持运行，mobile app 计划 8 月上线。自
 下周关注：自有 HIP-3 市场进度、Asia Points 规则是否公开、Loris 榜单是否出现 Trasia、mobile app。
 
 来源：[The Block](https://www.theblock.co/post/408670/multicoin-capital-hyperliquid-ecosystem-investment-trasia) | [Loris HIP-3](https://loris.tools/hip3) | [trasia.xyz 实测](https://trasia.xyz)
+
+| 2026-10-14 | 重评降分 | rejected | 71 → **57.0**（低于 60 通过线），归 rescore。2026-08-04 原淘汰理由引用的「v3.1 重算 64」分项从未持久化、无法诚实重建，故按今日事实重评。两条原依据均被推翻：①参与价值 8 的「Asia Points 已上线」——官方 docs 确实命名该计划（非第三方编造），但详情页 /asia-points/overview 为 404、机制未公开，The Block 一手口径是 "set to launch"；②赛道质量 8 的「HIP-3 新叙事」——Hyperliquid 官方 info/perpDexs 实测 10 个部署者无 trasia，亚洲股票永续三个月未落地，重心漂移到 Scout Mode。项目本身活着（移动端已上架、TG 日更），融资 $1.75M Multicoin 独投与团队履历均属实。官推更正：@TrasiaLabs 不存在 → @trasiaxyz |
