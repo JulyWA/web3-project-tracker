@@ -106,3 +106,5 @@ Points 系统 live，双周 epoch 发放，按任务量、难度、质量、多�
 来源：[CryptoRank 空投指南](https://cryptorank.io/drophunting/axis-ai-activity1105) | [官方文档](https://docs.axisrobotics.ai/economics/why-crypto)
 
 | 2026-10-13 | 标签修正+窗口回填 | active | 剔除「脚本型」（官方积分为浏览器端遥操作机器人任务，属人工型），**分数不变（71.5）**。回填 participation_window：公募 commitment 窗口 2026-09-28 05:00 UTC 已关闭（超额 239 万 USDC、填充率 42.03%），但官方 Axis Point System 仍开放（hub.axisrobotics.ai）、TGE 仍 TBA，故窗口状态 open |
+
+| 2026-10-14 | 参与价值上修 | active | 参与价值 7 → **8**，总分 71.5 → **74.0**（July 拍板）。按**判据 C2**（机器人/DePIN/AI 基建三条硬判）逐条核实全部满足：**toC** ✓ Privy 邮箱/Google/X 注册、不连钱包自动生成、官方原文「No GPU required」、无 KYC/邀请码/地区限制（需 KYC 且排除 27 个辖区的是 **Sonar 公募**，与 hub 参与无关，别混）；**有参与机会** ✓ 浏览器遥操作任务、链上签名即计分、官方称「nothing resets, nothing expires」、两周一 Epoch；**有空投可能** ✓ 官方 tokenomics 明写 **Community Contributor Airdrop 占总量 10%**（Season 1 Pre-TGE 仿真 4.00%、TGE 解锁 50% + T+3/T+6 各 25%；Season 2 Post-TGE 6.00% 条款待公布），FAQ 原文「Axis plans to use Points as one input in a future Community Contributor Airdrop」。给 8 不给 9：**TGE 无绝对日期**，官方只给 T+n 相对时点。风险留存：公募已关（$0.10/$100M FDV，2472 人认购 239 万 USDC、2.39x）；稀释压力在 Ecosystem 51.08% 与 T+12 起解锁的团队/私募 31.67% |

@@ -60,3 +60,5 @@ Polymarket 是本次 41 个项目里唯一符合硬件门槛+参与预期+机构
 | 2026-10-12 | 取消关注 | paused | 2026-10-12 复核降级为蹲守：无代币、无 TGE、官方从未公布空投或积分系统，故不存在已错过快照的问题。官方帮助中心（dateModified 2026-06-24，已亲自核实原文）明确「Polymarket has not announced plans for any airdrop or token generation event」，并提示警惕声称空投的诈骗；pUSD 仅为 USDC 1:1 背书的 Polygon ERC-20 抵押品代币，交易与做市奖励一律发 pUSD。创始人 Coplan 在 TOKEN2049 新加坡（2026-10-07）仅称在探索「具 programmable utility 的 onchain asset」，未给名称/时间线/结构——书面口径 6-24 与口头暗示 10-07 差 3.5 个月，方向朝发币但未宣布，故 paused 非 rejected。【第三方污染】airdrops.io 等站的「POLY Confirmed, how to farm」与官方 FAQ 直接冲突；CMO 播客「会有代币会有空投」属媒体转述非官方公告。【监管变量】已收购 CFTC 注册交易所($112M)，ICE/NYSE 母公司入股，代币排在美国合规平台重启之后。监控点：官网 blog + Coplan X 的 onchain asset 落地与美国重启进度。另注 Protocol V1 将于 2026-10-24 停用 |
 
 | 2026-10-13 | 转蹲守 | paused | 2026-10-13 修正文档命名：原脚本对 paused 和 rejected 共用「已取消关注」后缀，导致公开仓把蹲守项目标成已放弃。已加 PAUSED_SUFFIX 区分，本次重跑纠正为「蹲守中」。判断依据见 2026-10-12 的复核记录 |
+
+| 2026-10-14 | July 核实·明确不参与 | paused | **预测市场赛道，明确不会参与**（July 判断），仅监控该项目是否出现空投信息。窗口已标 acknowledged_not_participating + monitor_only=airdrop-news。监控点：官网 blog + 创始人 Coplan 的 X（"onchain asset" 落地）+ 美国合规平台重启进度。状态保持 paused（窗口 none —— 官方帮助中心 dateModified 2026-06-24 明确从未公布空投或 TGE）。分数未变（67.05） |
