@@ -184,3 +184,5 @@ App / Earn / Foundry 连续 8 周无公开入口或激励机制，且未见上�
 | 2026-10-13 | 转蹲守 | paused | 2026-10-13 仅修正文档命名：状态 paused 未变，原脚本对 paused/rejected 共用「已取消关注」后缀造成误标，本次按新的 PAUSED_SUFFIX 纠正为「蹲守中」。本条未做项目复核，判断依据沿用此前记录 |
 
 | 2026-10-13 | 取消关注 | rejected | 2026-10-13 重打分后 50.5 < 60 通过线，按 rubric「< 60 不通过」降级（原 73，池内最低）。官方 docs 用户动作仅 deposit/earn/withdraw、零激励机制；官方 X 2026-08 发 Origin NFT 时明示不保证任何未来奖励/空投/额度——属官方主动否认。存 USDS 只拿 Sky 利率、不累积资格。污染源已定位：airdrops.io/osero 徽章写 Airdrop confirmed 而同页正文自认未宣布。参与价值 2 / 参与成本 3 |
+
+| 2026-10-14 | 链接修正 | rejected | RootData 链接修正为 `https://www.rootdata.com/projects/detail/Osero?k=MjQ1MDU%3D`（数字 ID 24505）。原链接失效，三种错法：缺 `?k=` 参数 / 路径大写 `Projects` / 用了被腾讯 WAF 拦截的 `cn.rootdata.com`。数字 ID 取自官方 sitemap `projects-en-0.xml`（21454 条自带 k），k = base64(ID) 再 URL 编码、已复算校验。 |

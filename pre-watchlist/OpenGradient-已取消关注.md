@@ -30,3 +30,5 @@ created: 2026-10-14
 |---|---|---|---|
 | 2026-05-13 | 取消关注 | rejected | 已发币且无剩余参与机会 |
 | 2026-10-13 | 重评降分 | rejected | 76 → **55.0**，低于 60 通过线，归 stage=rescore。已发 $OPG（Base ERC-20，空投 4% TGE 全解锁），官方空投门户现为 "Airdrop claiming has ended"；**空投属追溯历史参与，2026-04-14 入池当天即无开放机制 —— 不是「错过」而是本不该进池**。剔除「脚本型」：第三方编造的 testnet 交互次数 / Galxe quests / Discord 活跃 / PIX-FI points 判据官方从未发布。本条是 rubric「窗口时效性」判据的立规案例之一 |
+
+| 2026-10-14 | 链接修正 | rejected | RootData 链接修正为 `https://www.rootdata.com/projects/detail/OpenGradient?k=MTQzMzc%3D`（数字 ID 14337）。原链接失效，三种错法：缺 `?k=` 参数 / 路径大写 `Projects` / 用了被腾讯 WAF 拦截的 `cn.rootdata.com`。数字 ID 取自官方 sitemap `projects-en-0.xml`（21454 条自带 k），k = base64(ID) 再 URL 编码、已复算校验。 |

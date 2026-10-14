@@ -339,3 +339,5 @@ v2 奖励窗口（$200K+）自 2026-06-24 起 30 天，截止约 **2026-07-24**�
 | 2026-10-13 | 转蹲守 | paused | 2026-10-13 修正文档命名：原脚本对 paused 和 rejected 共用「已取消关注」后缀，导致公开仓把蹲守项目标成已放弃。已加 PAUSED_SUFFIX 区分，本次重跑纠正为「蹲守中」。判断依据见 2026-10-12 的复核记录 |
 
 | 2026-10-13 | 取消关注 | rejected | 2026-10-13 重打分后 57.0 < 60 通过线，按 rubric「< 60 不通过」降级（原 74.5，原记录仅有叙述无分值、分数不可追溯）。官网 + 官方 blog 7 篇 + 官方 docs sitemap 244 页三源零 points/token/tokenomics/airdrop，app 导航无 Points Hub；第三方称的 Points Hub 与「XPN 合约已定稿」系编造（XPN 溯源到 2022 年另一项目 Exponent CX 的 DAO 通讯）。主网确在活跃（v2 2026-05-28 上线、4 轮独立审计），但无任何官方 token 信号。参与价值 3 / 参与成本 4 |
+
+| 2026-10-14 | 链接修正 | rejected | RootData 链接修正：原 `cn.rootdata.com/Projects/detail/...` 有两处错——域名 `cn.rootdata.com` 被腾讯 WAF 拦截不可用、路径 `Projects` 大写打不开。改为 `https://www.rootdata.com/projects/detail/Exponent%20Finance?k=MTUxMzc%3D`。本条的 `?k=` 参数原本就对（k = base64(RootData 数字 ID 15137) 再 URL 编码），只是域名与大小写错。分数不变 |

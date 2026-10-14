@@ -1,5 +1,5 @@
 ---
-status: pre-watchlist
+status: paused
 created: 2026-07-13
 ---
 
@@ -110,3 +110,9 @@ KOR Score Quests Season 2 仍在进行，token 奖励规则尚未宣布，但官
 | 2026-10-13 | 转蹲守 | paused | 2026-10-13 仅修正文档命名：状态 paused 未变，原脚本对 paused/rejected 共用「已取消关注」后缀造成误标，本次按新的 PAUSED_SUFFIX 纠正为「蹲守中」。本条未做项目复核，判断依据沿用此前记录 |
 
 | 2026-10-13 | 恢复关注 | active | 2026-10-13 转 active（July 拍板）。参与窗口自检命中：官方 KOR Quests → points → KOR Score 自 2024-05 起至今未终止、无截止日期（窗口 open），而状态却是 paused——窗口开着不该挂蹲守。重核结论：人工型成立（官方 Quests 为真），脚本型已剔除（KOR ID 为 soulbound 单次 mint，无可重复链上动作）。限制：官网 korprotocol.com 为 404、korprotocol.io 首页仅一字、rewards 子域需鉴权，官方 blog/docs 正文未能直接核到，结论建立在官方新闻稿 + 官方 KOR ID 入口上。重算总分 73.0（原记录 71，子项合成为准） |
+
+| 2026-10-14 | 转蹲守 | paused | 2026-10-14 July 判断降级：对整体经营逻辑呈怀疑态度；IP 赛道先例不利——a16z 重注的 Story 等旗舰项目长期未跑出来，对后进者是负面先例（新判据 C1「赛道先例验证」，已累积进 Obsidian「04 Skills/评分判据待纳入」待纳入 rubric）。赛道质量 5->3，总分 73.0->71.0 仍在 60 线上，故属复核降级而非分数淘汰。官方 KOR Quests 窗口仍开放，但已标记 acknowledged_not_participating=true（有窗口但决定不参与） |
+
+| 2026-10-14 | 复核降级 | paused | **July 判断**：对整体经营逻辑呈怀疑态度；IP 赛道先例不利——a16z 重注的 Story 等旗舰项目长期未跑出来，对后进者是负面先例。据此新增判据 **C1「赛道先例验证」**（已累积进 [[评分判据待纳入]]）：赛道关键词命中热门只说明叙事热，若该赛道旗舰项目长期未跑出来，对后进者是负面先例而非红利，须扣分——这与既有「竞争格局修正」不同，那条修份额被占（有人赢了），这条修赛道被证伪（领头的都没赢）。赛道质量 5 → **3**，总分 73.0 → **71.0**，仍在 60 线上故属复核降级而非分数淘汰。官方 KOR Quests 窗口仍开放，已标记 acknowledged_not_participating=true。**待 July 定**：参与价值仍为 8，但 10-13 核实发现官网 korprotocol.com 为 404、首页仅一字、rewards 子域需鉴权、TGE 时间与分配规则均未披露、第三方 ticker 矛盾（$IP vs $KOR）——这些正是「经营逻辑可疑」的具体化，若下修至 5 则总分降至 63.5 |
+
+| 2026-10-14 | 链接修正 | paused | RootData 链接修正为 `https://www.rootdata.com/projects/detail/KOR%20Protocol?k=MTM1ODI%3D`（数字 ID 13582）。原链接失效，三种错法：缺 `?k=` 参数 / 路径大写 `Projects` / 用了被腾讯 WAF 拦截的 `cn.rootdata.com`。数字 ID 取自官方 sitemap `projects-en-0.xml`（21454 条自带 k），k = base64(ID) 再 URL 编码、已复算校验。 |

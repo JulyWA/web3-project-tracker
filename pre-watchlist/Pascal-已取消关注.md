@@ -95,3 +95,5 @@ Pascal 已于 2026-06 进入 private beta，已有机处理 200 万笔合约（�
 | 2026-10-14 | 域名更正 | rejected | 原记录官网 pascal.markets 已失联（实测 socket closed），真实官网一直是 pascal.trade（"Now in Public Beta"）。2026-09-24 源探针没查错，是入池时记的域名本身错了（同 XStable 的 xstable.io vs xstable.ai）。项目活着：Fortune 2026-07-16 报 $9M Series A（USV 领投），Ivo Crnkovic-Rubsamen 为前 dYdX CEO 属实。淘汰结论仍成立但理由改为：原判「白名单型+人工型」皆不成立，官网与 docs 零 token/airdrop/points。**漏判的真机会**：官方 2026 Midterms Rewards 现金窗口 2026-09-17→2026-11-05 开放中（304,000 USDC），性质资金型，但为现金非空投，不构成恢复观察理由 |
 
 | 2026-10-14 | 重评降分 | rejected | 72 → **61.5**（仍在 60 线上，stage 保持 recheck）。参与价值 7→4：原理由「private beta 尚未公开，pre-launch 超早期」两句均失效（官网现为 Public Beta），且官网+docs 33 万字符零 token/TGE/airdrop/points；官方实有的是现金奖励（304,000 USDC Midterms 池等），现金≠空投预期。赛道质量 8→5：修正内部不一致——我们给龙头 Polymarket 的赛道质量是 6（「占>80%份额、龙头无份额红利」），新入者不该更高。安全性 6/团队背景 9 不动：「Ivo 为前 dYdX CEO」经 Fortune 原文核实为真 |
+
+| 2026-10-14 | 链接修正 | rejected | RootData 链接修正为 `https://www.rootdata.com/projects/detail/pascal?k=MjI4MDM%3D`（数字 ID 22803）。原链接失效，三种错法：缺 `?k=` 参数 / 路径大写 `Projects` / 用了被腾讯 WAF 拦截的 `cn.rootdata.com`。数字 ID 取自官方 sitemap `projects-en-0.xml`（21454 条自带 k），k = base64(ID) 再 URL 编码、已复算校验。 |

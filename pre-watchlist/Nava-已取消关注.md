@@ -219,3 +219,5 @@ Nava SDK 仍处于 Developer Preview，@navalabs 包限制访问，需申请授�
 | 2026-10-13 | 转蹲守 | paused | 2026-10-13 修正文档命名：原脚本对 paused 和 rejected 共用「已取消关注」后缀，导致公开仓把蹲守项目标成已放弃。已加 PAUSED_SUFFIX 区分，本次重跑纠正为「蹲守中」。判断依据见 2026-10-12 的复核记录 |
 
 | 2026-10-13 | 取消关注 | rejected | 2026-10-13 重打分后 51.5 < 60 通过线，按 rubric「< 60 不通过」降级（原 74）。无 token 且官方从未表态；官网全站仅 Waitlist + Request Access/Demo，官方 blog 9 篇（最新 2026-08-21）零相关；零链上动作，入池 6 个月无进展。第三方 coinlaunch/airdrops.io 把邮箱 waitlist 包装成空投机会。参与价值 3 / 安全性 5（产品仍私测）/ 社区热度 4 |
+
+| 2026-10-14 | 链接修正 | rejected | RootData 链接修正为 `https://www.rootdata.com/projects/detail/Nava?k=MjQyNzc%3D`（数字 ID 24277）。原链接失效，三种错法：缺 `?k=` 参数 / 路径大写 `Projects` / 用了被腾讯 WAF 拦截的 `cn.rootdata.com`。数字 ID 取自官方 sitemap `projects-en-0.xml`（21454 条自带 k），k = base64(ID) 再 URL 编码、已复算校验。另：RootData 页面显示投资方还有 Hack VC / FalconX / Seed Club Ventures（档案原只记 Polychain + Archetype）；且官方描述为「AI agent 交易的验证层——执行前按用户策略检查每笔交易并返回放行/拒绝」，档案原写的「安全/托管基础设施」中「托管」不准确，它不持有资金。 |
