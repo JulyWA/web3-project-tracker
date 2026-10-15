@@ -529,6 +529,9 @@ updated: 2026-09-24
 <!-- watchlist-slug: tweet:2110388537124422016 -->
 - 2026-10-15 | [Twitter] `tweet:2110388537124422016` | [Arc Studio 上线](https://x.com/arc/status/2110388537124422016) | 可直接在 Arc 上构建链上应用
 
+<!-- watchlist-slug: tweet:2110807922041397275 -->
+- 2026-10-16 | [Twitter] `tweet:2110807922041397275` | [Arc Studio 微赠款计划](https://x.com/arc/status/2110807922041397275) | 在 Arc Studio 搭建并部署到 Mainnet 可申请 8 个微赠款名额，各 500 USDC，11月1日截止
+
 ## 相关
 
 - [[Web3项目研究]]
