@@ -57,3 +57,6 @@ dYdX 团队+Robinhood 分发，官方已确认未来 token，现货零费+perps 
 
 <!-- watchlist-slug: tweet:2110449661031129363 -->
 - 2026-10-15 | [Twitter] `tweet:2110449661031129363` | [Season 1 Week 2 完成](https://x.com/arcus_xyz/status/2110449661031129363) | 本周分发 25 万积分
+
+<!-- watchlist-slug: tweet:2111207343115403385 -->
+- 2026-10-19 | [Twitter] `tweet:2111207343115403385` | [清算费上调补偿公告](https://x.com/arcus_xyz/status/2111207343115403385) | 清算费未提前公告调整至1%，官方致歉并补偿受影响用户
