@@ -345,6 +345,9 @@ Dragonfly 和 Electric Capital 都是加密原生一线/强二线机构，对 De
 <!-- watchlist-slug: tweet:2110388217124098346 -->
 - 2026-10-15 | [Twitter] `tweet:2110388217124098346` | [KappaLab vault cap 提升至 $2.5M](https://x.com/hibachi_xyz/status/2110388217124098346) | FLP vault allocation 开放
 
+<!-- watchlist-slug: tweet:2112329370782061026 -->
+- 2026-10-20 | [Twitter] `tweet:2112329370782061026` | [Points 周报 Week 23](https://x.com/hibachi_xyz/status/2112329370782061026) | 积分流通77.5M(+1.29% WoW)，周分发恢复100万/周，EUR/USD和BTC/USD本周1.5x积分加成
+
 ## 相关
 
 - [[Web3项目研究]]

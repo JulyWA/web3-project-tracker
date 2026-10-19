@@ -60,3 +60,6 @@ dYdX 团队+Robinhood 分发，官方已确认未来 token，现货零费+perps 
 
 <!-- watchlist-slug: tweet:2111207343115403385 -->
 - 2026-10-19 | [Twitter] `tweet:2111207343115403385` | [清算费上调补偿公告](https://x.com/arcus_xyz/status/2111207343115403385) | 清算费未提前公告调整至1%，官方致歉并补偿受影响用户
+
+<!-- watchlist-slug: tweet:2112191521479086186 -->
+- 2026-10-20 | [Twitter] `tweet:2112191521479086186` | [Early Access to Multi-Asset Collateral](https://x.com/arcus_xyz/status/2112191521479086186) | $25M+累计交易量账户已开放 Stock Tokens/Wrapped ETH 作保证金，其他用户逐步开放
