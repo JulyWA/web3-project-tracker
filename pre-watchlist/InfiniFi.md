@@ -29,6 +29,12 @@ InfiniFi 将传统银行「分数储备」概念搬到 onchain 稳定币，存�
 
 ## 4. 每周跟踪记录
 
+### 2026-10-19
+
+本周判断：P1 继续观察。官方首次放出 INFI tokenomics 轮廓：45% 生态、20% 团队、20% 投资人、15% 基金会；同时 infiniFi Prime 于 10-17 上线 Blend。TGE 仍只是 Q4 2026 目标，未定具体日期，无 claim/snapshot 细则，暂不构成升级信号。
+
+来源：[infiniFi Reveals Tokenomics](https://www.kucoin.com/news/flash/infinifi-reveals-tokenomics-45-allocated-to-ecosystem) | [infiniFi 官推](https://x.com/infiniFi/status/2110023742734614666)
+
 ### 2026-10-12
 
 本周判断：P1 继续观察，无实质新进展。创始人披露 Season 1/2 积分已锚定固定代币分配（不会被稀释），8-26 起至 TGE 期间参与仍可获新一轮固定分配积分；智能合约已通过 Certora 形式化验证，多链扩展至 Ethereum/Arbitrum/Katana/Base。但这些是存量信息的细节补充，Q4 2026 TGE 仍无具体日期、无领取/质押机制披露。继续盯快照日期公告。

@@ -29,6 +29,12 @@ Hack VC 领投 $12M 种子（顶级机构+顶级金额+Nomad/Pi 跟投）是本�
 
 ## 4. 每周跟踪记录
 
+### 2026-10-19
+
+本周判断：P1 继续观察。Season 1 pre-TGE 积分池已于 10-18 12:00 UTC 收口（4% 分配池），后续参与进入 Season 2 post-TGE 池（6%）。截至本周累计约 771 万条训练轨迹、24.3 万用户。TGE 仍无具体日期，官方未披露分配规则，暂不构成升级信号。
+
+来源：[Axis Robotics Airdrop guide](https://cryptorank.io/drophunting/axis-ai-activity1105)
+
 ### 2026-10-12
 
 本周判断：P1 继续观察。Hub 内新增 Binance Wallet Keyless 联合活动，150万 Axis Points 奖池、每日2万任务名额先到先得，但绑定 Discord+X 截止 10-10 12:00 UTC 已过，本轮窗口已错过。Hub 常驻的 Signal Boost（绑 X 得1积分）和 BitRobot × Axis subnet 联盟任务仍在运行，可叠加积分不受影响。代币仍未正式 TGE，官方文档明确积分只是未来空投资格的输入变量之一，分配规则待领取事件前公布。

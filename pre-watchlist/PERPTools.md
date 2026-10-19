@@ -29,6 +29,12 @@ PERPTools 整合 AI 交易 agent + perp DEX + prediction markets，依托 DEXToo
 
 ## 4. 每周跟踪记录
 
+### 2026-10-19
+
+本周判断：P1 继续观察。Points Season 2 已于 10-02 上线，积分清零重计，新增现货交易作为积分来源（此前仅 perp 交易计分）。TGE 仍为 Q4 2026 目标区间，无具体日期或分配细则，上周已作为需确认事项提过，本周按常规观察处理。
+
+来源：[PERPTools Airdrop Guide: Season 2](https://usethebitcoin.com/airdrop/perptools/)
+
 ### 2026-10-12
 
 本周判断：需确认处理——官方首次公开披露 $TOOLS 代币经济学：总量 10亿，FDV $100M，28% 分配给空投，TGE 解锁21.43%；Points Program Season 1 持续运行至 TGE，每周固定分发100万积分。这是官方 points/airdrop 分配比例首次明确，且活动当前在跑，符合"带资格的 points 计划"升级标准，建议 July 评估是否现在参与积分累积。TGE 仍只给 Q4 2026 区间，无具体日期/snapshot。
