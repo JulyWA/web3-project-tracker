@@ -63,3 +63,6 @@ dYdX 团队+Robinhood 分发，官方已确认未来 token，现货零费+perps 
 
 <!-- watchlist-slug: tweet:2112191521479086186 -->
 - 2026-10-20 | [Twitter] `tweet:2112191521479086186` | [Early Access to Multi-Asset Collateral](https://x.com/arcus_xyz/status/2112191521479086186) | $25M+累计交易量账户已开放 Stock Tokens/Wrapped ETH 作保证金，其他用户逐步开放
+
+<!-- watchlist-slug: tweet:2112983487175176577 -->
+- 2026-10-22 | [Twitter] `tweet:2112983487175176577` | [Season 1 Week 3 积分发放完成](https://x.com/arcus_xyz/status/2112983487175176577) | 每周三发放25万积分；本周交易量$2.51B，OI $112.09M
