@@ -199,3 +199,6 @@ Omni Points 赛季继续按计划运行：每周约 15 万积分，截止不晚�
 
 <!-- watchlist-slug: tweet:2111505599829848451 -->
 - 2026-10-19 | [Twitter] `tweet:2111505599829848451` | [周二X Space预告](https://x.com/variational_io/status/2111505599829848451) | The Rollup主持人对话团队，预告Variational Pro
+
+<!-- watchlist-slug: tweet:2112556101355118595 -->
+- 2026-10-21 | [Twitter] `tweet:2112556101355118595` | [Variational Pro 预告](https://x.com/variational_io/status/2112556101355118595) | 预告第二个应用 Pro（期权与自定义衍生品），已办直播

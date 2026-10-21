@@ -535,6 +535,9 @@ updated: 2026-09-24
 <!-- watchlist-slug: tweet:2111193393229656148 -->
 - 2026-10-19 | [Twitter] `tweet:2111193393229656148` | [Arc House 社区问卷](https://x.com/arc/status/2111193393229656148) | 填问卷得50积分，截止11月1日
 
+<!-- watchlist-slug: tweet:2112589668646547687 -->
+- 2026-10-21 | [Twitter] `tweet:2112589668646547687` | [Alchemy $1M Arc builders fund](https://x.com/arc/status/2112589668646547687) | Alchemy 为 Arc 开发者提供 $1M 额度，每队最高 $10K
+
 ## 相关
 
 - [[Web3项目研究]]
