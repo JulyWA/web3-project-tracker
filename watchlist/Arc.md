@@ -538,6 +538,13 @@ updated: 2026-09-24
 <!-- watchlist-slug: tweet:2112589668646547687 -->
 - 2026-10-21 | [Twitter] `tweet:2112589668646547687` | [Alchemy $1M Arc builders fund](https://x.com/arc/status/2112589668646547687) | Alchemy 为 Arc 开发者提供 $1M 额度，每队最高 $10K
 
+<!-- watchlist-slug: tweet:2113353687305429109 -->
+- 2026-10-23 | [Twitter] `tweet:2113353687305429109` | [Extended 迁移到 Arc 结算](https://x.com/arc/status/2113353687305429109) | 约$120M TVL迁移完成，USDC/cirBTC抵押
+<!-- watchlist-slug: tweet:2113374843596907005 -->
+- 2026-10-23 | [Twitter] `tweet:2113374843596907005` | [Extended 在 Arc 上线](https://x.com/arc/status/2113374843596907005) | Extended 迁移完成并上线
+<!-- watchlist-slug: tweet:2113370273542209868 -->
+- 2026-10-23 | [Twitter] `tweet:2113370273542209868` | [Arc House 交易/DeFi 社区上线](https://x.com/arc/status/2113370273542209868) | 官方社区，入口为 Arc Portal 存 USDC
+
 ## 相关
 
 - [[Web3项目研究]]

@@ -202,3 +202,6 @@ Omni Points 赛季继续按计划运行：每周约 15 万积分，截止不晚�
 
 <!-- watchlist-slug: tweet:2112556101355118595 -->
 - 2026-10-21 | [Twitter] `tweet:2112556101355118595` | [Variational Pro 预告](https://x.com/variational_io/status/2112556101355118595) | 预告第二个应用 Pro（期权与自定义衍生品），已办直播
+
+<!-- watchlist-slug: tweet:2113284301601361943 -->
+- 2026-10-23 | [Twitter] `tweet:2113284301601361943` | [On-Chain Trader Rewards Program](https://x.com/variational_io/status/2113284301601361943) | 800+交易者加入，领积分和USDC，随积分计划结束
