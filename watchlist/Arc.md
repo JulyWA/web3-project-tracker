@@ -545,6 +545,11 @@ updated: 2026-09-24
 <!-- watchlist-slug: tweet:2113370273542209868 -->
 - 2026-10-23 | [Twitter] `tweet:2113370273542209868` | [Arc House 交易/DeFi 社区上线](https://x.com/arc/status/2113370273542209868) | 官方社区，入口为 Arc Portal 存 USDC
 
+<!-- watchlist-slug: tweet:2113752335310864692 -->
+- 2026-10-26 | [Twitter] `tweet:2113752335310864692` | [Arc House Trading and DeFi 社群](https://x.com/arc/status/2113752335310864692) | 面向交易者/构建者/合作方的新社群，经 Arc Portal 获取 USDC
+<!-- watchlist-slug: tweet:2113661736058278047 -->
+- 2026-10-26 | [Twitter] `tweet:2113661736058278047` | [Aster 支持 Arc 上 USDC 保证金](https://x.com/arc/status/2113661736058278047) | BTC/ETH/SOL USDC 本位永续上线
+
 ## 相关
 
 - [[Web3项目研究]]
