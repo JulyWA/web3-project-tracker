@@ -1,5 +1,5 @@
 ---
-status: pre-watchlist
+status: rejected
 created: 2026-10-26
 ---
 
@@ -28,3 +28,9 @@ Dataline（前身 Tearline 2026-05 改名）是 **Base 链 AI/decentralized data
 | 2026-10-26 | 新建 pre-watchlist 项目页 | active | 通过 pre-watchlist upsert/intake 首次加入或更新 |
 
 ## 4. 每周跟踪记录
+
+
+### 重算（2026-10-26）
+公链活跃度 9 → 5：官网首页标注上线链为 BNB / SUI / TON，Base 只是媒体报道的公开拍卖地点；多链项目按规则给 5。总分 62.9 → 58.9，低于 60 分通过线。
+
+| 2026-10-26 | 取消关注 | rejected | 2026-10-26 重算 58.9<60（公链活跃度按多链 9→5）且窗口 none；拍卖细节公布后复核（盯 @DatalineAI） |
