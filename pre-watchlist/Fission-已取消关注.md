@@ -1,5 +1,5 @@
 ---
-status: pre-watchlist
+status: rejected
 created: 2026-10-19
 ---
 
@@ -34,3 +34,5 @@ Fission 是**代币化私募基金的二级流动性提供者**，解决 tokeniz
 本周判断：P3 无更新。搜索只见 2024-10 的 $1.6M pre-seed 与封闭测试网，2026 年无新动向，可用率 33%；若连续数周无进展建议暂停。
 
 来源：[Decrypt 2024](https://decrypt.co/286338/fission-labs-brings-vc-to-defi-announces-1-6m-pre-seed-raise-led-by-salt-fund-kraynos-capital-launches-closed-testnet)
+
+| 2026-10-26 | 取消关注 | rejected | 2026-10-26 窗口核实：官网与博客无积分/奖励/代币，仅服务合格投资人 → July 定移出观察池 |
