@@ -210,3 +210,6 @@ Omni Points 赛季继续按计划运行：每周约 15 万积分，截止不晚�
 - 2026-10-26 | [Discord] `discord:1562982296657854525` | [Omni 积分第45周](https://discord.com/channels/1196857788220067943/1196907421575164015/1562982296657854525) | 发放 150,000 积分，覆盖 32,302 账户
 <!-- watchlist-slug: tweet:2114009146878283976 -->
 - 2026-10-26 | [Twitter] `tweet:2114009146878283976` | [Variational Pro 定位机构 OTC](https://x.com/variational_io/status/2114009146878283976) | 联创称 Pro 长期可能大于 Omni，无上线时间
+
+<!-- watchlist-slug: tweet:2114740419473080552 -->
+- 2026-10-27 | [Twitter] `tweet:2114740419473080552` | [TradFi 财报周交易比赛 18k 美元](https://x.com/variational_io/status/2114740419473080552) | 10/30 15:00 UTC 前提交

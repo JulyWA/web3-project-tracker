@@ -550,6 +550,9 @@ updated: 2026-09-24
 <!-- watchlist-slug: tweet:2113661736058278047 -->
 - 2026-10-26 | [Twitter] `tweet:2113661736058278047` | [Aster 支持 Arc 上 USDC 保证金](https://x.com/arc/status/2113661736058278047) | BTC/ETH/SOL USDC 本位永续上线
 
+<!-- watchlist-slug: tweet:2114750020532793552 -->
+- 2026-10-27 | [Twitter] `tweet:2114750020532793552` | [SafePal × Arc Morpho Vault 2.0x 加成](https://x.com/arc/status/2114750020532793552) | 10/26–11/26 存款活动
+
 ## 相关
 
 - [[Web3项目研究]]

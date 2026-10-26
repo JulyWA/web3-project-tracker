@@ -348,6 +348,9 @@ Dragonfly 和 Electric Capital 都是加密原生一线/强二线机构，对 De
 <!-- watchlist-slug: tweet:2112329370782061026 -->
 - 2026-10-20 | [Twitter] `tweet:2112329370782061026` | [Points 周报 Week 23](https://x.com/hibachi_xyz/status/2112329370782061026) | 积分流通77.5M(+1.29% WoW)，周分发恢复100万/周，EUR/USD和BTC/USD本周1.5x积分加成
 
+<!-- watchlist-slug: tweet:2114793719551463604 -->
+- 2026-10-27 | [Twitter] `tweet:2114793719551463604` | [Points 11/8 结束](https://x.com/hibachi_xyz/status/2114793719551463604) | Points 于 11 月 8 日结束，转向稳定币原生 FX 交易所
+
 ## 相关
 
 - [[Web3项目研究]]
