@@ -29,6 +29,12 @@ Hack VC 领投 $12M 种子（顶级机构+顶级金额+Nomad/Pi 跟投）是本�
 
 ## 4. 每周跟踪记录
 
+### 2026-10-26
+
+本周判断：P1 继续观察。仅见单一二手来源（Bittime，10-21）称 AXIS 将上 Binance Alpha、Season 1 已结束且快照锁定、Season 2 于 10-23 开始，官方与 Binance 均无确认，列入需确认；若属实，则 Season 1 积分窗口已关，Season 2 规则需看官方 docs。
+
+来源：[Bittime](https://www.bittime.com/blog/axis-robotics-airdrop) | [Bitrue TGE 说明](https://www.bitrue.com/blog/axis-token-tge)
+
 ### 2026-10-19
 
 本周判断：P1 继续观察。Season 1 pre-TGE 积分池已于 10-18 12:00 UTC 收口（4% 分配池），后续参与进入 Season 2 post-TGE 池（6%）。截至本周累计约 771 万条训练轨迹、24.3 万用户。TGE 仍无具体日期，官方未披露分配规则，暂不构成升级信号。

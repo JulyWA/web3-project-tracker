@@ -29,6 +29,12 @@ PERPTools 整合 AI 交易 agent + perp DEX + prediction markets，依托 DEXToo
 
 ## 4. 每周跟踪记录
 
+### 2026-10-26
+
+本周判断：P1 继续观察。无新增官方信号，Season 2（10-02 起，现货计分）与 TGE 目标 Q4 末均与上周一致。注意：第三方对代币 ticker 写法不一（$PERP / $TOOLS），以官方 docs 为准，暂不影响判断。
+
+来源：[Bitrue Season 2 指南](https://www.bitrue.com/blog/perptools-airdrop-season-2-guide)
+
 ### 2026-10-19
 
 本周判断：P1 继续观察。Points Season 2 已于 10-02 上线，积分清零重计，新增现货交易作为积分来源（此前仅 perp 交易计分）。TGE 仍为 Q4 2026 目标区间，无具体日期或分配细则，上周已作为需确认事项提过，本周按常规观察处理。

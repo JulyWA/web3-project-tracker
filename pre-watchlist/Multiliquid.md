@@ -28,3 +28,9 @@ Multiliquid（Uniform Labs 出品）是**链无关 NAV 原子 swap 协议**，�
 | 2026-10-19 | 新建 pre-watchlist 项目页 | active | 通过 pre-watchlist upsert/intake 首次加入或更新 |
 
 ## 4. 每周跟踪记录
+
+### 2026-10-26
+
+本周判断：P2 继续观察。无新增信号，$8M 融资（Polychain 领投）与已上线状态均为旧信息，无积分/空投入口，可发币性弱。
+
+来源：[Crowdfund Insider](https://www.crowdfundinsider.com/?p=318808)

@@ -29,6 +29,12 @@ InfiniFi 将传统银行「分数储备」概念搬到 onchain 稳定币，存�
 
 ## 4. 每周跟踪记录
 
+### 2026-10-26
+
+本周判断：P1 继续观察。无新增官方信号：tokenomics 轮廓（10-14）与 Prime 上线 Blend（10-17）已在上周记录；snapshot / claim 规则仍未公布，TGE 仍为 Q4 2026 目标。
+
+来源：[Coingabbar](https://www.coingabbar.com/en/infinifi-token-launch-date-tokenomics-infi-airdrop-updates)
+
 ### 2026-10-19
 
 本周判断：P1 继续观察。官方首次放出 INFI tokenomics 轮廓：45% 生态、20% 团队、20% 投资人、15% 基金会；同时 infiniFi Prime 于 10-17 上线 Blend。TGE 仍只是 Q4 2026 目标，未定具体日期，无 claim/snapshot 细则，暂不构成升级信号。
