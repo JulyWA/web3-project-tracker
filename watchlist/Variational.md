@@ -213,3 +213,6 @@ Omni Points 赛季继续按计划运行：每周约 15 万积分，截止不晚�
 
 <!-- watchlist-slug: tweet:2114740419473080552 -->
 - 2026-10-27 | [Twitter] `tweet:2114740419473080552` | [TradFi 财报周交易比赛 18k 美元](https://x.com/variational_io/status/2114740419473080552) | 10/30 15:00 UTC 前提交
+
+<!-- watchlist-slug: tweet:2115086070358626472 -->
+- 2026-10-28 | [Twitter] `tweet:2115086070358626472` | [财报周PnL卡片竞赛](https://x.com/variational_io/status/2115086070358626472) | 交易财报相关perps赢USDC，需提交表单

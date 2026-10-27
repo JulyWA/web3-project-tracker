@@ -69,3 +69,6 @@ dYdX 团队+Robinhood 分发，官方已确认未来 token，现货零费+perps 
 
 <!-- watchlist-slug: tweet:2113275413657157870 -->
 - 2026-10-23 | [Twitter] `tweet:2113275413657157870` | [Arcus Mobile early access](https://x.com/arcus_xyz/status/2113275413657157870) | 亚太部分地区 iOS/Android 开放
+
+<!-- watchlist-slug: tweet:2115166726149243202 -->
+- 2026-10-28 | [Twitter] `tweet:2115166726149243202` | [邀请码新增30天激活期](https://x.com/arcus_xyz/status/2115166726149243202) | 兑换后30天内需存款或交易perps，现货不计
