@@ -553,6 +553,11 @@ updated: 2026-09-24
 <!-- watchlist-slug: tweet:2114750020532793552 -->
 - 2026-10-27 | [Twitter] `tweet:2114750020532793552` | [SafePal × Arc Morpho Vault 2.0x 加成](https://x.com/arc/status/2114750020532793552) | 10/26–11/26 存款活动
 
+<!-- watchlist-slug: tweet:2115542876784636236 -->
+- 2026-10-29 | [Twitter] `tweet:2115542876784636236` | [Technical Office Hours: CCTP beyond USDC](https://x.com/arc/status/2115542876784636236) | 10/29 8AM ET 直播，讲 CCTP 扩展 ERC-20、tokenId 跨链，含 demo
+<!-- watchlist-slug: tweet:2115519067939582029 -->
+- 2026-10-29 | [Twitter] `tweet:2115519067939582029` | [Eco Sauce SDK 上线 Arc](https://x.com/arc/status/2115519067939582029) | 条件执行的稳定币流程 SDK，无需自部署合约；Arc Studio 即将支持
+
 ## 相关
 
 - [[Web3项目研究]]
