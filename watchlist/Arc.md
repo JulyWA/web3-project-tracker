@@ -558,6 +558,11 @@ updated: 2026-09-24
 <!-- watchlist-slug: tweet:2115519067939582029 -->
 - 2026-10-29 | [Twitter] `tweet:2115519067939582029` | [Eco Sauce SDK 上线 Arc](https://x.com/arc/status/2115519067939582029) | 条件执行的稳定币流程 SDK，无需自部署合约；Arc Studio 即将支持
 
+<!-- watchlist-slug: tweet:2115881354738962658 -->
+- 2026-10-30 | [Twitter] `tweet:2115881354738962658` | [Gauntlet Earn Vault waitlist](https://x.com/arc/status/2115881354738962658) | Arc Portal 早期访问 waitlist
+<!-- watchlist-slug: tweet:2115843446145732883 -->
+- 2026-10-30 | [Twitter] `tweet:2115843446145732883` | [SafePal × Arc Morpho Vault 活动](https://x.com/arc/status/2115843446145732883) | 最高 6% APY、2.0x 加成
+
 ## 相关
 
 - [[Web3项目研究]]

@@ -216,3 +216,8 @@ Omni Points 赛季继续按计划运行：每周约 15 万积分，截止不晚�
 
 <!-- watchlist-slug: tweet:2115086070358626472 -->
 - 2026-10-28 | [Twitter] `tweet:2115086070358626472` | [财报周PnL卡片竞赛](https://x.com/variational_io/status/2115086070358626472) | 交易财报相关perps赢USDC，需提交表单
+
+<!-- watchlist-slug: tweet:2115821014148169799 -->
+- 2026-10-30 | [Twitter] `tweet:2115821014148169799` | [Earnings Week PnL Card 比赛今日截止](https://x.com/variational_io/status/2115821014148169799) | 10/30 15:00 UTC 前提交，USDC 奖励
+<!-- watchlist-slug: tweet:2115914875776229589 -->
+- 2026-10-30 | [Twitter] `tweet:2115914875776229589` | [Binance 事件下 Omni 资金安全声明](https://x.com/variational_io/status/2115914875776229589) | 资金在链上合约，可随时提现
