@@ -563,6 +563,11 @@ updated: 2026-09-24
 <!-- watchlist-slug: tweet:2115843446145732883 -->
 - 2026-10-30 | [Twitter] `tweet:2115843446145732883` | [SafePal × Arc Morpho Vault 活动](https://x.com/arc/status/2115843446145732883) | 最高 6% APY、2.0x 加成
 
+<!-- watchlist-slug: tweet:2116243742755529208 -->
+- 2026-11-02 | [Twitter] `tweet:2116243742755529208` | [Arc Studio 线上 session 11/6](https://x.com/arc/status/2116243742755529208) | Arc House 独家直播，11月6日 10AM ET
+<!-- watchlist-slug: tweet:2116248526078504999 -->
+- 2026-11-02 | [Twitter] `tweet:2116248526078504999` | [Extended 在 Arc 上线现货](https://x.com/arc/status/2116248526078504999) | cirBTC/USDC、wETH/USDC 现货市场开放
+
 ## 相关
 
 - [[Web3项目研究]]

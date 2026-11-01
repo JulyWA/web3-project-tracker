@@ -221,3 +221,8 @@ Omni Points 赛季继续按计划运行：每周约 15 万积分，截止不晚�
 - 2026-10-30 | [Twitter] `tweet:2115821014148169799` | [Earnings Week PnL Card 比赛今日截止](https://x.com/variational_io/status/2115821014148169799) | 10/30 15:00 UTC 前提交，USDC 奖励
 <!-- watchlist-slug: tweet:2115914875776229589 -->
 - 2026-10-30 | [Twitter] `tweet:2115914875776229589` | [Binance 事件下 Omni 资金安全声明](https://x.com/variational_io/status/2115914875776229589) | 资金在链上合约，可随时提现
+
+<!-- watchlist-slug: discord:1565518573550440652 -->
+- 2026-11-02 | [Discord] `discord:1565518573550440652` | [Omni 积分第46周](https://discord.com/channels/1196857788220067943/1196907421575164015/1565518573550440652) | 150,000 积分发放给 32,293 账户
+<!-- watchlist-slug: discord:1565766176594853940 -->
+- 2026-11-02 | [Discord] `discord:1565766176594853940` | [Variational 双周更新](https://discord.com/channels/1196857788220067943/1196907421575164015/1565766176594853940) | v0.38.2、Trading API 筹备

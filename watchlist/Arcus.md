@@ -77,3 +77,6 @@ dYdX 团队+Robinhood 分发，官方已确认未来 token，现货零费+perps 
 - 2026-10-29 | [Twitter] `tweet:2115519838127091768` | [Season 1 Week 4 积分发放](https://x.com/arcus_xyz/status/2115519838127091768) | 本周发 25 万积分，每周三 3PM ET；交易量 $2.13B
 <!-- watchlist-slug: discord:1565078675320340570 -->
 - 2026-10-29 | [Discord] `discord:1565078675320340570` | [Season 1 Week 4 积分发放](https://discord.com/channels/1499372212585627739/1499427697003204809/1565078675320340570) | 同推特公告
+
+<!-- watchlist-slug: tweet:2116157289631809874 -->
+- 2026-11-02 | [Twitter] `tweet:2116157289631809874` | [Arcus Mobile APAC 上线](https://x.com/arcus_xyz/status/2116157289631809874) | iOS/Android 可下载或预购

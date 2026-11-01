@@ -351,6 +351,9 @@ Dragonfly 和 Electric Capital 都是加密原生一线/强二线机构，对 De
 <!-- watchlist-slug: tweet:2114793719551463604 -->
 - 2026-10-27 | [Twitter] `tweet:2114793719551463604` | [Points 11/8 结束](https://x.com/hibachi_xyz/status/2114793719551463604) | Points 于 11 月 8 日结束，转向稳定币原生 FX 交易所
 
+<!-- watchlist-slug: discord:1566106962377314325 -->
+- 2026-11-02 | [Discord] `discord:1566106962377314325` | [官方澄清尚无 tokenomics](https://discord.com/channels/1255984162004013066/1278139081603153940/1566106962377314325) | MiCAR 白皮书信息不作最终
+
 ## 相关
 
 - [[Web3项目研究]]
