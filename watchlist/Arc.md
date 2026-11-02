@@ -568,6 +568,9 @@ updated: 2026-09-24
 <!-- watchlist-slug: tweet:2116248526078504999 -->
 - 2026-11-02 | [Twitter] `tweet:2116248526078504999` | [Extended 在 Arc 上线现货](https://x.com/arc/status/2116248526078504999) | cirBTC/USDC、wETH/USDC 现货市场开放
 
+<!-- watchlist-slug: tweet:2117399932915347857 -->
+- 2026-11-03 | [Twitter] `tweet:2117399932915347857` | [SafePal × Arc Morpho vault 2.0x boost](https://x.com/arc/status/2117399932915347857) | 存 USDC 到指定 Morpho vault 享 2.0x Arc boost，ongoing
+
 ## 相关
 
 - [[Web3项目研究]]

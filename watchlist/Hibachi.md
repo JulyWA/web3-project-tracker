@@ -354,6 +354,9 @@ Dragonfly 和 Electric Capital 都是加密原生一线/强二线机构，对 De
 <!-- watchlist-slug: discord:1566106962377314325 -->
 - 2026-11-02 | [Discord] `discord:1566106962377314325` | [官方澄清尚无 tokenomics](https://discord.com/channels/1255984162004013066/1278139081603153940/1566106962377314325) | MiCAR 白皮书信息不作最终
 
+<!-- watchlist-slug: tweet:2117337061174702438 -->
+- 2026-11-03 | [Twitter] `tweet:2117337061174702438` | [Playoffs Week 25 结束，1.5x points boost](https://x.com/hibachi_xyz/status/2117337061174702438) | EUR/USD、BTC/USD 最高 1.5x points boost
+
 ## 相关
 
 - [[Web3项目研究]]
