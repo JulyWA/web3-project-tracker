@@ -29,6 +29,9 @@ Spout Finance 是 Solana 上 tokenized US stocks 的 **0% 利息抵押借贷协�
 
 ## 4. 每周跟踪记录
 
+### 2026-11-02
+- 本周无新信号。积分页仍为「testnet 不计分，完整规则在 app 内」；private beta 无公开日期，未见 mainnet / points 上线。
+
 ### 2026-10-26
 
 本周判断：P2 继续观察。探测显示官推 @spout_finance「用户不存在或已停用」（可用率 17%，池内最低），但 10-15 刚披露 $2M 战略轮（Solana Labs 战略背书），项目大概率仍在运营，更像换号或改名；需 July 确认官方新账号。产品仍在 devnet，无参与入口。

@@ -29,6 +29,10 @@ PERPTools 整合 AI 交易 agent + perp DEX + prediction markets，依托 DEXToo
 
 ## 4. 每周跟踪记录
 
+### 2026-11-02
+- 第三方称 Season 2 于 2026-10-02 开始、积分清零重算，周池 100 万分，现货 0 手续费（来源：[Bitrue 指南](https://www.bitrue.com/blog/perptools-airdrop-season-2-guide)，非官方，待复核）。
+- 官方 docs 仍写 TGE 目标 Q4 2026，tokenomics 论文「closer to TGE」未发布。
+
 ### 2026-10-26
 
 本周判断：P1 继续观察。无新增官方信号，Season 2（10-02 起，现货计分）与 TGE 目标 Q4 末均与上周一致。注意：第三方对代币 ticker 写法不一（$PERP / $TOOLS），以官方 docs 为准，暂不影响判断。

@@ -29,6 +29,12 @@ Hack VC 领投 $12M 种子（顶级机构+顶级金额+Nomad/Pi 跟投）是本�
 
 ## 4. 每周跟踪记录
 
+### 2026-11-02
+- **TGE 已完成**：AXIS 于 2026-10-21 上线 Binance Alpha（Alpha Points 可领 Season 1 空投），随后 Upbit / Coinbase 等多所上线（第三方报道，官方 blog/docs 尚未更新，待官方源复核）。来源：[Binance Alpha 上线报道](https://www.onebullex.com/news/articles/binance-alpha-lists-axis-robotics-with-airdrop-claimable-via-alpha-points) · [Coingabbar](https://www.coingabbar.com/en/axis-robotics-airdrop-season-2-launch-with-60m-tokens)
+- **Season 2 开放（2026-10-23）**：sim-to-real 池 6%（60M AXIS），条款未公布；Season 1 池 4%，快照 10-18，Hub 领取窗口至 2027-01-21。仍可在 hub.axisrobotics.ai 签名轨迹赚积分 → 满足「已发币但仍有后续空投」例外。
+- **风险**：单一来源称 10-28 团队钱包砸 42M AXIS、价格约 -40%（ZachXBT，未独立核实）。
+- 判断：不按默认删除；待 July 决定是否升级正式 watchlist。
+
 ### 2026-10-26
 
 本周判断：P1 继续观察。仅见单一二手来源（Bittime，10-21）称 AXIS 将上 Binance Alpha、Season 1 已结束且快照锁定、Season 2 于 10-23 开始，官方与 Binance 均无确认，列入需确认；若属实，则 Season 1 积分窗口已关，Season 2 规则需看官方 docs。

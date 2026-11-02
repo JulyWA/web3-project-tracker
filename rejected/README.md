@@ -2,5 +2,6 @@
 
 Monthly tables, newest first. See README for scope.
 
+- [2026-11](2026-11.md)
 - [2026-10](2026-10.md)
 - [2026-09](2026-09.md)
