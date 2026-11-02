@@ -14,7 +14,7 @@ created: 2026-10-19
 | 分数 | 66.0 |
 | 风险 | 低风险 |
 | 官网 | https://spout.finance |
-| X / Twitter | https://x.com/spout_finance |
+| X / Twitter | https://x.com/SpoutFi |
 | RootData | https://www.rootdata.com/projects/detail/Spout%20Finance?k=MjU1ODg%3D |
 
 ## 2. 初始判断
