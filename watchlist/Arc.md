@@ -571,6 +571,9 @@ updated: 2026-09-24
 <!-- watchlist-slug: tweet:2117399932915347857 -->
 - 2026-11-03 | [Twitter] `tweet:2117399932915347857` | [SafePal × Arc Morpho vault 2.0x boost](https://x.com/arc/status/2117399932915347857) | 存 USDC 到指定 Morpho vault 享 2.0x Arc boost，ongoing
 
+<!-- watchlist-slug: tweet:2117653595881652466 -->
+- 2026-11-04 | [Twitter] `tweet:2117653595881652466` | [USDC on Arc 上线 Ledger Earn](https://x.com/arc/status/2117653595881652466) | Ledger Wallet 用户可经 Morpho vault（Galaxy 策展）存入 USDC
+
 ## 相关
 
 - [[Web3项目研究]]
