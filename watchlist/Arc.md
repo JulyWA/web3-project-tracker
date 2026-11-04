@@ -574,6 +574,9 @@ updated: 2026-09-24
 <!-- watchlist-slug: tweet:2117653595881652466 -->
 - 2026-11-04 | [Twitter] `tweet:2117653595881652466` | [USDC on Arc 上线 Ledger Earn](https://x.com/arc/status/2117653595881652466) | Ledger Wallet 用户可经 Morpho vault（Galaxy 策展）存入 USDC
 
+<!-- watchlist-slug: tweet:2118070786976297161 -->
+- 2026-11-05 | [Twitter] `tweet:2118070786976297161` | [Arc 交易生态已上线](https://x.com/arc/status/2118070786976297161) | 稳定币/cirBTC/代币化资产/借贷/DEX/衍生品基础设施同处 Arc 执行环境
+
 ## 相关
 
 - [[Web3项目研究]]
