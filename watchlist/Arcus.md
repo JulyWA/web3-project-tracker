@@ -83,3 +83,6 @@ dYdX 团队+Robinhood 分发，官方已确认未来 token，现货零费+perps 
 
 <!-- watchlist-slug: tweet:2118075955935887452 -->
 - 2026-11-05 | [Twitter] `tweet:2118075955935887452` | [Season 1 Week 5 积分发放](https://x.com/arcus_xyz/status/2118075955935887452) | 本周发放 250K points，交易量 $2.13B，RWA 量 $1.49B
+
+<!-- watchlist-slug: tweet:2118432132993564898 -->
+- 2026-11-06 | [Twitter] `tweet:2118432132993564898` | [Multi-Asset Collateral 全员上线](https://x.com/arcus_xyz/status/2118432132993564898) | Stock Tokens 和 wETH 可直接作为 perps 保证金
