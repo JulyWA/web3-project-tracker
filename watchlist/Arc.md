@@ -577,6 +577,15 @@ updated: 2026-09-24
 <!-- watchlist-slug: tweet:2118070786976297161 -->
 - 2026-11-05 | [Twitter] `tweet:2118070786976297161` | [Arc 交易生态已上线](https://x.com/arc/status/2118070786976297161) | 稳定币/cirBTC/代币化资产/借贷/DEX/衍生品基础设施同处 Arc 执行环境
 
+<!-- watchlist-slug: tweet:2118772907522297895 -->
+- 2026-11-09 | [Twitter] `tweet:2118772907522297895` | [x402 / Agent 支付直播 Q&A](https://x.com/arc/status/2118772907522297895) | 11/12 10:00 EST 线上直播，可 RSVP
+<!-- watchlist-slug: release:arc-node@v0.8.4 -->
+- 2026-11-09 | [GitHub] `release:arc-node@v0.8.4` | [arc-node v0.8.4](https://github.com/circlefin/arc-node/releases/tag/v0.8.4) | chore 同步
+<!-- watchlist-slug: release:arc-node@v0.8.3 -->
+- 2026-11-09 | [GitHub] `release:arc-node@v0.8.3` | [arc-node v0.8.3](https://github.com/circlefin/arc-node/releases/tag/v0.8.3) | chore 同步
+<!-- watchlist-slug: release:arc-node@v0.8.2 -->
+- 2026-11-09 | [GitHub] `release:arc-node@v0.8.2` | [arc-node v0.8.2](https://github.com/circlefin/arc-node/releases/tag/v0.8.2) | chore 同步
+
 ## 相关
 
 - [[Web3项目研究]]

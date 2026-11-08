@@ -226,3 +226,8 @@ Omni Points 赛季继续按计划运行：每周约 15 万积分，截止不晚�
 - 2026-11-02 | [Discord] `discord:1565518573550440652` | [Omni 积分第46周](https://discord.com/channels/1196857788220067943/1196907421575164015/1565518573550440652) | 150,000 积分发放给 32,293 账户
 <!-- watchlist-slug: discord:1565766176594853940 -->
 - 2026-11-02 | [Discord] `discord:1565766176594853940` | [Variational 双周更新](https://discord.com/channels/1196857788220067943/1196907421575164015/1565766176594853940) | v0.38.2、Trading API 筹备
+
+<!-- watchlist-slug: discord:1568062920376717332 -->
+- 2026-11-09 | [Discord] `discord:1568062920376717332` | [Omni 积分计划第 47 周发放](https://x.com/variational_io/status/2118504033493328272) | 150,000 积分发放给 31,959 个账户
+<!-- watchlist-slug: tweet:2118504033493328272 -->
+- 2026-11-09 | [Twitter] `tweet:2118504033493328272` | [Omni 积分计划第 47 周发放](https://x.com/variational_io/status/2118504033493328272) | 同上
