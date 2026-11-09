@@ -29,6 +29,11 @@ InfiniFi 将传统银行「分数储备」概念搬到 onchain 稳定币，存�
 
 ## 4. 每周跟踪记录
 
+### 2026-11-09
+- **待核实的限时信号**：二手来源 [CoinGabbar](https://www.coingabbar.com/en/infinifi-airdrop-registration-is-live-wallet-claim-infi-tge)（11-04）称空投钱包登记已开放，截止 2026-11-10 15:30 UTC；称 Season 1/2 snapshot 已完成，Day-1 至少 500 INFI 可流通。未引用具体官推 ID / 文档，尚未对照官方源核实，登记入口应以 app.infinifi.xyz 与官推为准（警惕钓鱼站）。
+- 仍未公布：总量、vesting、TGE 具体日期、claim 页面；官方口径仍是 Q4 2026 目标。
+- 判断：P1 继续观察；是否登记取决于 July 在 Season 1/2 期间是否已有仓位（snapshot 已过，现在新存款不影响已定分配）。
+
 ### 2026-11-02
 - **INFI tokenomics 首次公布（2026-10-14 官推）**：生态 45% / 团队 20% / 投资人 20% / 基金会 15%，社区空投从生态份额出。来源：[Coingabbar 汇总](https://www.coingabbar.com/en/infinifi-token-launch-date-tokenomics-infi-airdrop-updates)（转引官推，待官方源复核）。
 - 仍未公布：总量、vesting、TGE 注册 / 快照 / claim 日期；官方口径仍是 Q4 2026「coming soon」。
