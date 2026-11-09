@@ -357,6 +357,9 @@ Dragonfly 和 Electric Capital 都是加密原生一线/强二线机构，对 De
 <!-- watchlist-slug: tweet:2117337061174702438 -->
 - 2026-11-03 | [Twitter] `tweet:2117337061174702438` | [Playoffs Week 25 结束，1.5x points boost](https://x.com/hibachi_xyz/status/2117337061174702438) | EUR/USD、BTC/USD 最高 1.5x points boost
 
+<!-- watchlist-slug: tweet:2119878541403906074 -->
+- 2026-11-10 | [Twitter] `tweet:2119878541403906074` | [Points Program 已结束](https://x.com/hibachi_xyz/status/2119878541403906074) | 积分计划结束，转向机构 FX；未提 token/空投
+
 ## 相关
 
 - [[Web3项目研究]]

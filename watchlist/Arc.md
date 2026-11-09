@@ -586,6 +586,11 @@ updated: 2026-09-24
 <!-- watchlist-slug: release:arc-node@v0.8.2 -->
 - 2026-11-09 | [GitHub] `release:arc-node@v0.8.2` | [arc-node v0.8.2](https://github.com/circlefin/arc-node/releases/tag/v0.8.2) | chore 同步
 
+<!-- watchlist-slug: tweet:2119837429335023688 -->
+- 2026-11-10 | [Twitter] `tweet:2119837429335023688` | [Interop on Arc 降费](https://x.com/arc/status/2119837429335023688) | CCTP/Gateway 费用减免
+<!-- watchlist-slug: tweet:2119859896476958734 -->
+- 2026-11-10 | [Twitter] `tweet:2119859896476958734` | [k3 cirBTC delta-neutral vault 上线](https://x.com/arc/status/2119859896476958734) | Arc 上 cirBTC 策略金库（转推）
+
 ## 相关
 
 - [[Web3项目研究]]
