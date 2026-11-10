@@ -86,3 +86,8 @@ dYdX 团队+Robinhood 分发，官方已确认未来 token，现货零费+perps 
 
 <!-- watchlist-slug: tweet:2118432132993564898 -->
 - 2026-11-06 | [Twitter] `tweet:2118432132993564898` | [Multi-Asset Collateral 全员上线](https://x.com/arcus_xyz/status/2118432132993564898) | Stock Tokens 和 wETH 可直接作为 perps 保证金
+
+<!-- watchlist-slug: tweet:2120246299383763171 -->
+- 2026-11-11 | [Twitter] `tweet:2120246299383763171` | [未授权提款漏洞已修复](https://x.com/arcus_xyz/status/2120246299383763171) | 无用户资金受影响，缺口由金库补足
+<!-- watchlist-slug: discord:1569804995937833012 -->
+- 2026-11-11 | [Discord] `discord:1569804995937833012` | [未授权提款漏洞已修复](https://discord.com/channels/1499372212585627739/1499427697003204809/1569804995937833012) | 同推特事故通报

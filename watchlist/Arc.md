@@ -591,6 +591,11 @@ updated: 2026-09-24
 <!-- watchlist-slug: tweet:2119859896476958734 -->
 - 2026-11-10 | [Twitter] `tweet:2119859896476958734` | [k3 cirBTC delta-neutral vault 上线](https://x.com/arc/status/2119859896476958734) | Arc 上 cirBTC 策略金库（转推）
 
+<!-- watchlist-slug: tweet:2120217797859184942 -->
+- 2026-11-11 | [Twitter] `tweet:2120217797859184942` | [Extended 支持 EURC 作保证金](https://x.com/arc/status/2120217797859184942) | 可存入 EURC 作永续合约保证金
+<!-- watchlist-slug: tweet:2120199810712322530 -->
+- 2026-11-11 | [Twitter] `tweet:2120199810712322530` | [BVNK 上线 Arc](https://x.com/arc/status/2120199810712322530) | Onramp Kit 支持银行转账入金 USDC
+
 ## 相关
 
 - [[Web3项目研究]]
