@@ -596,6 +596,9 @@ updated: 2026-09-24
 <!-- watchlist-slug: tweet:2120199810712322530 -->
 - 2026-11-11 | [Twitter] `tweet:2120199810712322530` | [BVNK 上线 Arc](https://x.com/arc/status/2120199810712322530) | Onramp Kit 支持银行转账入金 USDC
 
+<!-- watchlist-slug: tweet:2120584848473780698 -->
+- 2026-11-12 | [Twitter] `tweet:2120584848473780698` | [Technical Office Hours 11/12 8AM ET](https://x.com/arc/status/2120584848473780698) | Arc Studio CLI 搭建 USDC checkout
+
 ## 相关
 
 - [[Web3项目研究]]
