@@ -599,6 +599,9 @@ updated: 2026-09-24
 <!-- watchlist-slug: tweet:2120584848473780698 -->
 - 2026-11-12 | [Twitter] `tweet:2120584848473780698` | [Technical Office Hours 11/12 8AM ET](https://x.com/arc/status/2120584848473780698) | Arc Studio CLI 搭建 USDC checkout
 
+<!-- watchlist-slug: tweet:2120924595691921430 -->
+- 2026-11-13 | [Twitter] `tweet:2120924595691921430` | [Agent 注册与雇用流程演示](https://x.com/arc/status/2120924595691921430) | 官方发布 Arc Studio 注册 Agent、经 Arc Portal 雇用的流程演示，展示明确任务范围、预算及工作记录；属于功能预览，未给出开放时间或奖励承诺。
+
 ## 相关
 
 - [[Web3项目研究]]
