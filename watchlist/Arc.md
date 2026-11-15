@@ -602,6 +602,11 @@ updated: 2026-09-24
 <!-- watchlist-slug: tweet:2120924595691921430 -->
 - 2026-11-13 | [Twitter] `tweet:2120924595691921430` | [Agent 注册与雇用流程演示](https://x.com/arc/status/2120924595691921430) | 官方发布 Arc Studio 注册 Agent、经 Arc Portal 雇用的流程演示，展示明确任务范围、预算及工作记录；属于功能预览，未给出开放时间或奖励承诺。
 
+<!-- watchlist-slug: tweet:2121332274775966177 -->
+- 2026-11-16 | [Twitter] `tweet:2121332274775966177` | [Eco × Sauce SDK 线上活动（11/18）](https://x.com/arc/status/2121332274775966177) | Arc House 线上活动，介绍用 Sauce SDK 与 Arc Studio 构建条件稳定币流程；11月18日23:00 SGT开始
+<!-- watchlist-slug: tweet:2121377568330785278 -->
+- 2026-11-16 | [Twitter] `tweet:2121377568330785278` | [Arckive 开源索引器公布 PostgreSQL 事件索引方案](https://x.com/arc/status/2121377568330785278) | 自托管开源索引器将 Arc 合约事件写入 Postgres，适合支付对账、钱包历史与监控看板；性能数据为项目自报
+
 ## 相关
 
 - [[Web3项目研究]]

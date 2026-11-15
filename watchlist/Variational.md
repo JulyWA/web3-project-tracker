@@ -234,3 +234,6 @@ Omni Points 赛季继续按计划运行：每周约 15 万积分，截止不晚�
 
 <!-- watchlist-slug: tweet:2120538337815736402 -->
 - 2026-11-12 | [Twitter] `tweet:2120538337815736402` | [Omni 私测结束，Public Mainnet 开放](https://x.com/variational_io/status/2120538337815736402) | 无需 referral code，550+ 市场开放交易
+
+<!-- watchlist-slug: discord:1570632464458846208 -->
+- 2026-11-16 | [Discord] `discord:1570632464458846208` | [首届 Public Mainnet 交易竞赛，奖池 50,000 USDC](https://discord.com/channels/1196857788220067943/1196907421575164015/1570632464458846208) | PnL × √Volume 排名，最低25万USDC名义交易量，前100名获奖且需KYC；12月1日00:00 UTC截止
