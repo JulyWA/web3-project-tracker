@@ -1,5 +1,5 @@
 ---
-status: pre-watchlist
+status: rejected
 created: 2026-09-28
 ---
 
@@ -14,7 +14,7 @@ created: 2026-09-28
 | 分数 | 73 |
 | 风险 | 低风险 |
 | 官网 | https://www.infinifi.xyz |
-| X / Twitter | https://x.com/infinifilabs |
+| X / Twitter | https://x.com/infiniFi |
 | RootData | https://www.rootdata.com/Projects/detail/InfiniFi |
 
 ## 2. 初始判断
@@ -32,10 +32,11 @@ InfiniFi 将传统银行「分数储备」概念搬到 onchain 稳定币，存�
 ### 2026-11-16
 <!-- watchlist-slug: airdrop:infinifi:registration-closed-season-3-live -->
 <!-- watchlist-slug: token:infinifi:winfi-tge-locked-emissions -->
+- **July 判断：降级退出观察池。** 此前未参与 Seasons 1/2，当前空投登记已于 11-10 关闭，无法补进本轮分配；不为 Season 3 另开资金参与。
 - **进入 TGE/空投执行窗口**：官方确认 INFI 空投登记已于 11-10 关闭，当前准备 TGE，具体时间和后续步骤即将公布；Season 3 已上线，继续使用协议可累积积分并争取后续 INFI 分配。[官方说明](https://x.com/infiniFi/status/2120178611227701611)
 - Season 3 会获得 Seasons 1/2 未领取 INFI 的一部分作为加成，YT 持有者另有一层积分加成；TGE 时将上线 wINFI，锁仓持有者按占比分享固定 INFI 排放，并参与后续治理和生态权益。[Season 3 加成](https://x.com/infiniFi/status/2120595229229392338) · [wINFI](https://x.com/infiniFi/status/2122043292216959116)
 - 判断：达到正式 Watchlist 条件，建议 July 决定是否升级并检查已有仓位、Season 3 参与方式与 TGE 领取安排。风险是登记窗口已过，只有在 Seasons 1/2 快照内且完成登记的地址进入当前空投；Season 3 为后续分配，不等同于已确定份额。
-- 数据质量：表格配置的官推仍是 `@infiniFilabs`，官网 docs 实际链接为 `@infiniFi`；本轮已按官方实际账号核验，建议后续在飞书表中更正。
+- 数据质量：官网 docs 指向的实际官推为 `@infiniFi`；2026-11-16 已同步修正本地配置与飞书项目表。
 
 ### 2026-11-09
 - **待核实的限时信号**：二手来源 [CoinGabbar](https://www.coingabbar.com/en/infinifi-airdrop-registration-is-live-wallet-claim-infi-tge)（11-04）称空投钱包登记已开放，截止 2026-11-10 15:30 UTC；称 Season 1/2 snapshot 已完成，Day-1 至少 500 INFI 可流通。未引用具体官推 ID / 文档，尚未对照官方源核实，登记入口应以 app.infinifi.xyz 与官推为准（警惕钓鱼站）。
@@ -80,3 +81,5 @@ InfiniFi 将传统银行「分数储备」概念搬到 onchain 稳定币，存�
 
 | 2026-10-14 | C5 下修回滚 | active | **回滚上一条的下修**（July 拍板）：空投预期 6.4 → **6.9**，总分 65.5 → **66.75**，改判为**相连**。我原判不相连，理由是官方唯一近似表述「badge **may matter for** special perks, early-access, or future reserve/benefit allocations」主语是 badge 非 points、措辞模糊、未明说代币。July 回滚 —— 连同 Arcus 那次判定一起确立了 C5 的判法：**「相连」是存在性测试不是强度测试**，官方只要有「代币/额度分配将依据某种参与行为」的表述即算相连，措辞强弱、渠道是否为本项目积分、是否另有免责条款均不影响；只有**完全没有**分配依据表述才判不相连（如 Paimon）。故「future reserve/benefit allocations」+ badge 由参与行为获得 = 链条存在 = 相连 |
 | 2026-10-14 | 据官方新证据重打分 | active | **66.75 → 72.5**（在池第 4）。**触发源是当天刚接通的 Discord 公告频道**读到「Meet INFI」，顺藤核到联创 Rob Montgomery(@RobAnon) **2026-08-26** 的官方长帖。**①空投预期 6.9→7.4（A 7→8）**：官方「infiniFi will launch our token in **Q4 2026**」+ 「Season 1 and Season 2 points earned to date have **fixed allocations and will not be diluted**」→ 完全命中 7-8 档的「且」条件，且「已固定、不稀释」属档内最硬，取上限 8。**未给 9-10** 因该档要求「规则或快照机制已公布」，而官方路线图的 Token documentation and Tokenomics / TGE Registration and Eligibility Release / Final snapshot **三项均未发生**，10-13 那条只是 a first look 且内容在视频里。**②团队安全 3→6**：**两个子项都是查得到却没查**——审计子项原按「推断有审计」给 1，实为 docs 有专门 Security 页（docs.infinifi.xyz/audits.md）列 **Spearbit(2025-04)+5份addendum / Cantina Crowd(2025-05) / Certora 形式化验证(2025-05) / TestMachine 渗透(2025-06) / Three Sigma 持续**五家审计，另有 Hypernative 监控 + Cantina 赏金，治理为 **4/7 多签 + 1天/7天 timelock**（多签 0x80608f…可查）→ 应给满分 3；实名子项原 2，实为联创 Rob Montgomery 与 Co-Founder Matt 均具名 → 3。已按硬规则补 **official_quotes 六条**。**ROI 卡收益侧结论不变仍「无法估算」，但理由完全换了**：不再是「官方什么都没公布」（那是遗漏），而是「TGE 与分配原则已公布、只差总供应量与具体比例」→ **本池里最接近可算的一条**，官方下一步就是发 Tokenomics。旁证：15 个月运营、$8.75M 回报给 5,000+ 存款人、$850K 年协议收入、**零安全事故零存款损失**，扛过 Resolv 漏洞致 $60M 48 小时蒸发等 5 次冲击、累计清算 $750M 赎回且始终同区块赎回。**教训：两处都不是新信息，是当时没查到**——官方长帖早 7 周、审计页一直在 docs 里。 |
+
+| 2026-11-16 | 取消关注 | rejected | 2026-W47 July 判断：此前未参与 Seasons 1/2，空投登记已于 11-10 关闭，无法补进本轮分配；降级退出观察池，不为 Season 3 另开资金参与 |
