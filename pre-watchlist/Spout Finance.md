@@ -29,6 +29,11 @@ Spout Finance 是 Solana 上 tokenized US stocks 的 **0% 利息抵押借贷协�
 
 ## 4. 每周跟踪记录
 
+### 2026-11-16
+<!-- watchlist-slug: product:spout-finance:ondo-stock-collateral-integration -->
+- 官方发布与 Ondo 的合作预告，计划让用户在 Spout 上线 Solana 后，用 Ondo Stocks 作抵押借出 USDC，最高按抵押品价值的 50% 借款；成本由备兑看涨期权权利金覆盖，而不是借款人利息。[官方预告](https://x.com/SpoutFi/status/2120979753280967125) · [The Defiant](https://thedefiant.io/news/defi/ondo-backs-spout-plan-for-no-interest-stock-token-loans)
+- 判断：维持 P1，但当前仍是“计划上线”状态，不是已经可用的主网入口，不能按现成任务或空投窗口升级。后续重点确认 Solana 上线日期、支持资产、地区/KYC 限制及积分是否与真实协议费挂钩。
+
 ### 2026-11-09
 - 无新信号。产品仍在 Solana devnet / private beta，无 mainnet 日期；积分与代币分配官方未承诺。官推探测本周恢复正常（@SpoutFi），10-26 的账号失联疑虑解除。Telegram 为私有邀请链接，读不到，非配置错误。
 - 数据质量：缺博客 / GitHub / Discord 公告链接。

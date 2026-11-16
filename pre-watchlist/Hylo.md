@@ -29,6 +29,12 @@ Hylo 是 **Solana 上杠杆稳定币 yield 协议**，Solana Ventures 二次加�
 
 ## 4. 每周跟踪记录
 
+### 2026-11-16
+<!-- watchlist-slug: airdrop:hylo:xp-wallet-consolidation -->
+- Hylo Journey 新增 XP 合并：最多可把 5 个钱包的 XP 汇总到一个主钱包，覆盖 FOMO、Fuse Wallet 及其他来源，也可迁入旧钱包或疑似受损钱包中的 XP。[官方说明](https://x.com/hylo_so/status/2120566390281191544)
+- 判断：维持 P1。积分系统仍活跃，多钱包归并降低了历史分散 XP 的管理成本；但官方仍未说明 XP 与代币、空投或兑换比例的关系，暂不构成升级资料。本周可先核对是否有分散钱包需要归并，无需新增资金。
+- 数据质量：探测可用率 33%，主要由博客、GitHub、Telegram、Discord 未配置造成；官网和官推本次均成功探测。
+
 ### 2026-11-09
 - 复盘节点（2026-11-09）到期：搜索未见官方 TGE / airdrop / snapshot 表述，XP 仍是赛季制积分，赛季编号与截止时间未公布；第三方称 XP 是空投前兆，属推测。判断：维持 P1，维持 74.9 不升重点，待 July 确认是否延长观察。
 - 数据质量：缺博客 / GitHub / Telegram / Discord 公告链接（flag_missing_links），探测可用率 33%。

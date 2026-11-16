@@ -29,6 +29,14 @@ InfiniFi 将传统银行「分数储备」概念搬到 onchain 稳定币，存�
 
 ## 4. 每周跟踪记录
 
+### 2026-11-16
+<!-- watchlist-slug: airdrop:infinifi:registration-closed-season-3-live -->
+<!-- watchlist-slug: token:infinifi:winfi-tge-locked-emissions -->
+- **进入 TGE/空投执行窗口**：官方确认 INFI 空投登记已于 11-10 关闭，当前准备 TGE，具体时间和后续步骤即将公布；Season 3 已上线，继续使用协议可累积积分并争取后续 INFI 分配。[官方说明](https://x.com/infiniFi/status/2120178611227701611)
+- Season 3 会获得 Seasons 1/2 未领取 INFI 的一部分作为加成，YT 持有者另有一层积分加成；TGE 时将上线 wINFI，锁仓持有者按占比分享固定 INFI 排放，并参与后续治理和生态权益。[Season 3 加成](https://x.com/infiniFi/status/2120595229229392338) · [wINFI](https://x.com/infiniFi/status/2122043292216959116)
+- 判断：达到正式 Watchlist 条件，建议 July 决定是否升级并检查已有仓位、Season 3 参与方式与 TGE 领取安排。风险是登记窗口已过，只有在 Seasons 1/2 快照内且完成登记的地址进入当前空投；Season 3 为后续分配，不等同于已确定份额。
+- 数据质量：表格配置的官推仍是 `@infiniFilabs`，官网 docs 实际链接为 `@infiniFi`；本轮已按官方实际账号核验，建议后续在飞书表中更正。
+
 ### 2026-11-09
 - **待核实的限时信号**：二手来源 [CoinGabbar](https://www.coingabbar.com/en/infinifi-airdrop-registration-is-live-wallet-claim-infi-tge)（11-04）称空投钱包登记已开放，截止 2026-11-10 15:30 UTC；称 Season 1/2 snapshot 已完成，Day-1 至少 500 INFI 可流通。未引用具体官推 ID / 文档，尚未对照官方源核实，登记入口应以 app.infinifi.xyz 与官推为准（警惕钓鱼站）。
 - 仍未公布：总量、vesting、TGE 具体日期、claim 页面；官方口径仍是 Q4 2026 目标。

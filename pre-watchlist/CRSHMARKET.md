@@ -35,3 +35,8 @@ created: 2026-11-09
 | 2026-11-09 | 新建 pre-watchlist 项目页 | active | 通过 pre-watchlist upsert/intake 首次加入或更新 |
 
 ## 4. 每周跟踪记录
+
+### 2026-11-16
+- 本周无值得上报的新信号。官方宣布赞助 Crossfire CS League，属于一般品牌合作，未见新的空投、积分规则、奖励资格或可参与入口，按硬过滤不进入周报正文。[官方公告](https://x.com/crshmarket/status/2122033905783976190)
+- 判断：维持 P3 和“只监控空投消息、不参与”。积分仍是月度奖品机制，官方未表态发币；如后续明确 token/airdrop 规则再重评。
+- 数据质量：探测可用率 33%，主要由博客、GitHub、Telegram、Discord 未配置造成；官网和官推本次均成功探测。

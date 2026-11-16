@@ -29,6 +29,12 @@ PERPTools 整合 AI 交易 agent + perp DEX + prediction markets，依托 DEXToo
 
 ## 4. 每周跟踪记录
 
+### 2026-11-16
+<!-- watchlist-slug: product:perptools:spot-zero-fees -->
+- 官方将 Spot Trading 平台手续费降至 0%，覆盖支持的链；官方文档确认 Season 2 每周五 13:00 UTC 分发 50 万积分，现货与永续交易均计入，`$TOOLS` TGE 目标仍为 Q4 2026。[官方公告](https://x.com/PERPTools/status/2120863933838008825) · [Points 文档](https://docs.perptools.ai/llms-full.txt)
+- 判断：维持 P1。零手续费降低了 Season 2 用现货累积积分的摩擦，但此前 July 已决定暂不参与，主要顾虑的钱包兼容与团队透明度没有因本次更新解除；本周暂不需要新增投入。
+- 数据质量：官网探测失败（SSL/DNS），但官方 X 与 docs 可访问，未影响本次判断。
+
 ### 2026-11-09
 - 无新信号。TGE 仍为 late Q4 2026 目标，无具体日期；tokenomics 论文未发布。Season 2（10-02 起，积分清零）周池口径二手来源不一致（100 万 vs 50 万），以官方 dashboard 为准。
 
