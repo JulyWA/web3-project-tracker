@@ -607,6 +607,9 @@ updated: 2026-09-24
 <!-- watchlist-slug: tweet:2121377568330785278 -->
 - 2026-11-16 | [Twitter] `tweet:2121377568330785278` | [Arckive 开源索引器公布 PostgreSQL 事件索引方案](https://x.com/arc/status/2121377568330785278) | 自托管开源索引器将 Arc 合约事件写入 Postgres，适合支付对账、钱包历史与监控看板；性能数据为项目自报
 
+<!-- watchlist-slug: tweet:2122374143454642650 -->
+- 2026-11-17 | [Twitter] `tweet:2122374143454642650` | [Arc Studio 支持 Uniswap](https://x.com/arc/status/2122374143454642650) | 官方新增 Uniswap skill，开发者可生成 swaps、报价与流动性集成，适合在 Arc Studio 搭建最小演示
+
 ## 相关
 
 - [[Web3项目研究]]
