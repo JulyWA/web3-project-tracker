@@ -610,6 +610,13 @@ updated: 2026-09-24
 <!-- watchlist-slug: tweet:2122374143454642650 -->
 - 2026-11-17 | [Twitter] `tweet:2122374143454642650` | [Arc Studio 支持 Uniswap](https://x.com/arc/status/2122374143454642650) | 官方新增 Uniswap skill，开发者可生成 swaps、报价与流动性集成，适合在 Arc Studio 搭建最小演示
 
+<!-- watchlist-slug: tweet:2122729818223706573 -->
+- 2026-11-18 | [Twitter] `tweet:2122729818223706573` | [Pulsar 上线 Arc 永续交易入口](https://x.com/PulsarMoneyApp/status/2122677631032361239) | Pulsar 已支持 Arc 上的永续合约交易，扩展普通用户参与路径。
+<!-- watchlist-slug: tweet:2122798529584550238 -->
+- 2026-11-18 | [Twitter] `tweet:2122798529584550238` | [Extended 支持 EURC 作为 300+ 市场保证金](https://x.com/extendedapp/status/2122796827816644654) | Extended 在 Arc 上支持 EURC 作为 300+ 市场保证金，扩大稳定币交易用途。
+<!-- watchlist-slug: tweet:2122730007223238725 -->
+- 2026-11-18 | [Twitter] `tweet:2122730007223238725` | [edgeX Month 2 在 Arc 的用户与 TVL 增长](https://x.com/edgeX_exchange/status/2122595541536460825) | edgeX 披露交易量 +46%、累计用户 +620%、TVL +91%。
+
 ## 相关
 
 - [[Web3项目研究]]
