@@ -360,6 +360,9 @@ Dragonfly 和 Electric Capital 都是加密原生一线/强二线机构，对 De
 <!-- watchlist-slug: tweet:2119878541403906074 -->
 - 2026-11-10 | [Twitter] `tweet:2119878541403906074` | [Points Program 已结束](https://x.com/hibachi_xyz/status/2119878541403906074) | 积分计划结束，转向机构 FX；未提 token/空投
 
+<!-- watchlist-slug: discord:1572695938055807090 -->
+- 2026-11-19 | [Discord] `discord:1572695938055807090` | [积分分配将受 Sybil 审查影响](https://discord.com/channels/1255984162004013066/1278139081603153940/1572695938055807090) | 官方识别显著 Sybil 活动，规模待确认且会影响 allocation；完整 tokenomics 待发布
+
 ## 相关
 
 - [[Web3项目研究]]

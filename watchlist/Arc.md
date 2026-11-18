@@ -617,6 +617,9 @@ updated: 2026-09-24
 <!-- watchlist-slug: tweet:2122730007223238725 -->
 - 2026-11-18 | [Twitter] `tweet:2122730007223238725` | [edgeX Month 2 在 Arc 的用户与 TVL 增长](https://x.com/edgeX_exchange/status/2122595541536460825) | edgeX 披露交易量 +46%、累计用户 +620%、TVL +91%。
 
+<!-- watchlist-slug: tweet:2123098915348021429 -->
+- 2026-11-19 | [Twitter] `tweet:2123098915348021429` | [新增 USDC-cirBTC swaps 开发教程](https://x.com/arc/status/2123098915348021429) | 官方演示用 Arc Studio 的 Uniswap skill 与 Claude Code 搭建消费级 Bitcoin 应用
+
 ## 相关
 
 - [[Web3项目研究]]

@@ -237,3 +237,6 @@ Omni Points 赛季继续按计划运行：每周约 15 万积分，截止不晚�
 
 <!-- watchlist-slug: discord:1570632464458846208 -->
 - 2026-11-16 | [Discord] `discord:1570632464458846208` | [首届 Public Mainnet 交易竞赛，奖池 50,000 USDC](https://discord.com/channels/1196857788220067943/1196907421575164015/1570632464458846208) | PnL × √Volume 排名，最低25万USDC名义交易量，前100名获奖且需KYC；12月1日00:00 UTC截止
+
+<!-- watchlist-slug: tweet:2123059725097177228 -->
+- 2026-11-19 | [Twitter] `tweet:2123059725097177228` | [完成 1.1 亿美元 B 轮融资，估值 15 亿美元](https://x.com/variational_io/status/2123059725097177228) | Bain Capital Crypto 领投；资金用于提高 OI 上限、扩充市场并推进公开交易 API
