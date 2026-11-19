@@ -99,3 +99,6 @@ dYdX 团队+Robinhood 分发，官方已确认未来 token，现货零费+perps 
 - 2026-11-19 | [Twitter] `tweet:2123182766930194863` | [maker 份额新增 Tier 5 / Tier 6 费率资格](https://x.com/arcus_xyz/status/2123182766930194863) | 30 天 maker 份额超过 1.5% 可达 T5、超过 4% 可达 T6；取份额与成交量等级较高者
 <!-- watchlist-slug: tweet:2123148542005129566 -->
 - 2026-11-19 | [Twitter] `tweet:2123148542005129566` | [Season 1 Week 7 发放 25 万积分](https://x.com/arcus_xyz/status/2123148542005129566) | 本周交易量 20.2 亿美元、RWA 交易量 13.8 亿美元；积分按周在周三 15:00 ET 发放
+
+<!-- watchlist-slug: tweet:2123464697806819795 -->
+- 2026-11-20 | [Twitter] `tweet:2123464697806819795` | [ANT 永续上线，叠加 S1 积分加成与手续费优惠](https://x.com/arcus_xyz/status/2123464697806819795) | taker fee 降低 75%、maker 免佣并提升 S1 积分；属于积分型交易活动，存在积分非空投承诺、杠杆清算和地区限制风险
