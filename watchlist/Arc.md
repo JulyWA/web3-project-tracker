@@ -620,6 +620,9 @@ updated: 2026-09-24
 <!-- watchlist-slug: tweet:2123098915348021429 -->
 - 2026-11-19 | [Twitter] `tweet:2123098915348021429` | [新增 USDC-cirBTC swaps 开发教程](https://x.com/arc/status/2123098915348021429) | 官方演示用 Arc Studio 的 Uniswap skill 与 Claude Code 搭建消费级 Bitcoin 应用
 
+<!-- watchlist-slug: tweet:2123959585237311824 -->
+- 2026-11-23 | [Twitter] `tweet:2123959585237311824` | [Gauntlet 策展的 Earn Vault 开放早期访问](https://x.com/arc/status/2123959585237311824) | Arc Portal 开放 Gauntlet Earn Vault 早期访问；Veda 提供 vault 基础设施、Gauntlet 负责策略策展，起始策略接入 Morpho，开放日、额度、收益率和地区限制待披露
+
 ## 相关
 
 - [[Web3项目研究]]
