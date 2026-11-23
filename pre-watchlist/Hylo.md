@@ -14,7 +14,7 @@ created: 2026-10-26
 | 分数 | 74.9 |
 | 风险 | 低风险 |
 | 官网 | https://hylo.so |
-| X / Twitter | - |
+| X / Twitter | https://x.com/hylo_so |
 | RootData | https://www.rootdata.com/projects/detail/Hylo?k=MTk4NzY%3D |
 
 ## 2. 初始判断
@@ -28,6 +28,11 @@ Hylo 是 **Solana 上杠杆稳定币 yield 协议**，Solana Ventures 二次加�
 | 2026-10-26 | 新建 pre-watchlist 项目页 | active | 通过 pre-watchlist upsert/intake 首次加入或更新 |
 
 ## 4. 每周跟踪记录
+
+### 2026-11-23
+- 本周没有新增可参与入口、积分资格或代币状态变化。官方近 7 天提到 xYield 预告、Mythos 5.2 安全审查（未发现 critical/high/medium 问题）及日常产品数据；XP 文档仍未给出赛季编号、截止时间或兑换承诺。[xYield 预告](https://x.com/hylo_so/status/2124228350965326319) · [安全审查](https://x.com/hylo_so/status/2123807317816750286)
+- 判断：维持 P1。XP 仍可持续累积，但当前没有需要新增资金或调整仓位的决定；继续等待 XP 兑换或空投规则。
+- 数据质量：探测可用率 33%，主要因博客、GitHub、Telegram、Discord 未配置；官网和官推均正常。
 
 ### 2026-11-16
 <!-- watchlist-slug: airdrop:hylo:xp-wallet-consolidation -->

@@ -11,7 +11,7 @@ created: 2026-10-09
 |---|---|
 | 项目 ID | perptools |
 | 状态 | pre-watchlist / active |
-| 分数 | 62.5 |
+| 分数 | 66.5 |
 | 风险 | 中风险 |
 | 官网 | https://perptools.ai |
 | X / Twitter | https://x.com/PERPTools |
@@ -28,6 +28,13 @@ PERPTools 整合 AI 交易 agent + perp DEX + prediction markets，依托 DEXToo
 | 2026-10-09 | 新建 pre-watchlist 项目页 | active | 通过 pre-watchlist upsert/intake 首次加入或更新 |
 
 ## 4. 每周跟踪记录
+
+### 2026-11-23
+<!-- watchlist-slug: product:perptools:layerzero-atlas-nov30 -->
+- PERPTools 与 LayerZero 官方同步宣布，永续交易将独家迁移至 LayerZero ATLAS，11 月 30 日随 Zero 主网首批上线；官方称订单执行低于 1 毫秒，并可承接 DEXTools 的 3,000 万以上交易用户。[PERPTools 公告](https://x.com/PERPTools/status/2123418023277268994) · [LayerZero 公告](https://x.com/LayerZero_Core/status/2123419805634248903)
+- 当前官方文档仍以 Orderly 为交易基础设施，尚未说明迁移后的存量仓位、API、积分或提现处理，11 月 30 日的实际可用状态需以上线公告为准。Season 2 每周 50 万积分和 `$TOOLS` Q4 2026 TGE 目标未变。
+- 判断：维持 P1。新交易引擎可能改变执行力与后续参与体验，但尚无新增资金/空投资格窗口；继续核对 TGE 具体日期和 tokenomics 论文。
+- 数据质量：探测可用率 50%，主要因博客、Telegram、Discord 未配置；官网、官推和 GitHub 正常。
 
 ### 2026-11-16
 <!-- watchlist-slug: product:perptools:spot-zero-fees -->

@@ -11,7 +11,7 @@ created: 2026-08-03
 |---|---|
 | 项目 ID | axis-robotics |
 | 状态 | pre-watchlist / active |
-| 分数 | 71.5 |
+| 分数 | 74.0 |
 | 风险 | 低风险 |
 | 官网 | https://axisrobotics.ai/ |
 | X / Twitter | https://x.com/AxisRobotics |
@@ -28,6 +28,13 @@ Hack VC 领投 $12M 种子（顶级机构+顶级金额+Nomad/Pi 跟投）是本�
 | 2026-08-03 | 新建 pre-watchlist 项目页 | active | 通过 pre-watchlist upsert/intake 首次加入或更新 |
 
 ## 4. 每周跟踪记录
+
+### 2026-11-23
+<!-- watchlist-slug: product:axis-robotics:skills-atlas -->
+- 官方发布 AXIS Skills Atlas，把 11,199 个真实机器人操作任务和 14.6 TB 开放数据按技能、机器人形态与难度组织，并开放任务检索和 CSV 导出。[Skills Atlas](https://skills.axisrobotics.ai/) · [官方发布](https://x.com/AxisRobotics/status/2122963113419133010)
+- 官方同时把仿真训练答疑改为每周进行；现有规则仍是按通过验证的轨迹直接发放 AXIS，难度越高奖励越高。Skills Atlas 有助于筛选任务，但本周没有新的空投资格或奖励比例变化。
+- 判断：维持 P1。可继续评估单任务耗时与 AXIS 实际价值，暂不扩量。
+- 数据质量：探测可用率 67%，官网、官推、博客和 GitHub 正常；Telegram 与 Discord 未配置。
 
 ### 2026-11-16
 <!-- watchlist-slug: activity:axis-robotics:season-2-axis-rewards -->
