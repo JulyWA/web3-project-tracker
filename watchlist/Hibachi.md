@@ -363,6 +363,9 @@ Dragonfly 和 Electric Capital 都是加密原生一线/强二线机构，对 De
 <!-- watchlist-slug: discord:1572695938055807090 -->
 - 2026-11-19 | [Discord] `discord:1572695938055807090` | [积分分配将受 Sybil 审查影响](https://discord.com/channels/1255984162004013066/1278139081603153940/1572695938055807090) | 官方识别显著 Sybil 活动，规模待确认且会影响 allocation；完整 tokenomics 待发布
 
+<!-- watchlist-slug: discord:1574552875151917176 -->
+- 2026-11-24 | [Discord] `discord:1574552875151917176` | [Hibachi NFT 迁移领取已开启](https://discord.com/channels/1255984162004013066/1278139081603153940/1574552875151917176) | Legendary 25 与 Hidden 225 已迁移至 Ethereum，持有者需在官方 Modularium 领取；官方未给截止时间。
+
 ## 相关
 
 - [[Web3项目研究]]
