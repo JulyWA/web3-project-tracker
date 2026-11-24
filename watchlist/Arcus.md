@@ -102,3 +102,6 @@ dYdX 团队+Robinhood 分发，官方已确认未来 token，现货零费+perps 
 
 <!-- watchlist-slug: tweet:2123464697806819795 -->
 - 2026-11-20 | [Twitter] `tweet:2123464697806819795` | [ANT 永续上线，叠加 S1 积分加成与手续费优惠](https://x.com/arcus_xyz/status/2123464697806819795) | taker fee 降低 75%、maker 免佣并提升 S1 积分；属于积分型交易活动，存在积分非空投承诺、杠杆清算和地区限制风险
+
+<!-- watchlist-slug: blog:/blog/borrow-against-your-stock-tokens-on-arcus-now-powered-by-morpho -->
+- 2026-11-25 | [Blog] `blog:/blog/borrow-against-your-stock-tokens-on-arcus-now-powered-by-morpho` | [Morpho 借贷与 USDG Vault 开放](https://arcus.xyz/blog/borrow-against-your-stock-tokens-on-arcus-now-powered-by-morpho) | Stock Tokens 可作抵押借 USDG，USDG 也可存入策展的 Morpho Vault；双方利率随市场利用率变化，存在清算、合约和策展风险。
