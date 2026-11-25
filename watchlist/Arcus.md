@@ -105,3 +105,8 @@ dYdX 团队+Robinhood 分发，官方已确认未来 token，现货零费+perps 
 
 <!-- watchlist-slug: blog:/blog/borrow-against-your-stock-tokens-on-arcus-now-powered-by-morpho -->
 - 2026-11-25 | [Blog] `blog:/blog/borrow-against-your-stock-tokens-on-arcus-now-powered-by-morpho` | [Morpho 借贷与 USDG Vault 开放](https://arcus.xyz/blog/borrow-against-your-stock-tokens-on-arcus-now-powered-by-morpho) | Stock Tokens 可作抵押借 USDG，USDG 也可存入策展的 Morpho Vault；双方利率随市场利用率变化，存在清算、合约和策展风险。
+
+<!-- watchlist-slug: tweet:2125683405786591586 -->
+- 2026-11-26 | [Twitter] `tweet:2125683405786591586` | [Season 1 第 8 周发放 25 万积分](https://x.com/arcus_xyz/status/2125683405786591586) | 第 8 周分配 250,000 积分，可查看积分与排名；每周三 3PM ET 发放，积分未获代币承诺。
+<!-- watchlist-slug: discord:1575292508915892303 -->
+- 2026-11-26 | [Discord] `discord:1575292508915892303` | [Advanced 新增 Scale 与 Chase 订单](https://discord.com/channels/1499372212585627739/1499427697003204809/1575292508915892303) | Scale 可批量铺设 2–100 档限价单，Chase 自动改价但依赖浏览器标签页；两者均不支持 TP/SL。

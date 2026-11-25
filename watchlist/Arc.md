@@ -623,6 +623,9 @@ updated: 2026-09-24
 <!-- watchlist-slug: tweet:2123959585237311824 -->
 - 2026-11-23 | [Twitter] `tweet:2123959585237311824` | [Gauntlet 策展的 Earn Vault 开放早期访问](https://x.com/arc/status/2123959585237311824) | Arc Portal 开放 Gauntlet Earn Vault 早期访问；Veda 提供 vault 基础设施、Gauntlet 负责策略策展，起始策略接入 Morpho，开放日、额度、收益率和地区限制待披露
 
+<!-- watchlist-slug: tweet:2125726238115307631 -->
+- 2026-11-26 | [Twitter] `tweet:2125726238115307631` | [Zerion API 接入 Arc 应用开发](https://x.com/arc/status/2125726238115307631) | 开发者可接入 Zerion API 展示代币余额、交易历史与组合图表，无需自建索引；开放额度、费用和时效未披露。
+
 ## 相关
 
 - [[Web3项目研究]]

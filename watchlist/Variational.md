@@ -243,3 +243,6 @@ Omni Points 赛季继续按计划运行：每周约 15 万积分，截止不晚�
 
 <!-- watchlist-slug: discord:1573130833580003411 -->
 - 2026-11-23 | [Discord] `discord:1573130833580003411` | [Omni Points 第 49 周发放 150,000 积分](https://discord.com/channels/1196857788220067943/1196907421575164015/1573130833580003411) | 第 49 周分配 150,000 积分给 29,296 个账户；积分是参与度量，官方未承诺兑换 VAR 或对应空投
+
+<!-- watchlist-slug: tweet:2125620547841302869 -->
+- 2026-11-26 | [Twitter] `tweet:2125620547841302869` | [Omni API 测试网早访问开放](https://x.com/variational_io/status/2125620547841302869) | REST API 测试网早预览，支持脚本、Agent 与自动化策略试验；低速率限制，Trading API 尚未主网正式开放。
