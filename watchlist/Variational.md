@@ -246,3 +246,6 @@ Omni Points 赛季继续按计划运行：每周约 15 万积分，截止不晚�
 
 <!-- watchlist-slug: tweet:2125620547841302869 -->
 - 2026-11-26 | [Twitter] `tweet:2125620547841302869` | [Omni API 测试网早访问开放](https://x.com/variational_io/status/2125620547841302869) | REST API 测试网早预览，支持脚本、Agent 与自动化策略试验；低速率限制，Trading API 尚未主网正式开放。
+
+<!-- watchlist-slug: tweet:2126030975033606150 -->
+- 2026-11-27 | [Twitter] `tweet:2126030975033606150` | [Alibaba BABA 永续合约上线，零手续费、最高 20 倍杠杆](https://x.com/variational_io/status/2126030975033606150) | Omni 新增 BABA 永续市场；需关注保证金、资金费率、地区限制和高杠杆清算风险。
