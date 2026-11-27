@@ -1,5 +1,5 @@
 ---
-status: pre-watchlist
+status: rejected
 created: 2026-10-19
 ---
 
@@ -53,3 +53,5 @@ Spout Finance 是 Solana 上 tokenized US stocks 的 **0% 利息抵押借贷协�
 本周判断：P2 继续观察。探测显示官推 @spout_finance「用户不存在或已停用」（可用率 17%，池内最低），但 10-15 刚披露 $2M 战略轮（Solana Labs 战略背书），项目大概率仍在运营，更像换号或改名；需 July 确认官方新账号。产品仍在 devnet，无参与入口。
 
 来源：[Cryptorank 融资](https://cryptorank.io/insights/deals/spout-finance-strategic-2026-10-15)
+
+| 2026-11-27 | 取消关注 | rejected | 已确认退出观察池。测试网不赚积分，现有积分用于协议费返现。 |
